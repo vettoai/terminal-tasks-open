@@ -1,0 +1,10 @@
+survey_date: 2026-10-21
+technician: Gareth Owusu, cell metrology technician
+target: bolted table fiducial, target origin
+reference_frame: base_link
+origin_base_m: [0.991, 0.062, -0.357]
+position_uncertainty_m: 0.005
+measurement_note: >-
+  Point survey of the target origin, recorded to the nearest millimetre.
+  The uncertainty is a Euclidean distance in metres. The board remains bolted
+  to the table across camera acquisition groups.

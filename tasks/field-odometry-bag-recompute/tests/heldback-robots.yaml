@@ -1,0 +1,15 @@
+r4:
+  wheel_radius_m: 0.075
+  track_m: 0.51
+  ticks_per_rev: 16384
+  imu: vn100-63149
+r5:
+  wheel_radius_m: 0.088
+  track_m: 0.54
+  ticks_per_rev: 16384
+  imu: vn100-60872
+r6:
+  wheel_radius_m: 0.081
+  track_m: 0.50
+  ticks_per_rev: 16384
+  imu: vn100-65931

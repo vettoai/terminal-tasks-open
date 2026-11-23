@@ -1,0 +1,1276 @@
+@main
+Retain the coordinator epoch across a leader handoff | Issue: INFRA-6842
+Stop the queue drainer before closing its storage session
+Make the query cancellation token visible to remote operators
+Keep query statistics when an operator returns no rows
+Use the placement snapshot captured by the request | Reviewed-By: Nadia Okafor
+Release export buffers on a client disconnect
+Carry the admission deadline into the worker RPC
+Read the manifest generation before opening segment readers
+Schedule compaction after the last index writer exits | Issue: STORAGE-5904
+Fold constant expressions before estimating join cardinality
+Account for nullable columns in the row width estimate | Issue: QUERY-2718
+Keep per-tenant tracing tags on redirected requests
+Move retry accounting out of the RPC callback
+Wait for lease revocation before announcing shard ownership
+Cancel the heartbeat timer when a stream closes
+Avoid holding the metadata lock during catalog refresh
+Defer the first poll until the replica has opened its WAL
+Return the original error when rollback also fails
+Use the request allocator for predicate scratch space
+Copy the routing epoch into buffered write batches
+Drain pending acknowledgements before releasing a connection
+Reject an index manifest from an older schema generation
+Reopen the checkpoint reader after failover
+Keep partial scan metrics on deadline expiry
+Add tenant attribution to spilled hash-join partitions
+Read the committed offset when resuming an export
+Drop the session reference after the final audit flush
+Retry catalog reads on leader redirection
+Use the shard key codec for range boundary comparisons
+Keep ownership watches alive while a worker drains
+Include the final batch in the ingestion watermark
+Leave the query deadline unchanged on a retry
+Dispatch metadata refreshes outside the writer critical section
+Propagate cancellation through the aggregation pipeline
+Use the allocator's retained-byte counter for admission
+Fix the row estimate for a filtered outer join
+Recheck the lease epoch after opening a segment
+Attach the source region to replication failure events
+Keep the last acknowledged cursor when a reader reconnects
+Wake the scheduler after freeing a tenant slot
+Bound the fanout of a catalog invalidation
+Wait for response trailers before recycling the RPC stream
+Set the transaction timestamp before allocating a write batch
+Close the bootstrap snapshot when the replica catches up
+Preserve the operator name in remote execution errors
+Avoid publishing an empty shard map during refresh
+Use monotonic durations in the lease renewer
+Check the manifest version before deleting obsolete files
+Flush the audit sink before closing the request scope
+Reschedule a tenant after its budget window rolls over
+Keep the tenant key with queued schema jobs
+Move index-reader cleanup to the query completion path
+Mark an export complete after its last chunk is durable
+Rebuild the range cache after a partition split
+Carry the retry reason into the request span
+Release the coordinator latch before waiting for replicas
+Retain cancellation state when migrating a stream
+Handle an empty final page in the metadata walker
+Wake the ingest queue after a lease is reacquired
+Use the catalog snapshot's collation for string comparisons
+Include merge CPU time in query accounting
+Preserve RPC status details on a region redirect
+Keep the original actor on asynchronous audit records
+Track the memory retained by deferred expression evaluation
+Close stale segment readers after a schema reload
+Recheck shard assignment before accepting a write
+Use the durable cursor as the export resume point
+Stop renewing leases after the coordinator shuts down
+Avoid a duplicate final response after cancellation
+Pass the transaction generation through the write pipeline
+Bound the bytes held by an inactive result stream
+Keep poller backoff local to its replica
+Read feature flags from the pinned request snapshot
+Release an admission token if task scheduling fails
+Reject duplicate field numbers in storage descriptors
+Log the requested and observed catalog epochs on retries
+Remove the obsolete planner allocator shim
+Use the stream deadline for remote exchange reads
+Delay index retirement until readers leave the old epoch
+Preserve the client request id on queued work
+Report disk spill time separately from scan time
+Do not recycle a request scope with outstanding callbacks
+Retain segment checksums in the compaction manifest
+Flush lease events before unregistering the worker
+Snapshot the queue length before notifying the scheduler
+Return the last committed token after a failed refresh
+Pass shard ownership into the ingestion acknowledgement
+Make the catalog reader tolerant of deleted namespaces
+Restore trace links when resuming a suspended query
+Avoid copying the same predicate into every scan task
+Wait for allocator cleanup before releasing query admission
+Use the planner's normalized key for expression caching
+Track late replica acknowledgements after a region timeout
+Discard incomplete catalog pages on reconnect
+Keep the scheduler's active tenant count consistent on cancel
+Close the response compressor after writing the footer
+Refresh the shard map after a lease-conflict response
+Pass the selected region to the audit serializer
+Give checkpoint cleanup its own storage transaction
+Move cursor persistence before success notification
+@release
+Promote the cursor persistence change to regional workers
+Include the lease cleanup fix in the worker bundle
+Pick the index ownership handoff patch
+Roll back the range-cache refresh change
+Restore the tenant budget patch after the drain completes
+Promote the audit attribution fix to the release line
+Carry the query cancellation fix into the regional build
+Publish the routing epoch change with its codec update
+Revert the speculative planner allocation optimization
+Pick the schema reader compatibility fix
+Refresh the storage protocol bindings
+Ship the response compressor cleanup
+Apply the replica acknowledgement timeout fix
+Bring in the export resume-token correction
+Pick the shard-map refresh fix for regional readers
+Promote the ingestion watermark correction
+Revert the catalog-refresh batching change
+Restore the request-scope cleanup patch
+Update the regional manifest reader
+Include the lease epoch check in the worker release
+Regenerate the regional deployment manifest
+@graph
+Retain edge labels while folding duplicate traversals
+Treat an empty adjacency list as a completed read
+Keep vertex ownership with the graph partition snapshot
+Use the edge direction when caching traversal plans
+Release neighbor-page buffers after a cancelled expansion
+Count filtered edges in traversal diagnostics
+Avoid revisiting a vertex through a self-loop
+Keep graph cursor state across an exchange reconnect
+Read the vertex schema from the query snapshot
+Preserve null properties in projected edge records
+Move frontier deduplication before remote dispatch
+Close graph readers when a traversal reaches its limit
+Use stable vertex keys for cross-partition joins
+@index
+Keep the pending cursor when index ownership changes | Issue: INDEX-4173
+Publish the index generation after its manifest is durable
+Drop retired index readers after the last scan completes
+Use the same collation in index probes and scan filters
+Retain tombstones until the replacement index is visible
+Close the build cursor when a shard moves
+Account for buffered keys in index-builder memory
+Retry ownership acquisition after a stale lease reply
+Expose the current index generation in scan metrics
+Avoid reopening index segments during a catalog refresh
+Keep null keys in the secondary-index merge
+Read the shard epoch before committing an index batch
+Make an empty index build publish a valid manifest
+@retry
+Keep the first request deadline across reconnects
+Release the lease reference after the retry window closes
+Do not resend a batch after its acknowledgement arrives
+Carry tenant scope through the retry scheduler
+Keep the remote status details on the last failure
+Cancel retry timers when the request scope closes
+Reset jitter after a successful connection
+Preserve the idempotency key on redirected writes
+Use the remaining deadline for each backoff delay
+Count attempts before scheduling the next transmission
+Stop a draining worker from acquiring retry leases
+Remember cancellation during connection establishment
+Avoid retrying a rejected schema generation
+@cache
+Charge retained cache buffers to the tenant budget | Issue: CACHE-1947
+Keep negative entries until their catalog epoch expires
+Drop cached manifests after a partition split
+Avoid refreshing the same key from two worker threads
+Release the entry latch before loading segment metadata
+Count pinned entries in cache-pressure metrics
+Use the request's schema generation in lookup keys
+Keep an entry alive until the asynchronous reader finishes
+Purge range entries on shard reassignment
+Bound the number of deferred cache evictions
+Do not cache a truncated metadata response
+Retain the original expiry on a failed refresh
+Skip cache insertion for cancelled requests
+@locale
+Keep the requested locale when resolving a fallback
+Use the catalog collation in prefix-range planning
+Preserve combining marks during token boundary detection
+Handle a missing regional dictionary without dropping the query
+Carry language tags through remote expression evaluation
+Do not normalize binary comparison operands
+Keep locale-specific sort keys with spilled rows
+Decode the final UTF-8 code point before advancing the cursor
+Apply case folding before the index prefix bound
+Separate absent translations from empty strings
+Retain the source locale in audit search records
+Use the query snapshot's dictionary generation
+Close dictionary readers after planner cancellation
+@planner
+Include retained hash tables in the join memory estimate | Issue: QUERY-2936
+Keep scalar subquery cardinality after predicate pushdown
+Use observed row widths for spill planning
+Do not reorder a volatile predicate across an aggregation
+Preserve nullability on an outer-join projection
+Release expression arenas when planning is cancelled
+Estimate the build side after partition pruning
+Keep source locations in normalized expressions
+Use the filtered row count when costing an index join
+Avoid duplicating correlated predicates in nested scans
+Pass the tenant spill policy to join selection
+Fold constant range bounds before shard pruning
+Keep the selected collation on comparison expressions
+@search
+Preserve the continuation token after an empty result page
+Use the analyzer generation from the search snapshot
+Count discarded candidates in ranking metrics
+Keep field boosts with a cached query plan
+Close posting-list readers on deadline expiry
+Avoid loading term positions for a count-only query
+Apply tenant filters before top-k collection
+Retain exact scores when merging regional results
+Handle deleted documents during phrase expansion
+Do not reuse an analyzer across incompatible schemas
+Keep the last acknowledged search cursor on reconnect
+Normalize range endpoints before index selection
+Release candidate buffers after the final response
+@audit
+Keep the initiating actor on replayed audit events | Reviewed-By: Eli Navarro
+Flush the final request record before closing its sink
+Carry the region label into asynchronous audit batches
+Redact token material from authorization failure details
+Retain source timestamps when retrying a delivery
+Separate a missing actor from the service account
+Use the request's policy version in access records
+Close audit spans on query cancellation
+Preserve parent trace ids across queue handoffs
+Record schema changes with their transaction generation
+Avoid duplicate completion events after reconnect
+Keep export attribution on the final page
+Bound pending audit batches during a sink outage
+@routing
+Pin the routing epoch until the request completes
+Invalidate range hints after a partition split
+Wait for the previous owner before publishing a handoff
+Keep a regional redirect within the tenant's placement policy
+Use the shard-map generation in connection-cache keys
+Retry a stale route after refreshing the catalog
+Retain the selected replica for a streaming response
+Drop redirects that point back to the same owner
+Read placement hints from the request snapshot
+Propagate cancellation to redirected RPCs
+Keep the original request id during a region handoff
+Do not advertise a worker until its leases are ready
+Account for drained routes in worker metrics
+@leases
+Cancel lease renewal when the owner starts draining
+Keep the epoch check next to the shard assignment read
+Drop expired lease references during retry cleanup
+Wait for revocation before releasing segment handles | Issue: STORAGE-6039
+Use monotonic time for renewal intervals
+Preserve ownership watches through a catalog refresh
+Expose the lease holder in contention diagnostics
+Avoid renewing a lease after coordinator shutdown
+Wake the poller after an ownership notification
+Close stale lease sessions on connection loss
+Do not publish ownership before storage opens successfully
+Keep the final renewal error with the handoff event
+Unregister the callback before freeing a lease scope
+@schema
+Read column defaults from the pinned catalog snapshot
+Keep retired field numbers reserved in storage descriptors
+Reject an index built against an incompatible schema
+Carry schema generation into buffered writes
+Release descriptor readers after a namespace is deleted
+Preserve nullability when widening a projected column
+Keep migration jobs attached to their tenant scope
+Retry a catalog page after leader redirection
+Do not publish a partially decoded descriptor
+Use the transaction generation when applying a migration
+Make empty namespace listings resume correctly
+Invalidate prepared plans after a collation change
+Keep ownership metadata in copied index definitions
+@billing
+Charge spilled query buffers to the initiating tenant
+Close a budget window before publishing its totals
+Keep retry costs attached to the original request
+Avoid double accounting for retained response buffers
+Use the admitted policy when reporting query usage
+Preserve regional currency tags in export records
+Count cancelled operators in CPU accounting
+Flush pending usage before releasing a tenant scope
+Treat an absent quota as a policy error
+Wake admission queues when a budget window expires
+Keep final byte counts after a client disconnect
+Separate disk spill charges from persistent storage usage
+Retain transaction attribution through asynchronous delivery
+@ingest
+Advance the watermark after the final batch is durable
+Retain tenant scope while an ingestion batch is queued
+Wait for index acknowledgement before releasing source buffers
+Use the shard epoch in ingestion checkpoint records
+Stop the source poller when its lease is revoked
+Keep the last committed offset after a failed batch
+Apply schema defaults before partition routing
+Bound memory held by paused ingestion streams
+Do not acknowledge a truncated source message
+Restore source trace links when replaying a batch
+Flush pending acknowledgements before closing the stream
+Keep backpressure local to the affected tenant
+Reject duplicate field numbers in decoded input rows
+@cursor
+Persist the cursor before notifying the export client | Issue: EXPORT-2861
+Read the durable offset when resuming a stream
+Keep the cursor generation across worker handoffs
+Do not advance a cursor past an uncommitted index batch
+Release cursor storage sessions after cancellation
+Retain the final page token on an empty response
+Use the source shard key in cursor checkpoints
+Invalidate cursors from retired schema generations
+Keep the last acknowledgement when reconnecting a reader
+Close orphaned cursor leases after a session expires
+Flush cursor updates before retiring an owner
+Preserve tenant attribution in copied cursor records
+Handle a deleted source partition during resume
+@exports
+Stream export chunks without buffering the full response
+Mark an export complete after its footer is durable
+Keep the resume token on the last response page
+Close the compressor after client cancellation
+Count final bytes before releasing the export scope
+Preserve tenant placement when an export worker moves
+Use the query deadline for remote chunk reads
+Retry a storage redirect without resetting the cursor
+Retain field ordering in the exported schema
+Avoid emitting a second completion event on reconnect
+Read the manifest generation before opening export segments
+Release pinned cache entries after the final chunk
+Do not publish partially uploaded export objects
+@tokens
+Retain the request token across a regional redirect
+Redact refresh credentials from failure logs
+Check token expiry before opening a storage session
+Use the admitted tenant scope when renewing credentials
+Keep the original actor on delegated requests
+Drop cached tokens after a policy generation changes
+Serialize refresh attempts for the same service identity
+Cancel a pending refresh when the session closes
+Preserve audience claims during token exchange
+Reject a response with a missing signature key id
+Avoid retrying a revoked refresh credential
+Keep the last successful token until replacement is durable
+Separate absent scopes from an empty scope list
+@maintenance
+Regenerate storage protocol bindings
+Refresh the checked-in catalog schema snapshot
+Update generated RPC client stubs
+Refresh the worker dependency lockfile
+Regenerate operator metric descriptors
+Refresh the regional deployment manifest
+Update the checked-in Unicode tables
+Regenerate query-plan serialization bindings
+Refresh the service API compatibility snapshot
+Update the generated audit event schema
+Regenerate the storage error-code registry
+Refresh the index format compatibility fixtures
+@main
+Keep a worker's draining flag with its registration epoch
+Read back the storage generation after committing metadata
+Wake blocked readers when a replica loses leadership
+Do not retain request buffers after an exchange closes
+Use the catalog snapshot for partition-key decoding
+Add the lease epoch to scan retry diagnostics
+Persist the final offset before acknowledging an ingestion drain
+Preserve operator labels in asynchronous query statistics
+Keep the response footer after the last compressed chunk
+Skip retired replicas when choosing an export reader
+Wait for shard registration before accepting poll requests
+Report the original storage status on a failed commit
+Hold the query scope until all remote exchanges finish
+Use the projected schema when estimating batch sizes
+Drop stale region hints after a worker restarts
+Move cache eviction callbacks outside the entry lock
+Retain nullable key types in merge-join planning
+Use the admission snapshot in queued request spans
+Keep a retry's cancellation reason after disconnect
+Resolve the index generation before opening posting lists
+Close schema watches when the namespace scope exits
+Bound the number of concurrent metadata page fetches
+Keep the request timestamp on replayed writes
+Wait for write acknowledgements before moving the checkpoint
+Pass the selected storage tier into export planning
+Make lease cleanup idempotent after a failed handoff
+Use the row codec's ordering for composite range bounds
+Keep replicas registered until their final heartbeat flush
+Include cancelled batches in ingestion latency metrics
+Release hash-join partitions after the last probe task
+Persist the source partition with an export cursor
+Stop background refresh after a connection pool closes
+Preserve catalog error details on transaction abort
+Keep the query's timezone on normalized date expressions
+Use the coordinator epoch when cancelling a remote task
+Return an empty cursor page without reopening storage
+Drain lease callbacks before destroying the registry
+Keep the source sequence number on retried ingestion events
+Invalidate result-cache entries after a policy reload
+Retain the original deadline when a catalog request redirects
+Count pinned manifest bytes in allocator diagnostics
+Wait for the previous writer before retiring a segment
+Use the schema snapshot's key encoder in shuffle routing
+Keep the tenant id on queued compaction jobs
+Close an RPC stream if header decoding fails
+Carry the owning region into lease-conflict responses
+Preserve row order when merging an empty exchange
+Leave audit batches queued until their sink acknowledges
+Recheck namespace existence after a catalog refresh
+Propagate storage cancellation to outstanding range reads
+Retain the last committed export manifest on a failed retry
+Use the policy's retained-byte limit for query admission
+Stop the exchange reader when its parent operator exits
+Keep the index build epoch in checkpoint metadata
+Wait for the final cursor flush before moving shard ownership
+Avoid scheduling a refresh after its lease has expired
+Use the source schema for ingestion error records
+Report queue delay separately from remote execution time
+Preserve the actor chain in delegated audit events
+Drop expired region redirects from the connection cache
+Carry the shard generation into the write acknowledgement
+Keep the planner arena alive while rendering explain output
+Check the catalog epoch before publishing a refreshed route
+Release response encoders after writing error trailers
+Use the final storage offset in ingestion completion events
+Avoid holding an admission token during metadata backoff
+Retain the index root until all range probes finish
+Keep the stream generation when resuming a remote exchange
+Record aborted schema changes with their transaction id
+Wait for descriptor readers before dropping a namespace
+Pass the query's spill directory into remote hash joins
+Preserve cancellation across an ownership redirect
+Keep the previous page token until decoding succeeds
+Use the committed manifest when listing export chunks
+Close idle metadata sessions during coordinator shutdown
+Retain route diagnostics on the final RPC failure
+Read the source watermark after draining buffered writes
+Give lease revocation callbacks the worker epoch
+Keep tenant accounting attached to deferred cleanup tasks
+Reject a checkpoint from an incompatible source generation
+Move schema decoding out of the catalog connection lock
+Do not publish a partially constructed range map
+Use the current placement policy when retrying admission
+Retain the remote operator id on exchange errors
+Release the index-build budget if scheduling fails
+Keep the last valid manifest after a refresh error
+Add the catalog generation to stream resume metadata
+Wait for the ingestion writer before closing its allocator
+Use the original actor for asynchronous authorization records
+Preserve partition boundaries when coalescing scan ranges
+Keep cancelled tasks out of the worker-ready queue
+Advance the checkpoint after flushing all index writers
+Do not reuse a connection after an incomplete response
+Report retained bytes for dormant exchange readers
+Use the request's collation when decoding spilled keys
+Keep schema-change retries in their original audit scope
+Stop source polling before releasing the ingestion lease
+Pass shard placement into remote exchange setup
+Close the metadata iterator when a namespace is dropped
+Retain the response status while draining error payloads
+Use the source epoch when reopening an export cursor
+Wait for cache readers before retiring a manifest generation
+Keep a failed lease renewal from extending the local deadline
+Include writer-drain time in checkpoint latency
+Preserve tenant labels when query tasks move between workers
+Drop planner estimates from an incompatible schema snapshot
+Release remote handles after a client cancels its export
+Keep the admission decision on a retried coordinator request
+Use the worker epoch when unregistering shard ownership
+Close audit serializers after a failed sink flush
+Retain the final batch count in cancelled-query diagnostics
+Read the catalog's region map before opening shard sessions
+Avoid dispatching an exchange after its parent is cancelled
+Keep cursor storage failures attached to the original request
+Use the manifest's format version when decoding index keys
+Stop lease timers before closing the metadata client
+Flush the last ownership event before advertising a drain
+Preserve the source trace id in ingestion retries
+Keep a query's policy generation with its spill partitions
+Use the same null ordering in index and table scans
+Wait for cancellation acknowledgements before recycling tasks
+Return durable cursor state after a regional handoff
+Drop cache entries that refer to retired namespace ids
+Keep deferred write failures visible to the transaction owner
+Use the coordinator snapshot for replica eligibility checks
+Read the ingestion epoch before applying a resumed batch
+Close range probes when an exchange sends its end marker
+Preserve the routing reason in forwarded RPC diagnostics
+Wait for the final source acknowledgement before reporting a drain
+Retain index-reader statistics after a plan is cancelled
+Stop export retries when the destination namespace is gone
+Keep the admission lease until query cleanup finishes
+Use the persisted schema generation when resuming migrations
+Record the final region choice in authorization audit events
+Release buffered shuffle rows after an upstream failure
+Keep the source partition key in checkpoint error messages
+Do not advertise an index until its readers can open it
+Use the local worker generation in heartbeat replies
+Retain the previous routing snapshot during an empty refresh
+Close the query allocator after all cleanup callbacks return
+Preserve source offsets in ingestion dead-letter records
+Keep the remote status code when an exchange fails to close
+Read the pinned policy before evaluating row filters
+Stop lease acquisition when the namespace starts draining
+Use the selected collation in partition pruning
+Wait for export footer acknowledgement before releasing storage
+Keep the initiating actor when a schema job retries
+Drop stale index descriptors from prepared query plans
+Retain the scan cursor after a retryable storage error
+Use the region-local catalog endpoint for lease refresh
+Keep request metrics after the final response is cancelled
+Release tenant spill reservations after failed planning
+Close the cursor writer when an ownership handoff aborts
+Preserve the original queue timestamp through admission retries
+Do not renew leases held by an unregistered coordinator
+Read the source manifest after validating its generation
+Keep the query error visible while response cleanup runs
+Use stable field ids in exported schema metadata
+Wait for the write pipeline before persisting its watermark
+Retain the local policy decision on redirected scan requests
+Drop duplicate completion callbacks from remote exchanges
+Keep the previous owner in shard handoff diagnostics
+Close segment readers before deleting retired manifests
+Use the committed namespace epoch in migration events
+Preserve null bitmap offsets when projecting compact rows
+Stop audit retries after the request sink is closed
+Retain the final cursor token during compressor cleanup
+Keep regional budget tags on background export work
+Use the lease holder's generation when rejecting writes
+Wait for metadata refresh before retrying a stale index probe
+Close the source reader after its checkpoint flush completes
+Preserve the transaction id on deferred index acknowledgements
+Keep routing hints out of persisted query plans
+Use the query scope for remote response decompression buffers
+Do not advance ingestion offsets after a failed index commit
+Retain namespace ownership until migration cleanup finishes
+Read lease state before serving a cached range map
+Keep the last successful audit sequence on sink reconnect
+Wait for the scheduler to retire cancelled worker tasks
+Use the original schema snapshot for retried range scans
+Close manifest readers after a failed catalog redirect
+Preserve the tenant's storage policy in export retries
+Stop metadata prefetch when the query reaches its limit
+Keep the ownership deadline on rejected lease renewals
+Use the response generation when acknowledging exchange pages
+Retain the final source record in ingestion error diagnostics
+Move audit serialization after authorization scope creation
+Keep the planner's null semantics on generated predicates
+Wait for outstanding RPC callbacks before closing a worker
+Read the durable cursor before accepting a resumed export
+Close the namespace watcher when its lease is revoked
+Preserve cancellation details on shard reassignment errors
+Use the selected tenant budget for background index builds
+Keep schema metadata pinned while a cursor page is decoded
+Stop scheduler retries once the query owner has exited
+Retain the source region in delayed replication acknowledgements
+Wait for the last route watch before releasing its catalog scope
+Use the admitted query generation in spill metadata
+Keep the previous manifest visible during a failed replacement
+Close export sinks after flushing response trailers
+Preserve source offsets through ingestion schema conversion
+Read worker placement from the same snapshot as its lease
+Retain ownership errors when retrying remote scans
+Keep the request scope alive until audit completion
+Do not publish cursor updates before their storage commit
+Use the tenant's configured codec for persisted range keys
+Wait for index cleanup before releasing shard admission
+Close pending response encoders on coordinator shutdown
+Keep the original query id in redirected worker requests
+Retain the last good schema when a catalog page is malformed
+Use the committed source epoch for ingestion resume tokens
+Stop background lease checks after the registry closes
+Preserve regional placement in suspended query state
+Keep response byte counts after the client goes away
+Read the storage generation before retrying a cursor write
+Close remote query handles after the final exchange drains
+Use the namespace epoch when invalidating cached plans
+Retain audit attribution on deferred transaction failures
+Keep the source poller's deadline during ownership transfer
+Wait for the catalog reader before retiring schema descriptors
+Do not reuse an export token from another tenant scope
+Preserve null ordering when rewriting an index range predicate
+Use the current ownership epoch when scheduling compaction
+Close query-budget scopes after the last spill file is removed
+Keep the previous checkpoint until the new index generation opens
+Retain RPC error details when lease cleanup also fails
+Stop regional retries when the request's placement policy changes
+Read the committed offset before reporting ingestion progress
+Use the original request identity for cursor cleanup events
+Keep range-cache readers attached to their manifest generation
+Wait for export storage cleanup before unregistering its lease
+Preserve query cancellation through catalog refresh callbacks
+@release
+Pick the exchange-reader cancellation correction
+Include the manifest retirement guard in the worker bundle
+Promote the durable export cursor fix
+Carry the audit sink reconnect patch into regional workers
+Revert the metadata prefetch batching change
+Pick the shard-registration readiness fix
+Include the query-budget cleanup correction
+Publish the updated range-key codec
+Restore the namespace watcher cleanup patch
+Pick the final ingestion acknowledgement fix
+Promote the manifest checksum validation change
+Carry the tenant spill accounting patch
+Revert the speculative region-hint cache optimization
+Include the descriptor retirement correction
+Pick the delayed replica acknowledgement fix
+Promote the source epoch resume-token change
+Restore the query cancellation propagation patch
+Pick the regional catalog redirect correction
+Include the export footer durability fix
+Publish the storage schema compatibility update
+Carry the shard ownership drain fix
+Pick the allocator cleanup ordering correction
+Promote the final audit flush patch
+Revert the connection recycling change
+Restore the request timestamp preservation fix
+Include the planner nullability correction
+Pick the cursor writer reconnect patch
+Promote the ingestion lease shutdown guard
+Carry the remote status preservation fix
+Publish the revised worker protocol bindings
+Pick the index-generation readiness correction
+Restore the route-watch cleanup patch
+Include the namespace epoch invalidation fix
+Promote the response trailer cleanup change
+Carry the request-scope attribution patch
+Pick the cache-manifest retirement guard
+Publish the updated storage error registry
+Include the query deadline propagation fix
+Restore the regional budget accounting correction
+Pick the source checkpoint commit-order patch
+@graph
+Keep edge property schemas pinned during traversal
+Decode vertex ids before applying partition filters
+Release the frontier allocator after the last expansion
+Retain direction flags in cached adjacency probes
+Handle a deleted vertex during a remote edge scan
+Use the traversal scope for neighbor-page allocations
+Preserve graph cursor tokens across shard moves
+Avoid materializing edge properties for count-only traversals
+Keep graph partition epochs in expansion requests
+Stop remote graph reads when the result limit is reached
+Track spilled frontier bytes in query accounting
+Close adjacency iterators after predicate evaluation fails
+@index
+Retain the builder epoch through index manifest publication
+Wait for pending probes before retiring an index root
+Keep the source cursor after a cancelled ownership transfer
+Use the table schema generation in secondary-index metadata
+Close orphaned index writers after a lease expires
+Preserve composite-key null ordering in range probes
+Do not publish an index after its namespace is deleted
+Record the durable build offset before notifying the coordinator
+Release the index build budget on a storage failure
+Keep old manifests visible until replacement readers open
+Read ownership state before resuming a stalled build
+Carry the original tenant scope through index cleanup
+@retry
+Keep the last remote error when a reconnect also fails
+Do not reset the admission deadline after a region redirect
+Carry idempotency metadata into queued retry batches
+Release retained request bodies after the final attempt
+Stop retry dispatch when shard ownership is revoked
+Keep jitter state local to the request scope
+Use the connection generation in retry diagnostics
+Cancel backoff waits when the query reaches its limit
+Preserve actor attribution on retried metadata writes
+Count the final transmission before reporting exhaustion
+Avoid retaining a closed stream in the retry queue
+Read the current placement policy before retrying admission
+@cache
+Invalidate cached range bounds after a collation change
+Keep manifest readers alive during asynchronous eviction
+Use the admitted tenant policy for cache byte accounting
+Do not refresh entries owned by a retired namespace
+Preserve the original load error when eviction also fails
+Release cache pins before closing the query allocator
+Keep the storage generation in negative-lookup keys
+Bound pending refresh work for an overloaded tenant
+Drop stale route entries after a worker unregisters
+Read the committed index generation before cache insertion
+Stop catalog refresh callbacks after the cache closes
+Carry request cancellation into deferred cache loads
+@locale
+Preserve locale tags in exported schema metadata
+Use the selected dictionary generation during query replay
+Keep normalized prefix bounds with the index plan
+Release collation readers after expression evaluation fails
+Do not reuse case-folding buffers across tenant scopes
+Handle split UTF-8 sequences in streamed search input
+Keep language fallback order in serialized plans
+Read sort-key widths before allocating spill rows
+Separate dictionary lookup failures from absent translations
+Preserve the source locale on redirected search requests
+Close regional dictionary sessions during worker drain
+Keep collation diagnostics on an index comparison error
+@planner
+Retain correlated field ids during projection pruning
+Use the admitted spill policy when estimating join costs
+Keep null filters on the correct side of an outer join
+Close planner scratch arenas after explain rendering fails
+Account for retained exchange buffers in plan admission
+Preserve source locations through constant expression folding
+Do not cache a plan across incompatible collation epochs
+Use observed selectivity after partition pruning
+Keep stable operator ids in remote execution plans
+Release precomputed hash keys when planning is cancelled
+Read the pinned schema before normalizing column references
+Retain query deadlines on deferred planning work
+@search
+Keep the last ranking cursor after a regional redirect
+Release term-position readers when phrase evaluation stops
+Use the document schema snapshot for field expansion
+Do not cache a partial response from an interrupted search
+Carry tenant filters into remote candidate collection
+Preserve analyzer offsets in search diagnostics
+Close ranking allocators after the last result page
+Keep the original query identity on resumed searches
+Use the index generation in posting-list cache keys
+Retain null fields in projected search documents
+Stop candidate prefetch after client cancellation
+Read the selected collation before evaluating prefix queries
+@audit
+Preserve policy generations on delayed access records
+Keep the final export actor on background cleanup events
+Do not serialize token contents in retry diagnostics
+Release audit batch buffers after sink acknowledgement
+Carry the originating region through delegated writes
+Retain the source timestamp when an audit queue drains
+Close per-request audit sinks after cancellation
+Use the original transaction id on asynchronous failures
+Keep schema migration attribution across ownership changes
+Stop delivery retries after an audit scope expires
+Read the admitted policy before rendering access details
+Preserve trace links when replaying buffered audit records
+@routing
+Keep the selected route until a streamed response finishes
+Read the namespace epoch before accepting a cached redirect
+Close route watches before unregistering a worker
+Preserve tenant placement rules across catalog redirects
+Do not publish range hints from a stale schema snapshot
+Use the lease generation when rejecting an old owner
+Retain the region choice in delayed RPC diagnostics
+Stop redirect retries after a request deadline expires
+Carry shard ownership through queued exchange setup
+Release routing snapshots after the final callback
+Keep the previous shard map during a failed refresh
+Use stable range keys when coalescing route entries
+@leases
+Retain the last revocation reason during ownership cleanup
+Keep the renewal deadline with the lease holder
+Do not acquire a lease for a draining namespace
+Close ownership watches after a failed registration
+Use the worker generation in lease heartbeat records
+Preserve tenant scope while a lease callback is queued
+Stop retries after the owner loses its storage session
+Release segment pins before acknowledging revocation
+Keep handoff metrics after the old coordinator exits
+Read the current catalog epoch before renewing ownership
+Retain the previous owner in failed handoff events
+Cancel renewal waits when a worker unregisters
+@schema
+Keep descriptor readers pinned through query normalization
+Use stable field ids when copying index definitions
+Do not publish migrations after their namespace is dropped
+Preserve default expressions during nullable-column widening
+Close catalog iterators after a leader redirect
+Retain transaction attribution on queued schema jobs
+Read the committed generation before invalidating plans
+Keep retired descriptors until cursor readers finish
+Stop migration retries after ownership is revoked
+Use the request snapshot for collation metadata
+Release schema job budgets after planning fails
+Carry namespace epochs into storage compatibility checks
+@billing
+Keep the admitted quota generation in delayed usage records
+Use final response byte counts after client cancellation
+Do not charge a retried batch twice after reconnect
+Preserve the tenant key during asynchronous usage delivery
+Release retained-memory reservations after query cleanup
+Close usage windows before scheduling the next tenant
+Keep disk spill charges separate from storage retention
+Read the request's region policy before calculating usage
+Stop budget refresh callbacks after a tenant scope closes
+Retain operator CPU counters on partial query failures
+Carry original transaction ids into billing audit events
+Use committed ingestion offsets in source usage totals
+@ingest
+Keep source generation tags on replayed batches
+Wait for the final index writer before acknowledging a drain
+Do not advance watermarks after a failed catalog refresh
+Preserve source offsets during schema conversion
+Close buffered ingestion streams after ownership revocation
+Use the shard snapshot captured by the source poller
+Retain the last durable checkpoint on reconnect
+Release admission tokens when batch scheduling fails
+Keep request trace links in dead-letter records
+Stop metadata prefetch after the ingestion lease expires
+Read the committed offset before reporting source progress
+Carry tenant attribution through deferred batch cleanup
+@cursor
+Keep resume metadata with its source generation
+Wait for storage acknowledgement before advancing the token
+Do not retain cursor sessions after a namespace is deleted
+Preserve the last page boundary during ownership transfer
+Use the admitted tenant policy in cursor cleanup
+Close checkpoint writers when source polling stops
+Retain the original storage error on a failed cursor flush
+Keep shard epochs in persisted resume records
+Release cursor buffers after an export is cancelled
+Read the committed index generation when reopening a cursor
+Stop cleanup retries after the lease registry closes
+Carry the original request identity into cursor audit events
+@exports
+Keep the final schema footer after compressor shutdown
+Read durable cursor state before accepting a resume token
+Do not retry uploads after the destination namespace closes
+Preserve storage placement across export worker handoffs
+Close chunk readers after the client reaches its row limit
+Retain source trace links on asynchronous export failures
+Use stable field ids in exported metadata
+Release the tenant spill budget after the final chunk
+Keep the last good manifest after an upload retry fails
+Stop range prefetch when the export owner exits
+Wait for storage cleanup before unregistering the export lease
+Carry the original actor into background export completion
+@tokens
+Keep the original audience during regional token exchange
+Read policy generations before reusing cached credentials
+Do not renew tokens after their service scope is revoked
+Preserve authorization error details without logging secrets
+Close refresh callbacks when the owning session exits
+Retain the last valid token during a retryable provider error
+Use stable actor ids in delegated access records
+Keep tenant scopes attached to queued refresh requests
+Stop credential retries after the request deadline expires
+Release token cache entries when policy watches close
+Read signature-key generations from the pinned policy
+Carry the initiating identity through asynchronous token cleanup
+@release
+Wait for AP catalog followers before enabling the new index reader | Release: ap-storage
+Keep the EU manifest generation with the canary promotion
+Restore the storage worker image after a lease-renewal regression
+Carry the approved routing table into the regional bundle
+Revert the cursor codec while old readers drain
+Publish the query scheduler fix with its matching protocol descriptor
+Pin the AP bootstrap catalog during the storage handoff
+Leave the EU read pool on the approved admission policy
+Promote the lease cleanup after the regional drain completes
+Include the metadata watcher fix in the recovery bundle
+Roll back the planner cache change without replacing the catalog
+Bring back cursor persistence after the WAL reader repair
+Keep the regional spill policy when promoting worker images
+Bundle the audit sink fix with its queue configuration
+Restore the AP retry window used by ingestion workers
+Select the signed EU schema snapshot for the canary
+Promote storage cleanup without changing token exchange policy
+Revert the ingestion watermark update on the lagging region
+Carry the reviewed cancellation fix into the release branch
+Wait for AP metadata convergence before widening traffic
+Keep the regional catalog reader on the committed generation
+Restore the worker drain hook before the next promotion
+Pick the lease heartbeat fix for the EU batch pool
+Leave cursor readers pinned while applying the storage bundle
+Promote the query deadline fix with its RPC timeout defaults
+Revert the admission estimator on the export pool
+Include the index ownership repair in the AP recovery image
+Keep regional audit retention when restoring the prior image
+Promote the reviewed planner statistics change
+Roll back the range router while retaining placement metadata
+Carry the token audience fix into the EU worker bundle
+Restore the catalog lease timeout after the drain
+Pick the shard-map handoff fix for regional coordinators
+Keep the export compressor settings with the approved image
+Promote the schema compatibility guard after follower catch-up
+Revert the cursor cleanup timer on AP workers
+Include the tenant attribution repair in the regional query image
+Preserve the reviewed storage protocol during repromotion
+Wait for the EU checkpoint reader to open before routing traffic
+Restore the regional manifest after the catalog refresh stalls
+Pick the index lock ordering change for the storage pool
+Promote the ingestion retry fix after source leases expire
+Keep the regional quota snapshot across a worker image rollback
+Revert the query exchange prefetch while remote readers drain
+Include the audit flush fix in the AP deployment bundle
+Restore the EU worker shutdown grace period
+Promote the catalog redirect fix with its reader configuration
+Carry the approved export schema into the regional manifest
+Revert the token cache refresh on the affected worker pool
+Leave AP placement hints pinned during the recovery promotion
+Pick the cursor resume guard for the regional storage image
+Promote the ownership watch repair after the old coordinators exit
+Restore the query cancellation path before enabling fanout
+Keep regional metadata retry limits with the signed bundle
+Include the spill-file cleanup repair in the EU canary
+Revert the lease registry batching change on AP
+Pick the audit policy snapshot fix for the release branch
+Promote the catalog cache invalidation repair
+Carry the approved source-offset codec into ingestion workers
+Restore the storage reader image used by the previous catalog epoch
+Leave the query pool on the regional admission threshold
+Pick the remote aggregation cleanup for the EU bundle
+Promote the index descriptor repair after schema convergence
+Revert the export prefetch increase on the constrained pool
+Keep regional certificate paths during worker repromotion
+Include the retry-attribution repair in the recovery manifest
+Restore the AP storage heartbeat configuration
+Promote the reviewed cursor generation check
+Carry the release-approved allocator fix into the query image
+Revert the shard registration change while old leases drain
+Keep the EU bootstrap image paired with its catalog snapshot
+Pick the ownership metric repair for regional coordinators
+Promote ingestion checkpoint recovery with the matching source client
+Restore the regional audit queue after its writer restart
+Leave the AP worker pool on the signed routing rules
+Include the schema reader lifetime fix in the release bundle
+Revert the planner row-estimate change for regional queries
+Pick the token refresh deadline repair for EU
+Promote the storage snapshot cleanup after compaction finishes
+Keep export workers on the reviewed cursor format
+Restore the query service image without changing tenant budgets
+Carry the catalog watch repair into the AP promotion
+Revert the lease handoff prefetch during the drain
+Include the RPC cancellation fix in the regional patch set
+Promote the audit attribution change after sink recovery
+Leave the EU metadata pool on the approved reader epoch
+Pick the storage error propagation fix for the regional branch
+Restore the ingestion drain hook with its retry settings
+Keep the query protocol descriptor during the canary rollback
+Promote the cursor checkpoint fix after replica catch-up
+Revert the range cache optimization on AP coordinators
+Carry the approved schema conversion into the EU bundle
+Include the tenant budget release fix in the worker image
+Restore the regional token service endpoint selection
+Pick the catalog iterator cleanup for the canary image
+Promote the export footer repair with the matching compressor
+Keep regional lease renewal settings during storage repromotion
+Revert the index reader prefetch change until the drain completes
+Include the source generation fix in AP ingestion workers
+Restore the query scheduler configuration used by the signed image
+Promote the routing snapshot fix after metadata convergence
+Pick the audit queue close-order repair for EU
+Leave regional cursors on the committed checkpoint generation
+Carry the storage recovery fix into the approved release image
+Revert the catalog watch fanout change on the small pool
+Promote the query spill accounting repair
+Restore the AP lease registry image after the ownership drain
+Include the schema retirement guard in the regional manifest
+Keep the EU source client paired with its offset format
+Pick the ingestion cancellation repair for the recovery bundle
+Promote the remote exchange cleanup after query drain
+Restore the regional request deadline configuration
+Revert the token audience normalization on AP
+Carry the catalog cache repair into the storage rollout
+Include the export lease cleanup in the approved patch set
+Promote the query attribution fix without changing routing policy
+Leave regional storage readers on the compatible descriptor format
+Restore the lease holder image after a failed canary
+Pick the index checkpoint reopen fix for EU workers
+Revert the ingestion buffer reuse optimization during recovery
+Promote the catalog epoch repair with its watch configuration
+Keep the AP audit sink on the signed retention settings
+Include the cursor cleanup guard in the regional recovery image
+Carry the planner cancellation repair into the release branch
+Restore the EU shard registration settings
+Promote the token exchange fix after credential cache expiry
+Revert the export concurrency change on the batch pool
+Pick the storage manifest lifetime fix for the AP bundle
+Keep regional query allocators paired with their accounting code
+Include the lease revocation repair in the canary image
+Promote ingestion source cleanup after reader drain
+Restore the catalog snapshot used by regional bootstrap
+Carry the approved audit schema into the recovery bundle
+Revert the routing invalidation batching change on EU
+Promote the cursor ownership repair with the matching checkpoint writer
+Leave the AP query pool on the reviewed join estimator
+Pick the index handle cleanup for the regional branch
+Restore the worker image used by the release-approved WAL reader
+Include the token cache eviction repair in the EU promotion
+Promote the schema snapshot fix after migration completion
+Keep regional metadata watches on the approved namespace epoch
+Revert the ingestion lease retry on the slow source pool
+Carry the export resume repair into the storage release
+Pick the query deadline propagation fix for AP
+Restore the audit delivery window during worker recovery
+Promote the catalog reader cleanup after the regional drain
+Include the range-boundary codec repair in the EU bundle
+Leave regional storage workers on the compatible compression settings
+Revert the lease heartbeat aggregation change on AP
+Keep the approved query protocol through the rollback
+Promote the cursor checkpoint reader after follower recovery
+Carry the schema default-expression fix into the release bundle
+Restore the regional index writer close order
+Pick the audit actor propagation repair for the canary
+Include the source watermark guard in the AP worker image
+Promote the tenant budget fix after outstanding exports complete
+Revert the catalog retry backoff change on EU coordinators
+Keep regional token refresh settings with their reviewed client
+Restore the storage spill directory configuration
+Carry the lease cleanup fix into the signed deployment manifest
+Promote the query remote-error repair after worker drain
+Pick the ingestion offset recovery change for EU
+Include the cursor scope lifetime fix in the regional bundle
+Revert the index cache warming change on the constrained pool
+Leave AP catalog followers on the stable descriptor reader
+Restore the export source client before repromoting workers
+Promote the audit sink reconnect fix with its queue settings
+Keep the reviewed regional placement policy during rollback
+Carry the token redaction repair into the release branch
+Pick the storage session cleanup for the EU recovery image
+Revert the query response buffering change during the drain
+Promote the catalog namespace guard after metadata recovery
+Include the lease deadline repair in the AP canary
+Restore the regional schema migration worker image
+Keep cursor checkpoints compatible with the approved source reader
+Promote ingestion attribution after source ownership settles
+Pick the range routing fix for the signed worker bundle
+Carry the export cancellation repair into the EU release image
+Revert the planner statistics cache on AP coordinators
+Restore the audit batch writer before widening traffic
+Include the index manifest guard in the regional promotion
+Promote the query lease cleanup after remote operators stop
+Keep the regional token audience map through repromotion
+Pick the catalog redirect timeout fix for AP storage workers
+Restore the EU ingestion checkpoint interval
+Carry the storage error-code repair into the approved bundle
+Revert the cursor resume prefetch on the batch pool
+Promote the schema reader epoch check with its catalog client
+Include the audit queue drain fix in the regional image
+Leave the AP export pool on the reviewed memory policy
+Restore the lease ownership watcher after coordinator recovery
+Pick the query spill cleanup for the EU patch set
+Promote the ingestion source-close fix after the final poll
+Keep regional storage namespaces paired with their manifest readers
+Carry the cursor checkpoint lifetime repair into the recovery image
+Revert the catalog refresh concurrency change on AP
+Restore the query worker image after the remote exchange drain
+Include the token exchange cancellation guard in the regional bundle
+Promote the lease handoff repair with its heartbeat settings
+Pick the index reader epoch fix for EU canaries
+Keep the approved audit policy during regional repromotion
+Restore the source-offset parser used by AP ingestion
+@maintenance
+Keep transaction trace context while opening a storage session | Issue: STORAGE-9274
+Return the namespace identifier in missing-catalog errors
+Wait for deferred RPC callbacks before destroying the client
+Release schema snapshots after expression normalization
+Preserve query ownership when a scheduler hands off a task
+Read the committed source offset before acknowledging a restart
+Do not reopen an index writer after its lease has expired
+Carry the tenant budget into asynchronous catalog reads
+Close metadata watches before dropping the session reference
+Use stable field identifiers in projected column maps
+Keep the original storage error when cleanup also fails
+Stop range prefetch after a cursor reaches its row limit
+Include the source generation in ingestion retry metrics
+Wake blocked export readers when their owner is cancelled
+Retain the last good placement map during a refresh failure
+Resolve the audit actor before scheduling background cleanup
+Pin the request policy while rendering delegated access records
+Avoid retaining query buffers in delayed retry callbacks
+Copy the lease epoch into pending write acknowledgements
+Read the catalog transaction before publishing a shard registration
+Close the compressor only after writing the schema footer
+Keep the resume token with its durable checkpoint
+Stop a catalog iterator when its namespace is deleted
+Release admission reservations after remote scheduling fails
+Use the original request region for quota accounting
+Preserve nullability when widening an indexed field
+Wait for source poll cancellation before releasing its lease
+Keep the operator name in remote cancellation errors
+Reject a checkpoint from a different source generation
+Carry the query deadline through metadata redirects
+Do not reuse an allocator after the final response flush
+Close the old route watcher after installing its replacement
+Retain token audience information across regional exchange
+Use the pinned schema when estimating serialized row width
+Flush audit batches before closing their destination writer
+Read the current ownership epoch before renewing a lease
+Keep source progress after a retryable catalog failure
+Cancel queued compaction when the namespace closes
+Release spilled partition handles after hash-join cleanup
+Preserve the original tenant in deferred error events
+Avoid publishing an empty route map during bootstrap
+Wait for the last storage reader before retiring a descriptor
+Keep retry statistics when an RPC is redirected
+Copy request attribution into asynchronous usage records
+Use committed checkpoints when resuming an interrupted export
+Close query exchange writers before unregistering their streams
+Retain the prior catalog snapshot after a failed reload
+Stop lease renewal callbacks when the owner is revoked
+Carry field collation into range-boundary encoding
+Read the source schema before scheduling ingestion conversion
+Keep storage session errors out of token refresh logs
+Preserve cancellation while opening a remote operator
+Release the final index pin when a query scope exits
+Use the namespace epoch in cached shard lookups
+Drain cursor pages before closing the response stream
+Wait for audit acknowledgement before recycling a batch buffer
+Keep the original routing decision on a retried write
+Retain the lease holder in ownership failure diagnostics
+Close background catalog readers after leadership changes
+Do not charge ingestion buffers after their source is closed
+Use the query snapshot when resolving an index descriptor
+Carry request trace links into token exchange failures
+Stop export retries once the destination rejects its namespace
+Read the durable watermark before exposing source progress
+Release the routing snapshot after the final worker callback
+Preserve schema defaults during index reconstruction
+Keep the coordinator generation in queued lease work
+Cancel source prefetch before shutting down its connection
+Include the committed catalog epoch in bootstrap errors
+Use the admitted policy when rendering audit access details
+Retain partial query metrics when remote execution fails
+Close storage iterators after a catalog redirect
+Wait for checkpoint flush before reporting cursor completion
+Keep namespace identity when converting storage errors
+Release retained memory after an aggregation operator closes
+Read token expiry before scheduling a credential refresh
+Preserve actor attribution across delegated write retries
+Stop index cache warming after namespace removal
+Carry the source region into export completion events
+Use the original row allocator during expression evaluation
+Keep the last acknowledged batch when a stream reconnects
+Return the lease revocation reason to delayed callers
+Close metadata subscriptions after their request scope expires
+Wait for source ownership before reopening a checkpoint reader
+Retain the planner estimate when execution is cancelled
+Do not publish storage cleanup metrics before draining callbacks
+Use stable transaction ids in asynchronous billing records
+Preserve query labels on redirected catalog requests
+Release schema job reservations after planning errors
+Keep the manifest generation with its segment readers
+Cancel remote operators before closing the query allocator
+Read the pinned route epoch when accepting a worker response
+Carry the lease deadline into deferred storage calls
+Stop retry timers after their connection is replaced
+Close the old audit sink before installing a new destination
+Keep cursor ownership while a response page is buffered
+Retain source offsets during nullable-field conversion
+Use the committed catalog generation in index cache keys
+Wait for storage acknowledgement before advancing the feed cursor
+Release token refresh waiters when the service scope closes
+Preserve the initiating actor in failed cleanup events
+Do not reuse a shard hint from an expired namespace epoch
+Keep the request deadline after a catalog redirect
+Read the schema snapshot before projecting an export footer
+Close spill readers after the last aggregation partition
+Carry quota policy generations into delayed usage delivery
+Retain the source timestamp when replaying ingestion batches
+Stop heartbeat timers after lease registration fails
+Use the selected collation for range-prefix comparisons
+Wait for response trailers before releasing query buffers
+Preserve index ownership while a writer checkpoint is queued
+Keep the old placement map until its successor is complete
+Release session references after background audit flush
+Read the durable offset before acknowledging a source handoff
+Close query statistics collectors after their final callback
+Carry tenant attribution through catalog cache refresh
+Cancel compaction prefetch after the storage session expires
+Keep token renewal deadlines with the owning client
+Retain the last checkpoint when an export upload fails
+Use the current schema epoch in cursor validation
+Stop metadata refresh retries after leadership is lost
+Wait for worker drain before releasing ownership watches
+Preserve remote error details during query cancellation
+Close ingestion writers before advancing their source generation
+Keep admitted memory reservations until retained buffers are freed
+Read the regional audience policy before exchanging credentials
+Carry original request ids into asynchronous audit failures
+Release index descriptor handles after lookup errors
+Do not reopen a cursor after its namespace is revoked
+Use the source checkpoint generation in export manifests
+Retain the query snapshot while resolving constant expressions
+Stop lease retry work when the coordinator unregisters
+Keep the committed placement epoch on redirected write batches
+Wait for catalog consistency before publishing source progress
+Close deferred token refresh callbacks on client shutdown
+Preserve the final schema projection in cancelled exports
+Read the current namespace policy before admitting a retry
+Release routing watches after registration failure
+Carry worker generation tags into ownership diagnostics
+Keep the original source offset on a converted ingestion batch
+Cancel pending catalog invalidations after the reader closes
+Use stable actor keys when coalescing audit records
+Retain query spill attribution after the request is cancelled
+Stop response prefetch when a cursor loses its lease
+Close checkpoint readers before releasing their storage snapshot
+Wait for the final usage batch before closing a billing window
+Preserve index field order in compatibility metadata
+Keep source retry budgets separate from query deadlines
+Read the committed manifest before opening index partitions
+Release the namespace snapshot after schema comparison
+Carry the catalog epoch into delayed bootstrap callbacks
+Do not refresh routing hints from a rejected worker response
+Use the original authorization policy during delegated cleanup
+Retain lease metrics after the owner completes its drain
+Close remote result readers when the client disconnects
+Wait for export cursor persistence before releasing buffers
+Keep tenant budgets attached to scheduled operator work
+Preserve the storage transaction id across callback retries
+Stop ingestion polling before closing the source metadata reader
+Read the current token audience before reusing credentials
+Release schema conversion scratch space after batch failure
+Carry original query names through remote execution errors
+Keep the last good catalog view during follower catch-up
+Cancel index writer renewal after its namespace is dropped
+Use durable source offsets in usage attribution
+Retain partial export metrics after compression fails
+Close the lease registry before destroying coordinator state
+Wait for queued route callbacks before freeing the shard map
+Preserve source trace context through checkpoint recovery
+Keep the schema descriptor pinned during code generation
+Read the worker epoch before accepting ownership renewal
+Release request allocators after background responses finish
+Carry the admission decision into redirected storage requests
+Stop audit delivery retries when the sink scope expires
+Use the committed cursor position in resume diagnostics
+Retain the query plan name when a remote worker rejects it
+Close catalog readers after namespace migration completes
+Keep token cache failures separate from authorization errors
+Wait for the old storage writer before accepting a new lease
+Preserve the source generation on dead-lettered batches
+Read the selected placement policy before creating an export
+Release delayed usage buffers after delivery acknowledgement
+Carry original tenant keys into compaction audit events
+Stop query cleanup timers after allocator teardown
+Use the pinned descriptor when decoding storage row errors
+Retain cursor checkpoint errors through ownership transfer
+Close source readers before announcing ingestion completion
+Keep the catalog generation with deferred invalidation work
+Wait for the query exchange drain before closing RPC sessions
+Preserve policy snapshots when token refresh is redirected
+Read the current index generation before reporting scan progress
+Release operator memory after the final remote result page
+Carry the initial actor into schema migration completion
+Stop lease heartbeat retries after explicit revocation
+Use stable shard keys when merging range hints
+Retain the final checkpoint footer after writer shutdown
+Close background export sinks after cancellation
+Keep the original transaction timestamp during a write retry
+Wait for metadata watcher cleanup before unregistering the client
+Preserve query statistics after a response serialization failure
+Read the namespace epoch before reopening a source session
+Release cached token references when policy watches close
+Carry storage ownership through queued checkpoint writes
+Stop schema lookup retries after the request deadline
+Use the source allocator for ingestion conversion buffers
+Retain the selected route on deferred export callbacks
+Close shard registration watches after coordinator failure
+Keep admitted budgets until asynchronous storage work drains
+Wait for audit reader shutdown before removing its catalog entry
+Preserve cursor field metadata through schema refresh
+Read the lease generation before scheduling cleanup work
+Release remote query handles after transport cancellation
+Carry source checkpoint tags into regional usage reports
+Stop index prefetch after a descriptor compatibility error
+Use the pinned policy to attribute delayed access records
+Retain source ownership while the final watermark is persisted
+Close token exchange sessions after refreshing the client policy
+@automation
+Regenerate storage protocol bindings
+Refresh the checked-in catalog schema snapshot
+Update generated RPC client stubs
+Refresh the worker dependency lockfile
+Regenerate operator metric descriptors
+Refresh the regional deployment manifest
+Update the checked-in Unicode tables
+Regenerate query-plan serialization bindings
+Refresh the service API compatibility snapshot
+Update the generated audit event schema
+Regenerate the storage error-code registry
+Refresh the index format compatibility fixtures

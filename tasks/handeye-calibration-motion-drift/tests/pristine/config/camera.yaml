@@ -1,0 +1,16 @@
+# Frame names follow the inspection cell's transform tree.
+optical_frame: wrist_camera_optical
+base_frame: base_link
+flange_frame: flange
+# Relative to the repository root.
+urdf: robot/urdf/robot.urdf
+# Table-target point survey, relative to the project root.
+target_survey: metrology/table_target.yaml
+# Pinhole intrinsics in pixels; distortion uses the Brown-Conrady model.
+image_width: 1280
+image_height: 1024
+fx: 305.8
+fy: 307.1
+cx: 638.7
+cy: 511.3
+distortion: [-0.041, 0.013, 0.0003, -0.0005, -0.002]

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Field Inspection",
+    "slug": "field-inspection",
+    "version": "2.4.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "ios": {"bundleIdentifier": "com.airfield.inspection"},
+    "android": {"package": "com.airfield.inspection"},
+    "plugins": [["expo-camera", {"cameraPermission": "Photograph the generator diagnostics screen."}]]
+  }
+}

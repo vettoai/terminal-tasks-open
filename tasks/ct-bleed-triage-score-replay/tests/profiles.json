@@ -1,0 +1,1462 @@
+{
+  "A": {
+    "CT13116602": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT30527297": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT37513554": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT39720178": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT53188237": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT54415733": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT58519963": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT62760004": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT71547071": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT74656271": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT74817850": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT94106219": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "B": {
+    "CT10789634": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT18771326": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT24602352": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT31758667": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT39219492": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT41466510": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT58201765": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT76837269": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT89334621": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT92275816": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT94357383": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CTB260002": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-01": {
+    "CT12766288": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT28820381": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT42440108": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT61223485": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT63942681": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT96788619": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT97666652": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-02": {
+    "CT10988065": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT18781414": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT26807893": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT37879927": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT49225852": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT57332038": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT68653507": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT89800075": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT93465519": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-03": {
+    "CT14965678": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT26296526": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT45941736": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT53114592": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT56523909": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT58343304": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-04": {
+    "CT21892944": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT23592515": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT27979722": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT31888538": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT47419921": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT60664007": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT78896021": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT80247056": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT82496051": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT96785245": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-05": {
+    "CT10426927": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT21329348": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT25733113": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31651569": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT59998461": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT84148318": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT89114925": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT95460985": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-06": {
+    "CT30150278": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT36835742": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT38276342": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT41898904": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT55380699": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT62215804": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT67815519": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT76166760": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT80526108": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT89277545": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT93526232": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-07": {
+    "CT10735563": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT16187540": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT16996232": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT37148651": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT73876770": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-08": {
+    "CT10308841": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT10576380": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT18801376": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT55444423": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT71764434": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT82541134": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT83316033": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT92131451": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-09": {
+    "CT10735440": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT31551319": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT55357778": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT58584558": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT72777565": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT88594882": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT94103335": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT94146742": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT94842875": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-10": {
+    "CT12709310": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31878991": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT44838185": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT45558962": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT61786789": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT87789291": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT94453931": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-11": {
+    "CT19484370": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT28236379": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31867412": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31918992": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT49203131": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT59470372": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT72884732": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT87232635": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT90166040": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT95132269": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-12": {
+    "CT17135231": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT23416112": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT39839195": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT48646268": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT70734896": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT72295388": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT78875636": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT79200328": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-13": {
+    "CT11928029": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT21238255": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT26872961": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT27733927": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT29522789": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT32350640": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT37146531": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT43369426": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT56752634": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT71831565": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT90913021": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-14": {
+    "CT17127491": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT27114150": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT75507143": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT87657702": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT89565287": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-15": {
+    "CT29158801": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT40231875": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT42610420": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT60950026": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT61671452": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT71883203": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT87316249": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT92675687": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-16": {
+    "CT14311016": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT20795271": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT21230087": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT21900133": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT30910243": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT34314352": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT74502465": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT75689463": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT76395435": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-17": {
+    "CT24741169": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT35964359": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT43585650": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT66935296": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT74981748": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT91411497": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT92326564": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-18": {
+    "CT38682419": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT40114449": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT42932276": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT52692395": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT56221877": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT56550408": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT71878552": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-19": {
+    "CT21606694": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT42259083": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT44919221": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT58590175": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT62978272": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT63902453": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT86891671": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT89337415": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT91301817": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-20": {
+    "CT39558980": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT45108713": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT51663660": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT66265449": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT74928145": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT87835760": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-21": {
+    "CT23979461": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT32936110": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT45111515": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT57917138": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT82460207": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-22": {
+    "CT13143387": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT33904486": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT51385028": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT72380234": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT83342966": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT86639300": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT87661088": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT92902100": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-23": {
+    "CT25980734": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT33221885": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT38345978": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT44608263": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT54275834": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT57155799": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT58195149": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT67147918": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT97239779": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-24": {
+    "CT23201757": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT26758678": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT52960903": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT54810169": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT61578734": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT82668954": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT93893813": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-25": {
+    "CT27650598": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT41932704": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT48397846": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT56900016": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT67748183": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT79414480": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT87488588": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-26": {
+    "CT14976073": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT17288391": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT17831147": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT28837167": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT33727770": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT34304647": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT36588102": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT55917659": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT59730822": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-27": {
+    "CT27166968": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT44446301": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT59143283": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT62398061": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT80219897": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT98668284": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-28": {
+    "CT11406533": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT16458260": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT22728463": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT43529942": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT43913906": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT48630998": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT69223255": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT78441796": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT93916257": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT98940633": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-29": {
+    "CT21624871": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT44856125": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT50389123": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT51753451": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT57549517": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT69237584": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT78217366": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT93544619": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-30": {
+    "CT15331730": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT29828848": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT32330196": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT39898188": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT51229059": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT51388393": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT53172528": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT53374114": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT60451722": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT65763026": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT73303990": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-31": {
+    "CT15494594": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT24763530": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT27384986": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT54470741": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT60151415": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT66874172": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT93350274": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-32": {
+    "CT14597475": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT24493736": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT49359597": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT50447866": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT56115783": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT79279062": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT98794051": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-33": {
+    "CT20132964": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT25963220": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT38257139": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT50866402": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT59305320": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT64186155": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT70486654": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT78490573": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT90940850": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-34": {
+    "CT11837213": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT46205666": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT53291925": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT67213715": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT68890625": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT94643202": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-35": {
+    "CT18603132": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT25576228": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31421004": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT31538836": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT60123421": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT79532830": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT81502694": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT85150485": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT88299334": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT98585355": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-36": {
+    "CT17276794": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT19242518": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT43738784": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT44248312": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT45371747": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT46988390": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT65930620": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT86977507": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  },
+  "hospital-37": {
+    "CT13580424": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT24208927": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT44238543": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT56251414": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT59694790": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT63988732": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT66587112": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT75889346": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT79790384": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT80977185": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT95601222": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-38": {
+    "CT15875818": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT26483372": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT34456430": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT49696781": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT53238866": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    }
+  },
+  "hospital-39": {
+    "CT13713653": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT17252026": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT48126744": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT64428853": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT66759007": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT75272907": {
+      "noise_order": "routine-noisier",
+      "preset": "adaptive"
+    },
+    "CT80396014": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT82929624": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    }
+  },
+  "hospital-40": {
+    "CT14477663": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT18794868": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT24812293": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT28604415": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT38538242": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT45968240": {
+      "noise_order": "routine-quieter",
+      "preset": "conventional"
+    },
+    "CT70986284": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    },
+    "CT92982511": {
+      "noise_order": "routine-noisier",
+      "preset": "conventional"
+    },
+    "CT98988611": {
+      "noise_order": "routine-quieter",
+      "preset": "adaptive"
+    }
+  }
+}

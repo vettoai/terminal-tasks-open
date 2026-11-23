@@ -1,0 +1,7 @@
+numpy==2.5.4
+rosbags==0.11.9
+lz4==4.4.5
+apsw==3.54.1.0
+ruamel.yaml==0.19.1
+PyYAML==6.0.3
+backports.zstd==1.8.0; python_version < "3.14"

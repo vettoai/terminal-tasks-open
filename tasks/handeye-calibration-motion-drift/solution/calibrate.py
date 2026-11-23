@@ -1,0 +1,31 @@
+import argparse
+from pathlib import Path
+
+import yaml
+
+from fk import Kinematics
+from alignment import estimate_capture
+from sync import Recording
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Estimate the wrist camera mount from a board recording.')
+    parser.add_argument('--session', required=True)
+    parser.add_argument('--urdf', required=True)
+    parser.add_argument('--camera', required=True)
+    parser.add_argument('--output', required=True)
+    arguments = parser.parse_args()
+    with open(arguments.camera) as stream:
+        camera = yaml.safe_load(stream)
+    kinematics = Kinematics(arguments.urdf, camera['flange_frame'])
+    recording = Recording(arguments.session, kinematics.joint_names)
+    root = Path(__file__).resolve().parent
+    survey = yaml.safe_load((root / camera['target_survey']).read_text())
+    calibration, clock, _ = estimate_capture(recording, kinematics, survey)
+    output = Path(arguments.output)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(yaml.safe_dump({'flange_T_camera': calibration.tolist()}, sort_keys=False))
+
+
+if __name__ == '__main__':
+    main()

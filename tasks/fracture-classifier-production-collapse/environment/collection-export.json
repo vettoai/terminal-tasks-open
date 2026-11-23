@@ -1,0 +1,17 @@
+{
+  "format": "JPEG",
+  "width": 128,
+  "height": 128,
+  "source_captures": [{"width": 512, "height": 384}, {"width": 1024, "height": 768}],
+  "acquisition": {"optical_magnification": "shared", "binning": false, "resizing": false,
+                  "field_content": "steel surface fills either sensor window"},
+  "selection": "operator-selected detail window",
+  "pixel_scale": "native",
+  "resized": false,
+  "retained_captures": "/opt/ml/camera-captures",
+  "color_mode": "RGB",
+  "quality": 97,
+  "chroma_sampling": "4:4:4",
+  "embedded_metadata": "removed",
+  "capture_fields": "data/annotations.csv"
+}

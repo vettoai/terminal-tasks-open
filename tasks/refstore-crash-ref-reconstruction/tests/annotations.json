@@ -1,0 +1,6 @@
+{
+  "heads/main": "Release-note export keeps the merge queue operator's quoted control label: ",
+  "heads/release-ap": "AP promotion notes retain the operator's quoted release control: ",
+  "heads/release-eu": "EU release export preserves the operator's quoted promotion label: ",
+  "heads/release-us": "US release notes keep the operator's quoted deployment control: "
+}

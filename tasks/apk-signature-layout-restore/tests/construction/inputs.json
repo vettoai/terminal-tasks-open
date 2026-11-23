@@ -1,0 +1,51 @@
+{
+  "build-tools.zip": {
+    "url": "https://dl.google.com/android/repository/build-tools_r36_linux.zip",
+    "sha256": "5d9ac77fb6ff43d9da518a337b4fcf8f9097113df531d99ccefe80ef7ce8250b"
+  },
+  "platform.zip": {
+    "url": "https://dl.google.com/android/repository/platform-35_r02.zip",
+    "sha256": "0988cacad01b38a18a47bac14a0695f246bc76c1b06c0eeb8eb0dc825ab0c8e0"
+  },
+  "hermes.aar": {
+    "url": "https://repo.maven.apache.org/maven2/com/facebook/react/hermes-android/0.76.5/hermes-android-0.76.5-release.aar",
+    "sha256": "90832465498ed0992f985ee9b40a3873ca05a15a7ccfab5c2e5ca366457457c5"
+  },
+  "react.aar": {
+    "url": "https://repo.maven.apache.org/maven2/com/facebook/react/react-android/0.76.5/react-android-0.76.5-release.aar",
+    "sha256": "8df87dd6181c10d89366de17e948bcc0e0619fc6cf234cd3634ff3a5d39521f5"
+  },
+  "icons.tgz": {
+    "url": "https://registry.npmjs.org/material-design-icons/-/material-design-icons-3.0.1.tgz",
+    "sha256": "e883868c34b21355763fc69d117d658d9c0f4be35711fa6654e57342e6201f7b"
+  },
+  "fonts.zip": {
+    "url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip",
+    "sha256": "7576310b219e04159d35ff61dd4a4ec4cdba4f35c00e002a136f00e96a908b0a"
+  },
+  "edges.tflite": {
+    "url": "https://storage.googleapis.com/mediapipe-models/image_segmenter/deeplab_v3/float32/1/deeplab_v3.tflite",
+    "sha256": "ff36e24d40547fe9e645e2f4e8745d1876d6e38b332d39a82f0bf0f5d1d561b3"
+  },
+  "quality.tflite": {
+    "url": "https://storage.googleapis.com/mediapipe-models/image_classifier/efficientnet_lite0/float32/1/efficientnet_lite0.tflite",
+    "sha256": "6c7ab0a6e5dcbf38a8c33b960996a55a3b4300b36a018c4545801de3a3c8bde0"
+  },
+  "zipflinger-8.12.0.jar": {
+    "url": "https://dl.google.com/dl/android/maven2/com/android/zipflinger/8.12.0/zipflinger-8.12.0.jar",
+    "sha256": "a6a68f03e8d9f8944688c36c6d16c253e81a625930af1d0eb5e592bd2b2da9e8"
+  },
+  "zipflinger-8.12.0-sources.jar": {
+    "url": "https://dl.google.com/dl/android/maven2/com/android/zipflinger/8.12.0/zipflinger-8.12.0-sources.jar",
+    "sha256": "a126939c55d87f30a74c218d3db0e15ee0471590ed3e0f63e2e179a6e164b53a"
+  },
+  "annotations-31.12.0.jar": {
+    "url": "https://dl.google.com/dl/android/maven2/com/android/tools/annotations/31.12.0/annotations-31.12.0.jar",
+    "sha256": "3b4bb9620c17d19e5bd91ac1988080553573b4c3b739fdd92416f42f2daf3e78"
+  },
+  "zipflinger-README.md": {
+    "url": "https://android.googlesource.com/platform/tools/base/+/709d053bc291cc71ec77520dc0a8544acb94df1c/zipflinger/README.md?format=TEXT",
+    "sha256": "f8e1f9dba37dfd277b8d8e353a1c1d19caf51dd58b336ea6740deac93c8e55b7",
+    "base64": true
+  }
+}

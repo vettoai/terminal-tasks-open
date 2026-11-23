@@ -1,0 +1,8 @@
+[
+  {"name": "stop_contact_bd", "src": "bd", "tgt": "bad", "left": "", "right": ""},
+  {"name": "stop_contact_bg", "src": "bg", "tgt": "bag", "left": "", "right": ""},
+  {"name": "stop_contact_db", "src": "db", "tgt": "dab", "left": "", "right": ""},
+  {"name": "stop_contact_dg", "src": "dg", "tgt": "dag", "left": "", "right": ""},
+  {"name": "stop_contact_gb", "src": "gb", "tgt": "gab", "left": "", "right": ""},
+  {"name": "stop_contact_gd", "src": "gd", "tgt": "gad", "left": "", "right": ""}
+]

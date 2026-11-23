@@ -1,0 +1,21 @@
+Clinical commissioning material — CQ500
+
+The source head CT examinations are de-identified clinical images from the
+CQ500 dataset released by Qure.ai with the Centre for Advanced Research in
+Imaging, Neurosciences and Genomics (CARING), New Delhi. The associated study
+is Chilamkurthy et al., "Deep learning algorithms for detection of critical
+findings in head CT scans: a retrospective study", The Lancet, 2018.
+
+CQ500 is distributed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License. Rights in individual dataset contents
+are also subject to the publisher's End User License Agreement. These terms
+remain applicable to this clinical commissioning material.
+
+Dataset: http://headctstudy.qure.ai/
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Publisher's EULA: http://15.206.3.216/static/EULA.txt
+
+The quantitative release-replay views include conventional and regional
+attenuation-adaptive processing. They are derived images, not separate clinical
+acquisitions, and retain references to their source instances and geometry.
+No new patient diagnoses are implied by model scores.

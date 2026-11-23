@@ -1,0 +1,15 @@
+# Harbor run output
+jobs/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,1 @@
+day.jsonl is the signed request journal for the operations window, in submission order. raw_transaction is the transaction as sent; block_timestamp is Unix time; receipt is the RPC receipt, including status and logs. Failed requests are retained. This window's calls do not consume block time, and the mirror uses zero base fee.

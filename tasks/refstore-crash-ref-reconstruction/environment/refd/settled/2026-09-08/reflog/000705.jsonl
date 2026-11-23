@@ -1,0 +1,64 @@
+{"seq":705,"attempt":"merge-8068c3","ref":"heads/main","old":"f6aef4b6cef19ac139671b48b328990e0de143ce","new":"76a982ecb148b336af8c9925dbb0bc95d6dd1d02","pr":44039}
+{"seq":706,"attempt":"merge-021d0d","ref":"heads/main","old":"76a982ecb148b336af8c9925dbb0bc95d6dd1d02","new":"d34c90077f28b079cd5a699a325478602f4b1759","pr":24928}
+{"seq":707,"attempt":"merge-74d0b1","ref":"heads/main","old":"d34c90077f28b079cd5a699a325478602f4b1759","new":"85fc2ddb0b59e07d9ef8a0ac0a24b43c01f187e5","pr":18389}
+{"seq":708,"attempt":"gate-5512bf","ref":"heads/release-ap","old":"528a2517ad338dc8464ed12f041125765c5c3ac0","new":"7bc98df401855e1c149c99a7715e1bcce8ae7dcf","push":"65e8fb407c6baf35","note":"corrige les reprises"}
+{"seq":709,"attempt":"merge-d393f2","ref":"heads/main","old":"85fc2ddb0b59e07d9ef8a0ac0a24b43c01f187e5","new":"28ca580fb6168facd333ed8231610063277298d8","pr":25675}
+{"seq":710,"attempt":"gate-f411dd","ref":"heads/release-eu","old":"d4fdaceeef4fda3e4c1926262864e3323b0347e7","new":"72272f1973cb10d4724b06487007346944e6b472","push":"43e0799962764d18","note":"cursor handling"}
+{"seq":711,"attempt":"merge-bec4c8","ref":"heads/main","old":"28ca580fb6168facd333ed8231610063277298d8","new":"6c3a46f43abfbebcfd0ef54c8358adb191f5d754","pr":61228}
+{"seq":712,"attempt":"gate-9cd924","ref":"heads/feat-cache","old":"faa03af398cfcd7191e5480a87eeefe089c834de","new":"00de3932438ac051201c3b5e6e3daf382bdadcae","push":"1722845c65351b77","note":"audit scope"}
+{"seq":713,"attempt":"gate-7a081f","ref":"heads/feat-leases","old":"3a376f3e3f8ad57be03347503ba1b5b6e9132982","new":"a34c0980f222ad7687b1e726cd8b3d75d5478338","push":"d09c9a8a96824ac7","note":"lease metrics"}
+{"seq":714,"attempt":"merge-03e43c","ref":"heads/main","old":"6c3a46f43abfbebcfd0ef54c8358adb191f5d754","new":"8c43f4a55bfc53319ed05eea17a1065069c6a806","pr":12144}
+{"seq":715,"attempt":"gate-e8ca51","ref":"heads/feat-leases","old":"a34c0980f222ad7687b1e726cd8b3d75d5478338","new":"08e0c68d6ede0bd261b5a20ddba1ea20e1d68967","push":"24fcc23e38a5d6b8","note":"corrige les reprises"}
+{"seq":716,"attempt":"merge-3a1ea0","ref":"heads/main","old":"8c43f4a55bfc53319ed05eea17a1065069c6a806","new":"7b736708bac7546feddb98f5db8a3735e86631e7","pr":52263}
+{"seq":717,"attempt":"gate-8f79c1","ref":"heads/feat-planner","old":"a6e049630cf15c7be339f46e78cd5214aee18bd3","new":"22732a8e8476a95bda1a3ff118ab6210cff0db4a","push":"b1df7dd488799e2c","note":"keep the regional fallback"}
+{"seq":718,"attempt":"merge-549615","ref":"heads/main","old":"7b736708bac7546feddb98f5db8a3735e86631e7","new":"763de0335624503ea469b157a350b58879504b01","pr":95448}
+{"seq":719,"attempt":"gate-6787f6","ref":"heads/release-ap","old":"7bc98df401855e1c149c99a7715e1bcce8ae7dcf","new":"86260222f38b2ea95632b38b8da652d52b120ddb","push":"53ec6dbe3b6bb01e","note":"keep the regional fallback"}
+{"seq":720,"attempt":"gate-ba5255","ref":"heads/feat-retry","old":"c46b0449fae1086f858f07dda1af8cb3db8eddfb","new":"c4ea0a7929f33dcdbd7548763c0e1d89564a3f5d","push":"625c6e07700e1ebe","note":"再試行"}
+{"seq":721,"attempt":"merge-d07d9b","ref":"heads/main","old":"763de0335624503ea469b157a350b58879504b01","new":"3e91a0a97d2c99577d1a7f8487a342fa74e67b5f","pr":54342}
+{"seq":722,"attempt":"gate-77d401","ref":"heads/feat-search","old":"6efa0af1568791d303287f4c85e57446726099e2","new":"91eed7aa20d490468a614e7cfee06d73619c4f59","push":"6603278ebe550169","note":"keep the regional fallback"}
+{"seq":723,"attempt":"gate-4c44e3","ref":"heads/feat-index","old":"48dea798b76605870bffef85ba52f5b60872b12b","new":"735f1a745b5448129cd0a21854436a3097cf352a","push":"53ae84743e508a15","note":"cache budget"}
+{"seq":724,"attempt":"merge-990798","ref":"heads/main","old":"3e91a0a97d2c99577d1a7f8487a342fa74e67b5f","new":"57bee727a0cf41c0a1215d7a19ae6b251be9cf62","pr":9024}
+{"seq":725,"attempt":"gate-526db4","ref":"heads/release-ap","old":"86260222f38b2ea95632b38b8da652d52b120ddb","new":"cef7b0ff9842d83556ad6f3bbd571b2acd460172","push":"a18a549c2c4d5698","note":"lease metrics"}
+{"seq":726,"attempt":"merge-34c43e","ref":"heads/main","old":"57bee727a0cf41c0a1215d7a19ae6b251be9cf62","new":"147ec817541e00bd98cb9f2d09987348e8170456","pr":62130}
+{"seq":727,"attempt":"merge-67cd08","ref":"heads/main","old":"147ec817541e00bd98cb9f2d09987348e8170456","new":"987f42b961be39692c3e25cfcf33cb2e9b0eafe5","pr":14961}
+{"seq":728,"attempt":"merge-ccacb3","ref":"heads/main","old":"987f42b961be39692c3e25cfcf33cb2e9b0eafe5","new":"6b25740bd5f61a53e8b351eb5b308b850be03c11","pr":73492}
+{"seq":729,"attempt":"gate-f9597d","ref":"heads/release-ap","old":"cef7b0ff9842d83556ad6f3bbd571b2acd460172","new":"046e4772b5e2fb29f51895f8bf84ac411fa617cc","push":"f6bce03f283c0d53","note":"corrige les reprises"}
+{"seq":730,"attempt":"gate-506825","ref":"heads/feat-search","old":"91eed7aa20d490468a614e7cfee06d73619c4f59","new":"bba70b77425c65e81d99c36657305784611f0958","push":"e0d519c146253d09","note":"cache budget"}
+{"seq":731,"attempt":"merge-4977b4","ref":"heads/main","old":"6b25740bd5f61a53e8b351eb5b308b850be03c11","new":"fef718a788b303040ee57cbae274466b5090b5a4","pr":89409}
+{"seq":732,"attempt":"gate-c12383","ref":"heads/feat-audit","old":"a36c32aa3c0dada35c2586953c903d8a7892bf34","new":"022f1963e226fc6d36ee5135ebe47fedfc6eb1d3","push":"d72426253f160395","note":"cursor handling"}
+{"seq":733,"attempt":"gate-a0ac9b","ref":"heads/feat-audit","old":"022f1963e226fc6d36ee5135ebe47fedfc6eb1d3","new":"5ec6361bdef4c61a27f8f265f21920e335817aa9","push":"af06653799683a9b","note":"ready for review"}
+{"seq":734,"attempt":"gate-4051c5","ref":"heads/feat-search","old":"bba70b77425c65e81d99c36657305784611f0958","new":"961c5ff76b1423c144d92cadab47b7042c6ca190","push":"ccb58d14da4b45d1","note":"cache budget"}
+{"seq":735,"attempt":"gate-038363","ref":"heads/release-us","old":"afc0b63978faba21db6f37784be448232e149acb","new":"66253d79629fe6506ad95a4b2a162edb5e3209a4","push":"6ef09bdf07dbb8a5","note":"ready for review"}
+{"seq":736,"attempt":"merge-8dce71","ref":"heads/main","old":"fef718a788b303040ee57cbae274466b5090b5a4","new":"0afaa7f2f5cde3ade06ce7f137a0afb8088e9c9d","pr":36952}
+{"seq":737,"attempt":"gate-02c977","ref":"heads/feat-routing","old":"b08f034f9fdf2a33576a54f6a2eb35ea72fe7dda","new":"4815b443a7425fe835eef41b2375b8091d298df0","push":"ac594c9fb513af99","note":"再試行"}
+{"seq":738,"attempt":"merge-5b055e","ref":"heads/main","old":"0afaa7f2f5cde3ade06ce7f137a0afb8088e9c9d","new":"e6f74d94b0e8cb450fba0de9e1a0d9ff73966301","pr":44910}
+{"seq":739,"attempt":"gate-15ab63","ref":"heads/feat-cache","old":"00de3932438ac051201c3b5e6e3daf382bdadcae","new":"0ab73b8f6798c6d76c44361f168d8d6e3328cb7b","push":"2c0eee5945d88a8d","note":"keep the regional fallback"}
+{"seq":740,"attempt":"gate-b4a5e1","ref":"heads/feat-routing","old":"4815b443a7425fe835eef41b2375b8091d298df0","new":"80845d6c3b88280d739940b7e97e82b3ace4a5bf","push":"2c6e8fb9a283ed41","note":"audit scope"}
+{"seq":741,"attempt":"merge-e38141","ref":"heads/main","old":"e6f74d94b0e8cb450fba0de9e1a0d9ff73966301","new":"96dab033c92843f932ff4c4d2ffa4a60be29387e","pr":91823}
+{"seq":742,"attempt":"gate-33882a","ref":"heads/feat-search","old":"961c5ff76b1423c144d92cadab47b7042c6ca190","new":"90295b0571d16797bdad519f34e8c5abe63e9c4c","push":"2e33ea7eb2f78a56","note":"ready for review"}
+{"seq":743,"attempt":"merge-4c5562","ref":"heads/main","old":"96dab033c92843f932ff4c4d2ffa4a60be29387e","new":"9be2522dca2f13ef0900c46fd220162caea10639","pr":74377}
+{"seq":744,"attempt":"merge-3d5511","ref":"heads/main","old":"9be2522dca2f13ef0900c46fd220162caea10639","new":"293b80b40134810014eacea2ac48153ae7773455","pr":42732}
+{"seq":745,"attempt":"merge-4dcd3e","ref":"heads/main","old":"293b80b40134810014eacea2ac48153ae7773455","new":"a458a66f348ff618ddb51da38dae89fc8d180f1c","pr":76764}
+{"seq":746,"attempt":"merge-774f1a","ref":"heads/main","old":"a458a66f348ff618ddb51da38dae89fc8d180f1c","new":"417e3e8c9d0027e013771cf45045e2db143b5702","pr":77073}
+{"seq":747,"attempt":"merge-94e8d8","ref":"heads/main","old":"417e3e8c9d0027e013771cf45045e2db143b5702","new":"2690d8ce63221592ea103fa290d77701b79dd881","pr":5684}
+{"seq":748,"attempt":"gate-1298e5","ref":"heads/feat-routing","old":"80845d6c3b88280d739940b7e97e82b3ace4a5bf","new":"ddd0daabd7f80b97bdcd2c3b60ba02f8fa8005c6","push":"6cb3577b8fdb2deb","note":"cursor handling"}
+{"seq":749,"attempt":"merge-5d20c5","ref":"heads/main","old":"2690d8ce63221592ea103fa290d77701b79dd881","new":"d1874e678acae7612049443da0310d70dcb3e1b8","pr":66971}
+{"seq":750,"attempt":"gate-1c1eab","ref":"heads/feat-routing","old":"ddd0daabd7f80b97bdcd2c3b60ba02f8fa8005c6","new":"d139baaca0bcc45d57aa8c0bbfba4d1d27b60700","push":"3b65b111f9b12207","note":"再試行"}
+{"seq":751,"attempt":"gate-6e49c9","ref":"heads/feat-retry","old":"c4ea0a7929f33dcdbd7548763c0e1d89564a3f5d","new":"16a7073d61548580ded6c6c56064f9b760e036ea","push":"ff530f43bda4d4cd","note":"cursor handling"}
+{"seq":752,"attempt":"gate-0f26a7","ref":"heads/release-eu","old":"72272f1973cb10d4724b06487007346944e6b472","new":"b43e4423a3a2bff247df5e7ddc0513dc13b46afc","push":"fa37c1b0a2d521d5","note":"audit scope"}
+{"seq":753,"attempt":"gate-0172e7","ref":"heads/release-ap","old":"046e4772b5e2fb29f51895f8bf84ac411fa617cc","new":"89e9d410d6a13004152360a1a8017f668b82f917","push":"c390d4d368ba286e","note":"corrige les reprises"}
+{"seq":754,"attempt":"gate-8c4395","ref":"heads/feat-leases","old":"08e0c68d6ede0bd261b5a20ddba1ea20e1d68967","new":"3293b92b8e95663fe4917c8d20fd5e1de57d82e7","push":"bb3c0e62dea0f6fd","note":"再試行"}
+{"seq":755,"attempt":"gate-e26d06","ref":"heads/release-ap","old":"89e9d410d6a13004152360a1a8017f668b82f917","new":"e5b7bab65ddbe4995050686309779f64aa645b6b","push":"d743652f7057f2b9","note":"keep the regional fallback"}
+{"seq":756,"attempt":"gate-78ba31","ref":"heads/feat-locale","old":"5da29aad5dd67a6e88aa125817cdff981ea5c91b","new":"9d81792aeb98414ee9eb6b4af0c5afcafeb4958f","push":"8f52ba2b4ac7f1e7","note":"lease metrics"}
+{"seq":757,"attempt":"merge-2b1857","ref":"heads/main","old":"d1874e678acae7612049443da0310d70dcb3e1b8","new":"0f272779cab2d34b408a8b05a677fe9a2bd0c6ea","pr":91709}
+{"seq":758,"attempt":"gate-d6bf1f","ref":"heads/feat-planner","old":"22732a8e8476a95bda1a3ff118ab6210cff0db4a","new":"0ae32063f9d4449b317472c770cfe9a68b52e7f7","push":"cab7a35afe5bc1c6","note":"lease metrics"}
+{"seq":759,"attempt":"gate-fd6ddd","ref":"heads/feat-routing","old":"d139baaca0bcc45d57aa8c0bbfba4d1d27b60700","new":"83f7b053fb734801dde049bd4c34ac14687b6e78","push":"c3bc6115169fad08","note":"再試行"}
+{"seq":760,"attempt":"merge-92f5c2","ref":"heads/main","old":"0f272779cab2d34b408a8b05a677fe9a2bd0c6ea","new":"212bd0d8e88d3e74b6514ec1824f219bd49e6fea","pr":84848}
+{"seq":761,"attempt":"gate-c01ba3","ref":"heads/feat-search","old":"90295b0571d16797bdad519f34e8c5abe63e9c4c","new":"f5913212a66b889bd74ca434196ca8ce017bc8f5","push":"c4f1590dd4837ec1","note":"index rollout"}
+{"seq":762,"attempt":"merge-884fd5","ref":"heads/main","old":"212bd0d8e88d3e74b6514ec1824f219bd49e6fea","new":"9fbcdb1961cfb1b639afbd94b124418df9e90209","pr":14478}
+{"seq":763,"attempt":"merge-d9067e","ref":"heads/main","old":"9fbcdb1961cfb1b639afbd94b124418df9e90209","new":"8934f0e965c1e1cb387dc40421d3575d11670732","pr":46926}
+{"seq":764,"attempt":"merge-4ed0d0","ref":"heads/main","old":"8934f0e965c1e1cb387dc40421d3575d11670732","new":"214a01bdd4920f5f361b4571960b9d1cd00eafe2","pr":84171}
+{"seq":765,"attempt":"gate-063f0a","ref":"heads/release-ap","old":"e5b7bab65ddbe4995050686309779f64aa645b6b","new":"6e9a8e870dc234d777498e8163887ca3ebef6718","push":"2414e5550de64558","note":"再試行"}
+{"seq":766,"attempt":"gate-76693b","ref":"heads/release-eu","old":"b43e4423a3a2bff247df5e7ddc0513dc13b46afc","new":"494511176113e788eb43806bbd02463c26f9b776","push":"1c74d09f409b48a8","note":"audit scope"}
+{"seq":767,"attempt":"gate-d958ca","ref":"heads/feat-audit","old":"5ec6361bdef4c61a27f8f265f21920e335817aa9","new":"767371198185c29b3332fce0b82ac25cba43934d","push":"9d4490813318958f","note":"cursor handling"}
+{"seq":768,"attempt":"gate-938aa4","ref":"heads/feat-graph","old":"ab775def60da2936b2deb7f1513d126f1430e3d8","new":"6ec40ff88014095c8b6e4a56a3088f9b5d346aec","push":"09529efe3893208d","note":"cache budget"}

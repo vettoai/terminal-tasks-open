@@ -1,0 +1,5 @@
+#!/bin/sh
+set -eu
+exec /usr/local/bin/mongod --bind_ip 127.0.0.1 --port 27017 \
+    --dbpath /var/lib/mongodb --logpath /var/lib/mongodb/verification-mongod.log \
+    --fork --wiredTigerCacheSizeGB 1

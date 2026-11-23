@@ -1,0 +1,77 @@
+{
+  "deploy/ap": [
+    "8db36cbe4e22c518cc83d25a9def2bf4c5b3fe62"
+  ],
+  "deploy/eu": [
+    "4de6a12869a87272283e8e33c222a9b56ca505b6"
+  ],
+  "deploy/staging": [
+    "d3e4dae38117f150ce365532b3f0a988d7a695e3"
+  ],
+  "deploy/us": [
+    "7f7189b48c8a1285aa11ab2876b35c559bcc0475"
+  ],
+  "heads/feat-audit": [
+    "95a8cabab0beeb9dc333cdef19f5b9fbec83ecea"
+  ],
+  "heads/feat-billing": [
+    "ab531326676b283da26e92987db7a8a51828dfe0",
+    "b77cc3d042cf6583793cbd7b7f0f81be778425ab",
+    "efa36f04446a2630c8e0d6199680ff062ef81604"
+  ],
+  "heads/feat-cache": [
+    "f922102dca757a8469a2aca271cba3c47cfbca57"
+  ],
+  "heads/feat-cursor": [
+    "22dbbec34dc4e8fb3b1b1ddf579d7cc547c41841",
+    "563e8d09ec0242148bb46a6109ed51e0ddc7d9b3",
+    "d3f2b1db53b9ea358dd9ffa0e760c88ad5f1c7d7"
+  ],
+  "heads/feat-graph": [
+    "50f62a67ca0e82f1de4b118035e726a078267989"
+  ],
+  "heads/feat-index": [
+    "a5ab4b0d9b47575fe8b03655feec5276ffb677c4"
+  ],
+  "heads/feat-ingest": [
+    "554a3b63a6ba58388b4bc8681e49045e5a7fe277",
+    "59dc4f09bf9759ff9ad638b4970208c78315b42e",
+    "861abdcd7983d7b1a6443d5422e2011fdf8f5cf6",
+    "94d308ef71f0266b42cb35ae81a327edc3d78dc8",
+    "de36d88d18f47a71c2e722c3e91cf256b34026e2",
+    "fda830ee93d1b93da6eb992134a936cfd38fe863"
+  ],
+  "heads/feat-leases": [
+    "bd54e14bc10c94994942ae60c6effc74e9c5790a"
+  ],
+  "heads/feat-locale": [
+    "ad87377168a36273bc7bb9ea523484753e94cb8b"
+  ],
+  "heads/feat-planner": [
+    "e490832b9581d1bcdd2428af923dba6d48162998"
+  ],
+  "heads/feat-retry": [
+    "9525d0b9bddf0477cbe15a093845828654e0881a"
+  ],
+  "heads/feat-routing": [
+    "e8ddecb8b4a6e94993cef9f3745fdafe230e6da5"
+  ],
+  "heads/feat-schema": [
+    "081d9ca27004544eb0cd48c452366d5b8f17155e"
+  ],
+  "heads/feat-search": [
+    "b8a438ca7f6160122ccc9eb3b89f1f1a81f6a05f"
+  ],
+  "heads/main": [
+    "695205d3d6dd8af206b2289699e88686c46a5111"
+  ],
+  "heads/release-ap": [
+    "729bfc6c1c3617ca31e08ebc704a84fd01dbb8ce"
+  ],
+  "heads/release-eu": [
+    "67e653e79bbdd8da3604f8fcfe7d29d4d28538fd"
+  ],
+  "heads/release-us": [
+    "c13f5734349ab30e8c4ca3cab82b9a2f961e1c36"
+  ]
+}

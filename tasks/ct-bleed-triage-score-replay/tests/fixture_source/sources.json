@@ -1,0 +1,4750 @@
+{
+  "sources": [
+    {
+      "case": 71,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-71.zip",
+      "sha256": "615288bbe11628013bd36e0471bbe43cfc890121074b7145f691cd93c17334b8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713178.1744181",
+      "directory": "CQ500CT71 CQ500CT71/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 72,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-72.zip",
+      "sha256": "5bfdccd76f748b2490d6ab7c15af0b300a8d0e052be10ed9d13cb3d841150d86",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713198.1749741",
+      "directory": "CQ500CT72 CQ500CT72/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 73,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-73.zip",
+      "sha256": "ce7063675a9183a4fcf400d1496f5f70b1c5e707a1d194c31bd99f70ebe4f9e9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713832.1914377",
+      "directory": "CQ500CT73 CQ500CT73/Unknown Study/CT C",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 74,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-74.zip",
+      "sha256": "4327ad00fbebf33821547485e4d2a89e5ba422d6fac326ed4923219ebc89c418",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713145.1735713",
+      "directory": "CQ500CT74 CQ500CT74/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 75,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-75.zip",
+      "sha256": "b91c4050ae42477a54e5e4d60402fe87b0ab956e042511f29241b191a5f46fcc",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713675.1873003",
+      "directory": "CQ500CT75 CQ500CT75/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 77,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-77.zip",
+      "sha256": "3de67b83d8094acf37e0abb707b4dfcc339c458dc920b00d51d159995b76e4ba",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713261.1765976",
+      "directory": "CQ500CT77 CQ500CT77/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 78,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-78.zip",
+      "sha256": "faa09d88f827daf83f3325c605a0b7a253a95b4ecf5ae6dd372e48f1bc74543f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713504.1827067",
+      "directory": "CQ500CT78 CQ500CT78/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 81,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-81.zip",
+      "sha256": "d364b1c68c6320ea5b39e3c44bbe3de909551362d80694ca8f0140b8e2bbda2a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521712982.1694377",
+      "directory": "CQ500CT81 CQ500CT81/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 83,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-83.zip",
+      "sha256": "70fdda02f5b70d69c0ca6edbf75bdf35fe3afa5c41707ca11b8ae91c58786733",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713358.1788997",
+      "directory": "CQ500CT83 CQ500CT83/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 84,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-84.zip",
+      "sha256": "394b1c0e38bdf7ca263c55496796ba684208eedebed7cca3ee90caf7ff6f9119",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714126.1994623",
+      "directory": "CQ500CT84 CQ500CT84/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 85,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-85.zip",
+      "sha256": "903aaa5ea91936d17bad8843c23cb05f44f8a7d30fdd30e334dc5830995956e8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713932.1944367",
+      "directory": "CQ500CT85 CQ500CT85/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 87,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-87.zip",
+      "sha256": "fd83887b1ef21a3288b9a1a567abdf666ca367f36dbf2b07fc820548f7f6cf25",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714471.2063476",
+      "directory": "CQ500CT87 CQ500CT87/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 88,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-88.zip",
+      "sha256": "2386cd9d8307af6510dcf7c472ac1f44113dd99b65e1c20f81953b7ef2802a3e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713213.1753577",
+      "directory": "CQ500CT88 CQ500CT88/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 89,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-89.zip",
+      "sha256": "ffac673068c7a6bd508868385644ff5b77cb3b281fbabc3b894a6e7146dedcef",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713119.1729036",
+      "directory": "CQ500CT89 CQ500CT89/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 90,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-90.zip",
+      "sha256": "7d52010a032956e333de7b9b71969ced5a63a37aec519e7ae3076881e6cc931e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713569.1846394",
+      "directory": "CQ500CT90 CQ500CT90/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 91,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-91.zip",
+      "sha256": "8bd4afbf3f05a7c200a4db1832c9ca600ab6741feac9710b16b9c84f124dfa4c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713310.1777831",
+      "directory": "CQ500CT91 CQ500CT91/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 92,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-92.zip",
+      "sha256": "616ae9e08056ff6803a8411b0d03420008bba4269508ee7818410e6f17ed8da2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713328.1781845",
+      "directory": "CQ500CT92 CQ500CT92/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 93,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-93.zip",
+      "sha256": "1c1a43af9b70f562586ce08230cfe0a05d72b2388c7de592c8b9ef29c6bbb333",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713912.1938130",
+      "directory": "CQ500CT93 CQ500CT93/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 94,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-94.zip",
+      "sha256": "52239a38134b62cb71b634bfcc0ddc50981ab52428c63baa7e2c2376902e3ef9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713666.1871452",
+      "directory": "CQ500CT94 CQ500CT94/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 95,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-95.zip",
+      "sha256": "994af727f36ca6f8639622418539737f52c100e2c2507c401b5e9eda17dedd89",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713089.1721932",
+      "directory": "CQ500CT95 CQ500CT95/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 97,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-97.zip",
+      "sha256": "e6eef56391bc2a2d373f650a6ae75421f67de45a15e2ef5e52509662bc3c07dd",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713158.1738991",
+      "directory": "CQ500CT97 CQ500CT97/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 98,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-98.zip",
+      "sha256": "10f797ef1a9606b7d1c3a4b7e5109371368918370c9215910dedb4d503405244",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713153.1737928",
+      "directory": "CQ500CT98 CQ500CT98/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 99,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-99.zip",
+      "sha256": "ad7a02ba2871db5cdb356d5b17b0983834f02ab2bbd5777973e917831872326e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713278.1770691",
+      "directory": "CQ500CT99 CQ500CT99/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 100,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-100.zip",
+      "sha256": "3c527ae1c88ed43a4a54a1880e35d66a9d91e2e44a7b3a5d468804ab734b5d59",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713659.1870254",
+      "directory": "CQ500CT100 CQ500CT100/Unknown Study/CT Plain 3mm",
+      "instances": 57,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 101,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-101.zip",
+      "sha256": "253ef2213ce39b6d1f2065f91f2b4343bbcd294380a77ea27b3d7f3b1ae77f3f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713389.1795354",
+      "directory": "CQ500CT101 CQ500CT101/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 102,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-102.zip",
+      "sha256": "b3c4d6763e6dfdaa459c7f50bfa097f2965ea8e38da30a4c9026d641a644cc43",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714401.2052022",
+      "directory": "CQ500CT102 CQ500CT102/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 103,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-103.zip",
+      "sha256": "da8f7e78aece5d421a4181f280139646617609a1c8073acceeb7e8fa2739b73f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713040.1709447",
+      "directory": "CQ500CT103 CQ500CT103/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 105,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-105.zip",
+      "sha256": "497c227995d111ada9cf2e47c56f3b430bc59cb010bb103cc395faceb4ca6e7d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713207.1752140",
+      "directory": "CQ500CT105 CQ500CT105/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 106,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-106.zip",
+      "sha256": "1adade23ba4ee5e0010457614bcfc553d98d50c823bcba29bca9fb962a5c6c03",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713629.1863915",
+      "directory": "CQ500CT106 CQ500CT106/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 107,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-107.zip",
+      "sha256": "28b66baa4e164d2cfc034b2767b7ce3d8c2ac71b654bb43028c0a4449f4e0113",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713990.1960228",
+      "directory": "CQ500CT107 CQ500CT107/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 109,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-109.zip",
+      "sha256": "1484816836b816297fe14f9b403071483483c4833ecdd9095397a3379906d683",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713528.1834034",
+      "directory": "CQ500CT109 CQ500CT109/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 110,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-110.zip",
+      "sha256": "6b305eba5e04ffb11e89763a956a739ec5bd963537eac845e3664ec84ccd643e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713780.1900273",
+      "directory": "CQ500CT110 CQ500CT110/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 111,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-111.zip",
+      "sha256": "9f5b70154dd373a2d48fe15b356ad30f66129fa362cdb98691d930f1cced779c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714269.2023573",
+      "directory": "CQ500CT111 CQ500CT111/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 112,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-112.zip",
+      "sha256": "2c05b9b9592faa64f1ee225307e4789bf48fe74d2f9cf8c746bf4cd2ee7300c1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714492.2066995",
+      "directory": "CQ500CT112 CQ500CT112/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 113,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-113.zip",
+      "sha256": "ac7b011ab201812bad669164d0f1291c17dcea090233446245a78f08add692d1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714133.1996365",
+      "directory": "CQ500CT113 CQ500CT113/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 114,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-114.zip",
+      "sha256": "7643053370b209d5d8ca19f7ba947e176025bc3a2024b10f0330d862cda82057",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714546.2076057",
+      "directory": "CQ500CT114 CQ500CT114/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 115,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-115.zip",
+      "sha256": "9cf0fe22b626d358f1066af3ea7352b8d2ecfca86c23116c8409c463bd1315b9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713674.1872773",
+      "directory": "CQ500CT115 CQ500CT115/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 116,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-116.zip",
+      "sha256": "9ce6071f8942e31e0136aa67dcbd8883c1bde442471db845cc1f63232bcb0d04",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713329.1781999",
+      "directory": "CQ500CT116 CQ500CT116/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 117,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-117.zip",
+      "sha256": "16704d5c8de02827eb6f018e01d2af65c4213b0c8693ef786682d487f6a72813",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714862.2132336",
+      "directory": "CQ500CT117 CQ500CT117/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 118,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-118.zip",
+      "sha256": "1eee8fd6062d72d915d633a56b948e3c9f1e75057912c690120094c5312cfc4a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713644.1867525",
+      "directory": "CQ500CT118 CQ500CT118/Unknown Study/CT Plain 3mm",
+      "instances": 49,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 119,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-119.zip",
+      "sha256": "1aaa78032532efda6d2bf0a68775f48d3e7011c3f104942368c18798be9be003",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714732.2106810",
+      "directory": "CQ500CT119 CQ500CT119/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 124,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-124.zip",
+      "sha256": "dd71bc0aa86463b51ad835faaf43ce3bb88c80ddb0c75c6db1c561eda6f8b7af",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713108.1726303",
+      "directory": "CQ500CT124 CQ500CT124/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 125,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-125.zip",
+      "sha256": "335a3f6eac13f1d40277d5cf7ffd371b03ef08c17a5378471a7aadeb08fbea08",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714196.2007267",
+      "directory": "CQ500CT125 CQ500CT125/Unknown Study/CT 2.55mm",
+      "instances": 48,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 126,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-126.zip",
+      "sha256": "0bbd897e9f1eb74052d64bfb3f1a90b4ec66ce0388e6652090bcb482aec4022c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714258.2021616",
+      "directory": "CQ500CT126 CQ500CT126/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 127,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-127.zip",
+      "sha256": "12e4de9097ae156913c050c350b6cce20fc8217820847559a2d4a0d1c3b08b35",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713045.1710926",
+      "directory": "CQ500CT127 CQ500CT127/Unknown Study/CT 55mm Plain",
+      "instances": 44,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 128,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-128.zip",
+      "sha256": "33e3e3758430755a23afe140640f08ee5d9ff854b68f7f2df1027f25f1854b89",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714623.2088358",
+      "directory": "CQ500CT128 CQ500CT128/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 129,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-129.zip",
+      "sha256": "cf6525b3ca55e1144dce40b9d8144232fd62f59721d926318ea057da84ee0c0b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714771.2113828",
+      "directory": "CQ500CT129 CQ500CT129/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 130,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-130.zip",
+      "sha256": "24e068acac2536a2deb96a1760ee840dd40c7d421c1dcddb7f5ece6188287d34",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713944.1947713",
+      "directory": "CQ500CT130 CQ500CT130/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 131,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-131.zip",
+      "sha256": "45856833a59c611c338efa126ec48f02aba80e1edf410d338e4a7020b2c14f59",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713667.1871564",
+      "directory": "CQ500CT131 CQ500CT131/Unknown Study/CT Plain 3mm",
+      "instances": 49,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 132,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-132.zip",
+      "sha256": "2f1b24c11cdae7d0d94c148b0a7e4639b0f45b5515c533776be79c932298d595",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713047.1711373",
+      "directory": "CQ500CT132 CQ500CT132/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 134,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-134.zip",
+      "sha256": "31b1046134cbfb57c165005dca6aa80ba7df34fdee7296850816d7f7d7c45a1f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713654.1869362",
+      "directory": "CQ500CT134 CQ500CT134/Unknown Study/CT Plain 3mm",
+      "instances": 50,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 135,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-135.zip",
+      "sha256": "2b880c99789767d2eb0c76d15eb4395b58633197acc489e555cf45c94e9975d1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714321.2035793",
+      "directory": "CQ500CT135 CQ500CT135/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 136,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-136.zip",
+      "sha256": "5c5b6c5f7b8efb533053217bb7f6cfacce6c062ba73ce706099c6bedc52295c7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714100.1988279",
+      "directory": "CQ500CT136 CQ500CT136/Unknown Study/CT 2.55mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 138,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-138.zip",
+      "sha256": "4ab08f441166c7ad4a100a3090149fc9a5f4dd602456cdc1407bfbc08d277c06",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713191.1747660",
+      "directory": "CQ500CT138 CQ500CT138/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 139,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-139.zip",
+      "sha256": "37012eee1f09e555c90d3ede1b773a78812256f524bd1e5ef571a794fbfe26c4",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713467.1816314",
+      "directory": "CQ500CT139 CQ500CT139/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 141,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-141.zip",
+      "sha256": "89c2430e56d78df0f2e8000e5122a73659f787a543d98f616b7c85853a3b4dc1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714709.2102904",
+      "directory": "CQ500CT141 CQ500CT141/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 142,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-142.zip",
+      "sha256": "d3341e49ca645adda109b83694e61f949467d5335f4be00d9a485d420a716121",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714017.1966999",
+      "directory": "CQ500CT142 CQ500CT142/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 143,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-143.zip",
+      "sha256": "52a0c5eeb55ffaf90f0fbc05d68fd456303dc4f6080abf3d7822433505391b99",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713381.1793961",
+      "directory": "CQ500CT143 CQ500CT143/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        1
+      ],
+      "ich": false
+    },
+    {
+      "case": 144,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-144.zip",
+      "sha256": "c100014ea9e91d1f1167e2ae896432fed9e47edd40611390e8cdce7ea44e8788",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714615.2087068",
+      "directory": "CQ500CT144 CQ500CT144/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 145,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-145.zip",
+      "sha256": "36769a4cd1482db2b188e2ef14cfc86dd2ca289331de715c270ca4ca490151c2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713295.1774217",
+      "directory": "CQ500CT145 CQ500CT145/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 146,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-146.zip",
+      "sha256": "073e06759aacc84519283a8df66b1acca499de39e91ea330f684539b89b6267e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713221.1755637",
+      "directory": "CQ500CT146 CQ500CT146/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 147,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-147.zip",
+      "sha256": "30d460684d510b5bb22641985beb0158bb5cd69bc9f6a266789be80acd1dcd68",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714523.2072258",
+      "directory": "CQ500CT147 CQ500CT147/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 148,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-148.zip",
+      "sha256": "1cadaa196339e62f522a5f5a8653f09645e81488654c7bf1db1c09284290321d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713744.1891048",
+      "directory": "CQ500CT148 CQ500CT148/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 149,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-149.zip",
+      "sha256": "a4b0f12cde4f8cdcca6636176c19d113570ffc0f6c4d6cfcdbe9186b9c02928b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713510.1828881",
+      "directory": "CQ500CT149 CQ500CT149/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 150,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-150.zip",
+      "sha256": "25b7a21b31257312df2b4009291acc275cd5c220af62d03826e97e94ad2158b4",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713716.1883520",
+      "directory": "CQ500CT150 CQ500CT150/Unknown Study/CT 55mm Contrast",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 151,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-151.zip",
+      "sha256": "e31872f1a093c63c43498718f1752c0f5bf476e68ffc43d78b1c1979d62187ec",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713671.1872321",
+      "directory": "CQ500CT151 CQ500CT151/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 152,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-152.zip",
+      "sha256": "cd2a1bed6108f58e811ad2c7e575a941d05a7be5d1740a361d34707b57cac165",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713440.1808717",
+      "directory": "CQ500CT152 CQ500CT152/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 154,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-154.zip",
+      "sha256": "b3da601d6799faf741d70185d49b639c1e5218cb45944bb81ea0a2f3602c23c7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713940.1946615",
+      "directory": "CQ500CT154 CQ500CT154/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 155,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-155.zip",
+      "sha256": "d53e0da280f391fb8c2a6b8d423b3b70e53a2e3166ad49fcb931cc44d62fc9cf",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713524.1832945",
+      "directory": "CQ500CT155 CQ500CT155/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 157,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-157.zip",
+      "sha256": "f4ba972077940bc38cc6706b7e7acbaf68fd4a524eb09b82c223888e91294041",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714479.2064785",
+      "directory": "CQ500CT157 CQ500CT157/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 159,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-159.zip",
+      "sha256": "275c222520accec1e7ca38ebfe672d574cede285c8fd837f959b164a19e20079",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713561.1844030",
+      "directory": "CQ500CT159 CQ500CT159/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 161,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-161.zip",
+      "sha256": "b4ab786440dfc9c812e30b1e93101d0c9c3997bf8b58679a39e07c5178672ce3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714466.2062611",
+      "directory": "CQ500CT161 CQ500CT161/Unknown Study/CT Plain 3mm",
+      "instances": 47,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 162,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-162.zip",
+      "sha256": "ba277ec720497fda23ca979b831d6d068042d6c9c0dbbbbf23ee25cedbd44a2d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521712995.1697568",
+      "directory": "CQ500CT162 CQ500CT162/Unknown Study/CT Plain-3",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 164,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-164.zip",
+      "sha256": "5955c089f4d30e73ae78ded32901b6d84dbe7b52d13e7aee3e9efe0ccf57598c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713884.1929984",
+      "directory": "CQ500CT164 CQ500CT164/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 165,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-165.zip",
+      "sha256": "f05458720617e2c06e82ef6f37945cd063c7ee08d97b89c651b05eb4e00f4536",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713244.1761380",
+      "directory": "CQ500CT165 CQ500CT165/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 166,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-166.zip",
+      "sha256": "4bf9a05ce380b2455be6a6182d675443e80883afc4d23983c9e2b8c0221a1952",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713007.1700799",
+      "directory": "CQ500CT166 CQ500CT166/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 167,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-167.zip",
+      "sha256": "dabbf6c6b35917b2dad11e8bcb739558db514566243da4c428493c7a6581ff89",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713506.1827716",
+      "directory": "CQ500CT167 CQ500CT167/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 168,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-168.zip",
+      "sha256": "92c5054b2eb22ad93eb1745cff666fe78f62850abe4fb26f3d8194cc5e7844c6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713917.1939501",
+      "directory": "CQ500CT168 CQ500CT168/Unknown Study/CT BRAIN PLAIN",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 169,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-169.zip",
+      "sha256": "ab046dbe625a0e79a8608dc43d7b90fbaed8fb20e9a6af857f27459d919f927c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714516.2071045",
+      "directory": "CQ500CT169 CQ500CT169/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 170,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-170.zip",
+      "sha256": "4833e32f92e571fbb920a936ed8ad747f1025536d6451b8b65f20b6e35dd8c12",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714516.2070934",
+      "directory": "CQ500CT170 CQ500CT170/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 171,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-171.zip",
+      "sha256": "91f44696db00fe6cee7a362653be3dbeff47c0399d9375c67cb8e1a0277ccd86",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713358.1789095",
+      "directory": "CQ500CT171 CQ500CT171/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 172,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-172.zip",
+      "sha256": "f11c522397194d2184624e83f45acc9d940a8c0cc7dc73ad65a53d0e7d96feb1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713706.1880990",
+      "directory": "CQ500CT172 CQ500CT172/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 173,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-173.zip",
+      "sha256": "d89fecf54a5c6098a99aefa482c0bfa2e937c35826bfeb385da760a31ad7fa78",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714306.2031934",
+      "directory": "CQ500CT173 CQ500CT173/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 174,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-174.zip",
+      "sha256": "a444884d8dcaf53f434ad8637a629bf05d06e641a75d20246e4d77f9ceb69916",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713449.1811043",
+      "directory": "CQ500CT174 CQ500CT174/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 175,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-175.zip",
+      "sha256": "440a9c2c96c0a01664976397080b035579f5981fa3bf79109bcde7086baeeeb8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713111.1727178",
+      "directory": "CQ500CT175 CQ500CT175/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 177,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-177.zip",
+      "sha256": "4142e9ffd44d16b80c1582fc24e9532d1965ba26372bc807d43acf895b0e338b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713902.1935487",
+      "directory": "CQ500CT177 CQ500CT177/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 178,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-178.zip",
+      "sha256": "3407f81d3c9698227453972b7a548e699a9ea1720446ed8b2e1649ef6a9f9211",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713334.1783461",
+      "directory": "CQ500CT178 CQ500CT178/Unknown Study/CT Plain",
+      "instances": 26,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 179,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-179.zip",
+      "sha256": "b91a4f17f19b0fc6918d191888af7fcb3d0cc822c7201bdde7f679b313cb5864",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713342.1785434",
+      "directory": "CQ500CT179 CQ500CT179/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 180,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-180.zip",
+      "sha256": "ec3dcc7d9548191fff3e055d8b43f68312fc6a2ac8b35ccf29ce3441fffb28ea",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713484.1821187",
+      "directory": "CQ500CT180 CQ500CT180/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 182,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-182.zip",
+      "sha256": "57f3c0e67130559ce2b62a01a7639eb843ae89f20105a00a1aa2e409c3448b4f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714679.2097813",
+      "directory": "CQ500CT182 CQ500CT182/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 183,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-183.zip",
+      "sha256": "2a9ee3a5f293cf9f5110d56101b0378dd38d7e4628c5b693f5092a5e24172d0f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713897.1933931",
+      "directory": "CQ500CT183 CQ500CT183/Unknown Study/CT C",
+      "instances": 44,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 185,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-185.zip",
+      "sha256": "4740cf87cba7dfe85c133a3cb3c3927465b7dd88278e75ec6fc87f5a2f9fd90f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713819.1910706",
+      "directory": "CQ500CT185 CQ500CT185/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 186,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-186.zip",
+      "sha256": "bd01015a8bd77e700b32bf10c45e55da76e8ce08f37c479b351f3fce56fcc588",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714627.2089080",
+      "directory": "CQ500CT186 CQ500CT186/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 187,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-187.zip",
+      "sha256": "4feb6040d393536b05eb29f4c0fa95029078cd8ad10b0291ebdae278c58c97f5",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714826.2125559",
+      "directory": "CQ500CT187 CQ500CT187/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 188,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-188.zip",
+      "sha256": "26dfcd59551e45db6585c5e09316d0834b6587f188ed65ca92e74a35a9c11073",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713557.1842867",
+      "directory": "CQ500CT188 CQ500CT188/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 189,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-189.zip",
+      "sha256": "7cb22861ecc61943611a5990788225b95ef1e179afda2d366495a4bbb1028029",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713340.1784885",
+      "directory": "CQ500CT189 CQ500CT189/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 190,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-190.zip",
+      "sha256": "dfc0d9398f050e9c47bef469359ed39e63b40d84a6ceed9f367831086e76c4fc",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714045.1974244",
+      "directory": "CQ500CT190 CQ500CT190/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 191,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-191.zip",
+      "sha256": "df9c22556163ef39018dc1268933ec3010addd2c90e4519c2e79cb93c0441b35",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713933.1944437",
+      "directory": "CQ500CT191 CQ500CT191/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 192,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-192.zip",
+      "sha256": "11f129c393f62ceea994949104ac877b9da5debb679f5c9c54d25ed2a1f4407e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713148.1736606",
+      "directory": "CQ500CT192 CQ500CT192/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 193,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-193.zip",
+      "sha256": "699f241ec7ce3a288c0a785a07efc20773707ab3b43e50908436eab0d7e479cc",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713421.1803075",
+      "directory": "CQ500CT193 CQ500CT193/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 194,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-194.zip",
+      "sha256": "2df128682c77bb406d4abba28d9f7f6c649498d078bca49bd221af39f4e15db9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713164.1740442",
+      "directory": "CQ500CT194 CQ500CT194/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 195,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-195.zip",
+      "sha256": "29cffe99ed90baacc070f1e501b78631a58dbdd645f243375761621cf16957f8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713126.1730892",
+      "directory": "CQ500CT195 CQ500CT195/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 196,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-196.zip",
+      "sha256": "211656b4b3f345c54029c255cd21016649e2e2635b6ee27bf43f3965f17ac796",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713021.1704489",
+      "directory": "CQ500CT196 CQ500CT196/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 198,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-198.zip",
+      "sha256": "d4fe15a63c53f0352c7e5e60ea3fe79e8888e0ae4ec4e1e0b474e730880d6ce5",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713997.1961904",
+      "directory": "CQ500CT198 CQ500CT198/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 199,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-199.zip",
+      "sha256": "fd6d6b8004688a231f64fceb05373e0742fcffbdf19d1a30e664e262ebf13309",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713636.1866300",
+      "directory": "CQ500CT199 CQ500CT199/Unknown Study/CT Plain 3mm",
+      "instances": 51,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 202,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-202.zip",
+      "sha256": "24fee61e334f61675820261b8fc27251b33e65a90935fa3bd7aab57f8981c365",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714122.1993395",
+      "directory": "CQ500CT202 CQ500CT202/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 203,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-203.zip",
+      "sha256": "d9d93cfcd01ad22347a31145e2a8f18b821e29b145f35952b0c8a3a25ca9406b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714483.2065520",
+      "directory": "CQ500CT203 CQ500CT203/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 205,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-205.zip",
+      "sha256": "d3206b361923f2e9f300644c2790476a2dc9335ff7a750f3892646238e08f872",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714688.2099152",
+      "directory": "CQ500CT205 CQ500CT205/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        1,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 207,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-207.zip",
+      "sha256": "c071a7ccb07cb78b2ac7265220c61f4ad6fb4b9fd3b12979e01bcbe25199cd7f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713526.1833463",
+      "directory": "CQ500CT207 CQ500CT207/Unknown Study/CT 5mm",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 208,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-208.zip",
+      "sha256": "39cdbb214189eded4dd95274d9897e0280486055273a8854db4656b56a757c92",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714725.2105472",
+      "directory": "CQ500CT208 CQ500CT208/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 209,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-209.zip",
+      "sha256": "c5d954f1c34bdaada928c613de3caa014d9e54acb08ad64e221ce536d1e420fb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714509.2069893",
+      "directory": "CQ500CT209 CQ500CT209/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 210,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-210.zip",
+      "sha256": "088d16bed60932eb56ea588e1db816bded96e4c3c2f6c276e1218d045c97be50",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714477.2064555",
+      "directory": "CQ500CT210 CQ500CT210/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 212,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-212.zip",
+      "sha256": "aaa9cabf9efee9a88a999cc2d4e4d8b8c1316c136b830d702fe79a832adb35c6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713532.1835225",
+      "directory": "CQ500CT212 CQ500CT212/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 213,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-213.zip",
+      "sha256": "3fe2917b15ba45b2b5deae2ee8d6cf2d9dc6b68c5bb7aa910d1d9d18db1d393f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713965.1953423",
+      "directory": "CQ500CT213 CQ500CT213/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 214,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-214.zip",
+      "sha256": "e36bb7d71bb04c308cef6afd22032db31ff095468be60358dc8eccd4ee447229",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714779.2116028",
+      "directory": "CQ500CT214 CQ500CT214/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 215,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-215.zip",
+      "sha256": "1987172584009708d3c4c748e99c782b34a8ebffd75a8aff52d206ba2a7012fa",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714443.2058863",
+      "directory": "CQ500CT215 CQ500CT215/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 216,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-216.zip",
+      "sha256": "53e130ab4f720af89b289318a5771d0ac3f8a24284d30f11354a3624ba72618f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713463.1815150",
+      "directory": "CQ500CT216 CQ500CT216/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 217,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-217.zip",
+      "sha256": "d810f7101c15feaa380be8d5b1331dbdb413375c81e5f628d21e309ec6da4430",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713538.1836971",
+      "directory": "CQ500CT217 CQ500CT217/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 218,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-218.zip",
+      "sha256": "ca7b73c1f8f85a285e825a0b1252e38b061b139b19da27d6a45b08d238cc2b32",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713286.1772826",
+      "directory": "CQ500CT218 CQ500CT218/Unknown Study/CT Plain",
+      "instances": 26,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 219,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-219.zip",
+      "sha256": "6b4428f429ba20838fce9f8fee7cea3202143f710b9a392829d02ab7f644f855",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714557.2077815",
+      "directory": "CQ500CT219 CQ500CT219/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 220,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-220.zip",
+      "sha256": "68ca8c3eac518a7ca629685b10e09fbb7222d66fc566c0cd4be716abaf89dbfa",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713543.1838718",
+      "directory": "CQ500CT220 CQ500CT220/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        1,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 221,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-221.zip",
+      "sha256": "fd01458741ce72fe2d27a06a13f5267ae739f8ad661230d949c76621cc13028c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714846.2129308",
+      "directory": "CQ500CT221 CQ500CT221/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 222,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-222.zip",
+      "sha256": "2732e161911602395dddcb0dbd46ec1a3b5fb0ea4c161eac26aaaffd509cdf02",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713838.1916345",
+      "directory": "CQ500CT222 CQ500CT222/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 224,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-224.zip",
+      "sha256": "4c5c5d1d389bb5dd365b4bcebae9f327bf9bb704e89df1d83bc71276dd199030",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714509.2069784",
+      "directory": "CQ500CT224 CQ500CT224/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        0,
+        1,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 226,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-226.zip",
+      "sha256": "7318e647d71d581b873770cc4717e628e3167c13e1f777cb62bd6a8157382fba",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714230.2015182",
+      "directory": "CQ500CT226 CQ500CT226/Unknown Study/CT 5mm",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 227,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-227.zip",
+      "sha256": "4bad38a9734a5fa716d45762ce5ff1be38fe3f8ed69718210a84a62a1a8a1a35",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714759.2111496",
+      "directory": "CQ500CT227 CQ500CT227/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 228,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-228.zip",
+      "sha256": "cb0412d0aa60e5eb98c67dd21b9389ec3fc02163d0bf36b1e534b969ebcbc450",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713434.1807004",
+      "directory": "CQ500CT228 CQ500CT228/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 229,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-229.zip",
+      "sha256": "eced5d632dd4988a8847c33776b535f1acc28b2d7190e5adc7105fa7c083c185",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713122.1729955",
+      "directory": "CQ500CT229 CQ500CT229/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 231,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-231.zip",
+      "sha256": "4f42c64f556b2a0f8485c0bc75a50ff627a4da3c0c840fedee1c6661aa4a1891",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521712973.1691733",
+      "directory": "CQ500CT231 CQ500CT231/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 232,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-232.zip",
+      "sha256": "a14ce8191d2543ae77e3934b38f47ea9250f9df0fe5c1463baf5089a90b4806d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713606.1857098",
+      "directory": "CQ500CT232 CQ500CT232/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 233,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-233.zip",
+      "sha256": "572a50a67505666b87ca8b264c26d43b6745f2c5466e4cdbad2dfc79c63b915a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713401.1798171",
+      "directory": "CQ500CT233 CQ500CT233/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 234,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-234.zip",
+      "sha256": "28db52fe9603bbe45cb28ad34de25553042405ec2181ae7cfc3e059357a9c591",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714800.2120180",
+      "directory": "CQ500CT234 CQ500CT234/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 235,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-235.zip",
+      "sha256": "e4c5da36178508fc46c0eca4d3e8d7638f1bdbad0d80e5dc90703e8e03a56cdd",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713711.1882343",
+      "directory": "CQ500CT235 CQ500CT235/Unknown Study/CT 55mm Plain",
+      "instances": 40,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 236,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-236.zip",
+      "sha256": "49d3933c3f16ed184fa28896966e719738745f94da9fa193cec129f0bd92f72d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713476.1818792",
+      "directory": "CQ500CT236 CQ500CT236/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 238,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-238.zip",
+      "sha256": "047748bec414bba7fc389af2a91ccc3dd2f75747308c313488420fc7ed1a5a45",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714830.2126141",
+      "directory": "CQ500CT238 CQ500CT238/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 239,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-239.zip",
+      "sha256": "6fdaa6223ae034ffe387e7e310c7e470f0e6ead9cbb3ca25f3d91bf26f87bbfe",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714606.2085740",
+      "directory": "CQ500CT239 CQ500CT239/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 240,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-240.zip",
+      "sha256": "a041105e10ca14e9aab48784c8f0a295c5739b0d8d477b9c458dc6e3bd298708",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714541.2075189",
+      "directory": "CQ500CT240 CQ500CT240/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 241,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-241.zip",
+      "sha256": "b2b8799e1397a361d8bd00f1639fba919b4ba1ecefda3fa79574d6e107688473",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714887.2136467",
+      "directory": "CQ500CT241 CQ500CT241/Unknown Study/CT PLAIN",
+      "instances": 37,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 242,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-242.zip",
+      "sha256": "304ecfee8e91cd09f48a12a2e4106a7f9e389db4472c63a3a35291faa64233ed",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713427.1804821",
+      "directory": "CQ500CT242 CQ500CT242/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 243,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-243.zip",
+      "sha256": "cef171637f12517f02bb47b7d3a1f25ce05c03204c98f80cb385271a63cfcd4e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714368.2045799",
+      "directory": "CQ500CT243 CQ500CT243/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 244,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-244.zip",
+      "sha256": "a8e314032c21c3b14f350ed42d9d382e6a70d1b70df0813433406cfded4ada6d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713303.1775845",
+      "directory": "CQ500CT244 CQ500CT244/Unknown Study/CT Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 245,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-245.zip",
+      "sha256": "f34edf598db7995b97ab5ccb746976e91766cb8f50a4aea5f71bfd06a641e9dd",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714647.2092472",
+      "directory": "CQ500CT245 CQ500CT245/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 246,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-246.zip",
+      "sha256": "84d313bae69ffcc202244078054130bc7d9e21d7105d41da747d4a63a1508219",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713782.1900863",
+      "directory": "CQ500CT246 CQ500CT246/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 247,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-247.zip",
+      "sha256": "13d721af9919948b8494b0c721cb9de0fe07607feb95ea3d5c8bf273cfd06ecb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714547.2076172",
+      "directory": "CQ500CT247 CQ500CT247/Unknown Study/CT Plain 3mm",
+      "instances": 51,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 248,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-248.zip",
+      "sha256": "5e8ea46403f2d53d1acf059f1c4f714cb1dddb0ed97bd4d26de10cbee1e6432b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714869.2133441",
+      "directory": "CQ500CT248 CQ500CT248/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 249,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-249.zip",
+      "sha256": "99141a4bc4dcf858a94da655d800f323fbb1f7556f107ad2d293c4c61a026d53",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713475.1818570",
+      "directory": "CQ500CT249 CQ500CT249/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 250,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-250.zip",
+      "sha256": "aa626d8031a66a9322851c4add9f97cb7dfb985b6797c8c1413d4c7cf3384f3e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714890.2137030",
+      "directory": "CQ500CT250 CQ500CT250/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 251,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-251.zip",
+      "sha256": "e58bbe5901748a70ff081c33a806b2364ea7fb93f41716a79bf40b3b4098c6b5",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714221.2013494",
+      "directory": "CQ500CT251 CQ500CT251/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 252,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-252.zip",
+      "sha256": "741ae39b219b5b6b86c4f467cd3b1be9a6516d96682e899c63ac858e6d0c1daf",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713251.1763200",
+      "directory": "CQ500CT252 CQ500CT252/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 253,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-253.zip",
+      "sha256": "396eb31c455053ec149ef3edb5390ee475cae2e183ca84b3a7dbf497146447d8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714438.2058146",
+      "directory": "CQ500CT253 CQ500CT253/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 255,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-255.zip",
+      "sha256": "11f743b2bc00c834bbf10c0e1c86665ff88273d63879c227db04ba8c6e86a791",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713547.1839897",
+      "directory": "CQ500CT255 CQ500CT255/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 256,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-256.zip",
+      "sha256": "a34577f3faa27c9395f938b74ed7de4a505c9e0c7d14e4d2641f7bcef53faf81",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713522.1832363",
+      "directory": "CQ500CT256 CQ500CT256/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 257,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-257.zip",
+      "sha256": "baf9dd7498254cc84a088746d496dcb4ffd366224d00fe5a76057684ff3f40df",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713000.1698993",
+      "directory": "CQ500CT257 CQ500CT257/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 258,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-258.zip",
+      "sha256": "35395b5b2d02f75d3ce413474fd92d511d20cc478103e0b1e0486e12201f5679",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713365.1790433",
+      "directory": "CQ500CT258 CQ500CT258/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 259,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-259.zip",
+      "sha256": "e3fd3fc5f167960942bb50ce76527b36efcc6d0dc134c6c75cdf82d914f2b43b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713352.1787857",
+      "directory": "CQ500CT259 CQ500CT259/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 260,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-260.zip",
+      "sha256": "fa3b8d7404f3c0c9b4913c84147a1acd059ed7aa8a66d8a33a1198ff582089d9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714651.2093071",
+      "directory": "CQ500CT260 CQ500CT260/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 261,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-261.zip",
+      "sha256": "8f33182c883048869813c7a51c636c7110e07d8518e391fe1c7e3e09b47f76f5",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714599.2084604",
+      "directory": "CQ500CT261 CQ500CT261/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 262,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-262.zip",
+      "sha256": "84cc7bda017222e03e2533a7dc7b6b290fee37df5b0e4b020d880ca0316d3be8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713845.1918339",
+      "directory": "CQ500CT262 CQ500CT262/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 263,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-263.zip",
+      "sha256": "d855b2e9706d29947d5566dc1da5078d2fd8cb01133326e69b5f5100402b39d7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714074.1981456",
+      "directory": "CQ500CT263 CQ500CT263/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 264,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-264.zip",
+      "sha256": "46d3bd9cec6d7eebe6418422e881776626d69b0ee80a77521d813802f7b2871c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713674.1872885",
+      "directory": "CQ500CT264 CQ500CT264/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 265,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-265.zip",
+      "sha256": "edf1297e1d006ce9a6b85c376d6c414cc25ef7ba49ca310691ebb4bcba8b5060",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713266.1767343",
+      "directory": "CQ500CT265 CQ500CT265/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 266,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-266.zip",
+      "sha256": "a568b6823f53533128c305abfe4f20829d0442969aa38feb3c0fce62a0bf7f28",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714377.2047156",
+      "directory": "CQ500CT266 CQ500CT266/Unknown Study/CT Plain",
+      "instances": 48,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 267,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-267.zip",
+      "sha256": "86e806b729b13fe480fc141b8b38fbdd339fc93ce2fe371cfd1da6021af76293",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713391.1795785",
+      "directory": "CQ500CT267 CQ500CT267/Unknown Study/CT C",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 268,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-268.zip",
+      "sha256": "27e5c93430d9ffe7ad95bcd49ea3a5a3f77da1dfd038bf76a35558d26922e0d4",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713814.1909475",
+      "directory": "CQ500CT268 CQ500CT268/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 269,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-269.zip",
+      "sha256": "b468473b496d5ee1e984e70bd12aed2d4bb7bafd60c920837e24bbe376ad420a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713731.1887791",
+      "directory": "CQ500CT269 CQ500CT269/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 270,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-270.zip",
+      "sha256": "344552808c08aec92e200f5cfddf68293b73cca3cff937d7f3b046db38c1fa74",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713478.1819377",
+      "directory": "CQ500CT270 CQ500CT270/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 271,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-271.zip",
+      "sha256": "e2fa82f5ec3956afb9cf842d597220dff3f1760b076d6beb4c76fc99cf42d54b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713490.1822940",
+      "directory": "CQ500CT271 CQ500CT271/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 273,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-273.zip",
+      "sha256": "40f05b251aabc1b12f4dd8a7b7221cd9d07f2e35638aae17e86a5e378cf5a158",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713010.1701590",
+      "directory": "CQ500CT273 CQ500CT273/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 275,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-275.zip",
+      "sha256": "755728597dd1ee0db54c99bbe8190df9f8d2db19cdb0b56c5f6ddd2c4c566920",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714736.2107441",
+      "directory": "CQ500CT275 CQ500CT275/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 278,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-278.zip",
+      "sha256": "d9e4f9ef9df169270696525929d3ef28b6edb9f0564ee7b58b7dd313dd413897",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714667.2095723",
+      "directory": "CQ500CT278 CQ500CT278/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 280,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-280.zip",
+      "sha256": "9742842aa6f091df2a874585f97e6864eac5cafa8ae3a2fbb1a1306a5ffb520c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713353.1788035",
+      "directory": "CQ500CT280 CQ500CT280/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 281,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-281.zip",
+      "sha256": "e6681e160a7590ba52f4a2819e37a01fc7169d0b3934372fafc5ec256746c8b6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714006.1964091",
+      "directory": "CQ500CT281 CQ500CT281/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 282,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-282.zip",
+      "sha256": "ec0a37b1facaec58663155b3cb6b1a660b9491b1d629c03fd0325517a19a5b0b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713600.1855352",
+      "directory": "CQ500CT282 CQ500CT282/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 283,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-283.zip",
+      "sha256": "ed653e1bddeca73c89561f3092250fc4596e6b84bb3018f33855671af7d23020",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713368.1791081",
+      "directory": "CQ500CT283 CQ500CT283/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 284,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-284.zip",
+      "sha256": "6a18db1391f8d61b2681f67f2d1bfe02c5a4e99f332edd0e1168afbc4c7f3318",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713078.1719176",
+      "directory": "CQ500CT284 CQ500CT284/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 286,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-286.zip",
+      "sha256": "c8644a1640100fd0fc63759d111b52735e021bde11ce0e836593ecdbc1e1dbae",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713194.1748607",
+      "directory": "CQ500CT286 CQ500CT286/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 287,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-287.zip",
+      "sha256": "06b83ab64fa4feaf3ddd326c79692fcc28a8de2e75ab12d394f9ed44037dac44",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713604.1856516",
+      "directory": "CQ500CT287 CQ500CT287/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 288,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-288.zip",
+      "sha256": "451e91d7a19d0aa5e74331ad05b5ab674c7bf6b5e38a6835a78310aeb7f70f47",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713673.1872658",
+      "directory": "CQ500CT288 CQ500CT288/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 289,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-289.zip",
+      "sha256": "7248f594c03e9cead6e2299e809157a84bc98598fa95c96ab805548c697f1539",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713275.1769790",
+      "directory": "CQ500CT289 CQ500CT289/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 290,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-290.zip",
+      "sha256": "ace8908932801d995d74350a9fd6f755b8205a0dfa151cdd0963f9becd162325",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714561.2078469",
+      "directory": "CQ500CT290 CQ500CT290/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 291,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-291.zip",
+      "sha256": "49e7bf91179c2888115e8a263f581be29325c09a7041a72c5b815876d50e1b9d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714242.2017515",
+      "directory": "CQ500CT291 CQ500CT291/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 292,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-292.zip",
+      "sha256": "257e35899490c573e3be2ed423048d63d7a1bc8f0bf0dfb5be3c655b22d97a33",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713348.1786715",
+      "directory": "CQ500CT292 CQ500CT292/Unknown Study/CT C",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 293,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-293.zip",
+      "sha256": "73ed6ad0fe98843e9bcdbb9a0bc449d6c4cb180374f7623202f9b5cfbbefbccb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713290.1773367",
+      "directory": "CQ500CT293 CQ500CT293/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 294,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-294.zip",
+      "sha256": "a4921a2928100a67126d31c99941987e0bc75d639079e23346892e19f001f7ff",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713310.1777691",
+      "directory": "CQ500CT294 CQ500CT294/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 295,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-295.zip",
+      "sha256": "00fc4e5a8bfa1892188e566c2bff8930d6c73833bc8087ca3616720a1a9814d7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713672.1872436",
+      "directory": "CQ500CT295 CQ500CT295/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 296,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-296.zip",
+      "sha256": "59de9bb30cf46cb4267cb7660d63a5ed72284c4071088c2281912b4744ce20c2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714897.2138077",
+      "directory": "CQ500CT296 CQ500CT296/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 299,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-299.zip",
+      "sha256": "b82f37a8706c5dc1dd37845db6c2f1ad62c8b91aa30b2be4d324ae1dabd03f4e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713724.1885843",
+      "directory": "CQ500CT299 CQ500CT299/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 300,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-300.zip",
+      "sha256": "823228f828bb9e3d356db0fa55bdda44235b665dbd685f0e5d52f374c966f8d2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713821.1911296",
+      "directory": "CQ500CT300 CQ500CT300/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 301,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-301.zip",
+      "sha256": "dd975a93c5fc0e1db260a0b61009db6398450f9b80e310e5bdfe3f5efdab510f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713480.1819962",
+      "directory": "CQ500CT301 CQ500CT301/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 302,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-302.zip",
+      "sha256": "7458c1e49bd1fe355d07298d704b00546e4057551a508e368c5b4f1bab084420",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713027.1706166",
+      "directory": "CQ500CT302 CQ500CT302/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 303,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-303.zip",
+      "sha256": "d9bc19f5b92c558bf9783e9c52ff11f19164ef4bcf5caebbc6f0ee809611933e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713979.1957229",
+      "directory": "CQ500CT303 CQ500CT303/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 304,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-304.zip",
+      "sha256": "8b42c098b2cecd25c9dddf40d43f79c8ebcce54fc2925edcc1ef01018af4bbfa",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713655.1869467",
+      "directory": "CQ500CT304 CQ500CT304/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 305,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-305.zip",
+      "sha256": "8221230a8b5ededac86f712eff66d884d83624bcdb07b8ffb84120ddb2621777",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714076.1982236",
+      "directory": "CQ500CT305 CQ500CT305/Unknown Study/CT 55mm Plain",
+      "instances": 44,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 306,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-306.zip",
+      "sha256": "43bb6f13eeee6a074123e8a5e6517f01fefc02c763b1ca8acaa886bf30b561d9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714515.2070811",
+      "directory": "CQ500CT306 CQ500CT306/Unknown Study/CT Plain 3mm",
+      "instances": 56,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 307,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-307.zip",
+      "sha256": "f1603cb54223c35f2c69f71f7ae67ba1b9372f91aec7cf9e49ea458181408b20",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713394.1796440",
+      "directory": "CQ500CT307 CQ500CT307/Unknown Study/CT Plain",
+      "instances": 46,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 308,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-308.zip",
+      "sha256": "e852d24c3c7f52d3a22511d8b61636e58164c4e35e291a232ad94dd01e46726d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713293.1773918",
+      "directory": "CQ500CT308 CQ500CT308/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 309,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-309.zip",
+      "sha256": "ba3492b2b37eb876f98b5d293a21fce1a85299fd9572b93e91e9532b8f53a7ac",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713954.1950499",
+      "directory": "CQ500CT309 CQ500CT309/Unknown Study/CT Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 310,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-310.zip",
+      "sha256": "fd012fd799143fdf8c7a7fbb825b560ed5f3a5ef0dc4af0a7f0c28bc1d6c1708",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713419.1802493",
+      "directory": "CQ500CT310 CQ500CT310/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 311,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-311.zip",
+      "sha256": "9cc71d373fab8b0b7dab4ecfb0adc96ba9b3a5d7dd4718284b1a86f0c122b2e0",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713143.1735120",
+      "directory": "CQ500CT311 CQ500CT311/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 312,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-312.zip",
+      "sha256": "284c1221190c6cba1b1eb6e0db9fb90089d3368de942bcbe219f5eb90cf0a43f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714721.2104891",
+      "directory": "CQ500CT312 CQ500CT312/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 313,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-313.zip",
+      "sha256": "9bb45e73d904643477439e1d2abe7a6f2c9c50ebc2dc7437f9ad02cf1ae9ecb8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713578.1849073",
+      "directory": "CQ500CT313 CQ500CT313/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 314,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-314.zip",
+      "sha256": "f2d8c8dd5562c87be95b8872b139505973f22fd7feac516405adf32a20e95962",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714060.1977691",
+      "directory": "CQ500CT314 CQ500CT314/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 315,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-315.zip",
+      "sha256": "d36b8d90fc53bedae765a831179bb6655a87d3193174afa7354bdd577f46eafb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713335.1783625",
+      "directory": "CQ500CT315 CQ500CT315/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 316,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-316.zip",
+      "sha256": "a68ae9c93fd08250c753329c325074e0d54e95475f2d70e7f91def8924810f2d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713624.1862610",
+      "directory": "CQ500CT316 CQ500CT316/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 317,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-317.zip",
+      "sha256": "b738a25ce356388466a10bc24c0dfcc1064b5695db78f8dd41dc5776244e4304",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713384.1794450",
+      "directory": "CQ500CT317 CQ500CT317/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 319,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-319.zip",
+      "sha256": "be10af643d2c224484279bdbab5441157dfe8771945b543a197e90a3b7e270b9",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713530.1834683",
+      "directory": "CQ500CT319 CQ500CT319/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 320,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-320.zip",
+      "sha256": "65f1f4a11a7b4a006731de099eef5fc2ecd8338c683ef1285362b4f354539803",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713582.1850124",
+      "directory": "CQ500CT320 CQ500CT320/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 321,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-321.zip",
+      "sha256": "cca270049b77b13e43c971be2e80fc36001484cef529c1db4c71b71e8a724f17",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713009.1701254",
+      "directory": "CQ500CT321 CQ500CT321/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 322,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-322.zip",
+      "sha256": "be4e09357ee2296d910d372fc7bffd738433c92d07f53c5d2792aac8562712f1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713680.1873885",
+      "directory": "CQ500CT322 CQ500CT322/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 323,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-323.zip",
+      "sha256": "345fac8530a01f068d8da5af50d086c81cd784bfeaa4d647e795fe7983a6c211",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713565.1845164",
+      "directory": "CQ500CT323 CQ500CT323/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 324,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-324.zip",
+      "sha256": "ef8a8ba804248f9e9cc5f8f76f35c7c66556ee9cbca302ced019a52b586722da",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713224.1756582",
+      "directory": "CQ500CT324 CQ500CT324/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 327,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-327.zip",
+      "sha256": "362e9f9e980613983d64a932f026bd6fe7978833bf1c8a1f75f8c3cafdf3930f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713332.1782972",
+      "directory": "CQ500CT327 CQ500CT327/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 328,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-328.zip",
+      "sha256": "a7ada765199c7d7a5d77939c513a5e5c8b6601358287437df3a3dfc36deb771a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714568.2079708",
+      "directory": "CQ500CT328 CQ500CT328/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 329,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-329.zip",
+      "sha256": "394ebcdd7dc01bef88ff4e8122e584e02876805fd3d7aca733ab9acba194fa8e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713949.1949008",
+      "directory": "CQ500CT329 CQ500CT329/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 330,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-330.zip",
+      "sha256": "0ab8b97ffa31b8ca3d312fa0d2bd3fbb63d1a94f44871b8f434c9f644c9efcd1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714619.2087731",
+      "directory": "CQ500CT330 CQ500CT330/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 333,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-333.zip",
+      "sha256": "a6150e6994d493fea89f368ecd0b05be089f70634497032b31896031ca5b1178",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713892.1932274",
+      "directory": "CQ500CT333 CQ500CT333/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 335,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-335.zip",
+      "sha256": "291adf81e89569341e941cdba4068c75da12905618bfab34e6a5c99877d03c75",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713373.1792202",
+      "directory": "CQ500CT335 CQ500CT335/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 338,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-338.zip",
+      "sha256": "bbd0f258fc051f35de416b38b327ce894f69f794c902e80346d76c21a2b200ad",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714115.1991316",
+      "directory": "CQ500CT338 CQ500CT338/Unknown Study/CT Plain-2",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 340,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-340.zip",
+      "sha256": "fe45062e6f39ee187d51067fad1176840a08cd04f699038f855b1d1d8d83b3c6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714008.1964676",
+      "directory": "CQ500CT340 CQ500CT340/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 341,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-341.zip",
+      "sha256": "0e1fff754dc70b90de66e35dd637d7dbf86121586530489717af78ecf4b9d3af",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714455.2060904",
+      "directory": "CQ500CT341 CQ500CT341/Unknown Study/CT Plain",
+      "instances": 26,
+      "reader_ich": [
+        0,
+        0,
+        1
+      ],
+      "ich": false
+    },
+    {
+      "case": 342,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-342.zip",
+      "sha256": "856d9de70a187a0cd089809c3fa6ed53a23bc0815fda52bd046c108903bbd2b1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713423.1803657",
+      "directory": "CQ500CT342 CQ500CT342/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 345,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-345.zip",
+      "sha256": "08e1157e688d4e50f9fa37a2f6cfa1a13c7bbfeb41198b1dce8890a1d6cda4f4",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713019.1703901",
+      "directory": "CQ500CT345 CQ500CT345/Unknown Study/CT 5mm-2",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 346,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-346.zip",
+      "sha256": "f0008c05bc37471d8171dca25bf5ab87f725d2a537dd72d127e186940e81da4f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714024.1968748",
+      "directory": "CQ500CT346 CQ500CT346/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 348,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-348.zip",
+      "sha256": "1a3a48379c403531af34c4ab9d933f7fd3819f4ed42edb1e8a18aaad5d72a6b3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714286.2028088",
+      "directory": "CQ500CT348 CQ500CT348/Unknown Study/CT Plain",
+      "instances": 26,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 350,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-350.zip",
+      "sha256": "a68a1c9c0efdc7972ecbab423a3bccb72756b9b6c383dda3b97f1583b1ef90f8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714427.2056414",
+      "directory": "CQ500CT350 CQ500CT350/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 351,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-351.zip",
+      "sha256": "04bbc173c807781869225a348568170c43b3914c39e00c372cbd78b51a711349",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713369.1791211",
+      "directory": "CQ500CT351 CQ500CT351/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 352,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-352.zip",
+      "sha256": "5cc526bf84052aac08ae07060e7dd1f59d191fd077c5473d10d98a0b8b9a56d7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714464.2062321",
+      "directory": "CQ500CT352 CQ500CT352/Unknown Study/CT Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 353,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-353.zip",
+      "sha256": "de49b6072906b98f8b6a5ecfc5b98c5347d984a16548836aa0698e1ee068c438",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713086.1721073",
+      "directory": "CQ500CT353 CQ500CT353/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 355,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-355.zip",
+      "sha256": "1b0be398e958297a63e8a315d4d108215163680a77c67be8d5a2d8f92a0ea0dc",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714644.2091875",
+      "directory": "CQ500CT355 CQ500CT355/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 38,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 356,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-356.zip",
+      "sha256": "639f1b4f7572524dc46447f924433d9248d88b819196311fea97053e2319eb0f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713411.1800264",
+      "directory": "CQ500CT356 CQ500CT356/Unknown Study/CT Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 358,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-358.zip",
+      "sha256": "8953654e180a4ba27660e91733f84f75f048631397ebbf5ae43a389fb305e724",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714472.2063694",
+      "directory": "CQ500CT358 CQ500CT358/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 359,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-359.zip",
+      "sha256": "29c86c7580e545750d4b5c4ecd4bbaffdba46aca2ec7aaab5144d4ab3fb0498e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714029.1969851",
+      "directory": "CQ500CT359 CQ500CT359/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 360,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-360.zip",
+      "sha256": "daff5b75512af7faf39ef68ea3b5ecf105007f5eaf412be87aff2f06382f4d7c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714713.2103519",
+      "directory": "CQ500CT360 CQ500CT360/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 361,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-361.zip",
+      "sha256": "9d4fb18732dd6dd6cd0feebc3b6eefcffe1e0c566785c6f41c7b72910b387b4b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713482.1820544",
+      "directory": "CQ500CT361 CQ500CT361/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 362,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-362.zip",
+      "sha256": "33cab770d1d0cf67379b3ad90f202e5b292455d089aac6597be6465f61d348c6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714050.1975347",
+      "directory": "CQ500CT362 CQ500CT362/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 363,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-363.zip",
+      "sha256": "c0f2ad4b1e484d547e80bb0951406a8333b4d496b7602e858995654e2c7a6d51",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714128.1995151",
+      "directory": "CQ500CT363 CQ500CT363/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 364,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-364.zip",
+      "sha256": "e43f05de114a97dbbde3a67bbbf92d3f934a90bdc6db7bf70c7ffa9ddadf751e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714472.2063589",
+      "directory": "CQ500CT364 CQ500CT364/Unknown Study/CT Plain 3mm",
+      "instances": 50,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 365,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-365.zip",
+      "sha256": "ce956512184463ce913f6b95b94e9534046f58869dde64f753e48daf212c575b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713768.1897090",
+      "directory": "CQ500CT365 CQ500CT365/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 366,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-366.zip",
+      "sha256": "e80e8bcb2e1d4a63ece325482958aff4af6b3db4cc68b9c800a03cd474147328",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714528.2072954",
+      "directory": "CQ500CT366 CQ500CT366/Unknown Study/CT Plain 3mm",
+      "instances": 53,
+      "reader_ich": [
+        0,
+        0,
+        1
+      ],
+      "ich": false
+    },
+    {
+      "case": 367,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-367.zip",
+      "sha256": "a5f42e195857f5b67dc2d6dda1d070f72c5a1deed852a8380ba46a80e01cc884",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713036.1708355",
+      "directory": "CQ500CT367 CQ500CT367/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 369,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-369.zip",
+      "sha256": "f672a28cf38377f156f9b83be7ce037cce2a9296f083a5ab07974c8b962f58b1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714361.2044647",
+      "directory": "CQ500CT369 CQ500CT369/Unknown Study/CT C",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 370,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-370.zip",
+      "sha256": "03cad834929f00afe358e50f2b2e15c66c249c1a4373f15fcb095458caa11766",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714087.1985134",
+      "directory": "CQ500CT370 CQ500CT370/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 371,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-371.zip",
+      "sha256": "5e6a4704194f24ffd213b76989b5946e966a38ef74e1adbba63ef91bd85c7588",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714552.2077121",
+      "directory": "CQ500CT371 CQ500CT371/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 372,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-372.zip",
+      "sha256": "e68df407f8d91dc03c2ef3a9bca0f21f4476d27bfd588b4f02c05610726161f7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713584.1850706",
+      "directory": "CQ500CT372 CQ500CT372/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        1,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 373,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-373.zip",
+      "sha256": "18da020396dffa8d8b56fea506d7661228c58816774fa3a01e211539448a6536",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713714.1882938",
+      "directory": "CQ500CT373 CQ500CT373/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 374,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-374.zip",
+      "sha256": "9a59816ea52c9fa7f53ff7e3f820a7ba4b14b7f8839a467d3075294601fbf1ae",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714470.2063361",
+      "directory": "CQ500CT374 CQ500CT374/Unknown Study/CT Plain 3mm",
+      "instances": 55,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 375,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-375.zip",
+      "sha256": "f07422eea6e8e7c1457a9a22c6e8473aa6e827bc44eb963d5afd3aeae30ddaa6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713728.1887196",
+      "directory": "CQ500CT375 CQ500CT375/Unknown Study/CT 55mm Plain",
+      "instances": 40,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 376,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-376.zip",
+      "sha256": "996c3f8a3199aec70dd8996d61b28d8958b19eb055543014e56f49fa0d32d116",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714224.2014080",
+      "directory": "CQ500CT376 CQ500CT376/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 377,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-377.zip",
+      "sha256": "4917c4638d1c67b31b0f664e5d0f378100accef7a45c119914bc2081645e928c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714187.2005543",
+      "directory": "CQ500CT377 CQ500CT377/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 378,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-378.zip",
+      "sha256": "3830ef68f400814361e7616dc85b5353ec03e6be4bc3aed2d17d65e0e00b0b7e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713465.1815732",
+      "directory": "CQ500CT378 CQ500CT378/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 379,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-379.zip",
+      "sha256": "93bab19addb7cee680b7cb0c63f2d737ba0f128cca0557397b36f150005c7138",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713502.1826485",
+      "directory": "CQ500CT379 CQ500CT379/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 380,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-380.zip",
+      "sha256": "c2cd5c147946e002c5adc67f06faffc7379fad22e4d74d35f215a134671ad1b2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714796.2119077",
+      "directory": "CQ500CT380 CQ500CT380/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 382,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-382.zip",
+      "sha256": "e3dbe259ed133a3f8b9a1559d02582e41867e8f0bcfcb21d499ce3ef527c9cd3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714324.2036370",
+      "directory": "CQ500CT382 CQ500CT382/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 383,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-383.zip",
+      "sha256": "ae4fc6aef1f31388b0adab406abb6d91be2598b11ecda4b0f7f39b5e367a7115",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713614.1859627",
+      "directory": "CQ500CT383 CQ500CT383/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 384,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-384.zip",
+      "sha256": "87fc1288ee10631832739ffb2426bde38e7b1e91902f418ab20fa0d22dbbd06e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714842.2128598",
+      "directory": "CQ500CT384 CQ500CT384/Unknown Study/CT Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 385,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-385.zip",
+      "sha256": "c6bf6320d18a61f5598edf545dc3130bf66965d0519654ab21e47312214543f1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714465.2062542",
+      "directory": "CQ500CT385 CQ500CT385/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 386,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-386.zip",
+      "sha256": "46ebb3fb52c1d31b3c9c626d5e7d6b64f9f544afc7ae766ad9cf22078032a422",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713247.1762271",
+      "directory": "CQ500CT386 CQ500CT386/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 387,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-387.zip",
+      "sha256": "60d235e2f484cb5d27f00cd7f6c53d94aca6c16326fa4897950ffbf23ddd10eb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713386.1794736",
+      "directory": "CQ500CT387 CQ500CT387/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 388,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-388.zip",
+      "sha256": "f0b8866323c0251ba4fc0b3d4052084cf2fd136c7ba542fb6241f44ce5a21831",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714610.2086349",
+      "directory": "CQ500CT388 CQ500CT388/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        1,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 389,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-389.zip",
+      "sha256": "102889a17e924c2883815a7f4520376190c47043138061b422adb90537efbf51",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713282.1771798",
+      "directory": "CQ500CT389 CQ500CT389/Unknown Study/CT C",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 390,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-390.zip",
+      "sha256": "cee46179ddad82500a6125189377b2932e3ed3e2bc9e5deaa35a8785b58d263d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713188.1746799",
+      "directory": "CQ500CT390 CQ500CT390/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 391,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-391.zip",
+      "sha256": "f58eeda6cffbfb20a5c3ca95386e312bf05f69cde24f2d01287d5144cc6d1b62",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713665.1871342",
+      "directory": "CQ500CT391 CQ500CT391/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 392,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-392.zip",
+      "sha256": "1dfe69767ff9687c0cded47ce1f13332936df5a1b946788f4e967095d580adae",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713337.1784154",
+      "directory": "CQ500CT392 CQ500CT392/Unknown Study/CT C",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 394,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-394.zip",
+      "sha256": "e9688c11ada305fe4c3edc579852db9c4e29e87e7dc8d6a73d53c9b5d77e24de",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714021.1968102",
+      "directory": "CQ500CT394 CQ500CT394/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 395,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-395.zip",
+      "sha256": "d7a6fb3ff72408e4302ef1e0af59bf1f4e728a9ab15af1a9068bfa8ba1441444",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714755.2110850",
+      "directory": "CQ500CT395 CQ500CT395/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 396,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-396.zip",
+      "sha256": "a5bd43d3a87d90be41cb149e0402cfda277a75386cb739386e89ce8b9a25ff02",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713610.1858323",
+      "directory": "CQ500CT396 CQ500CT396/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 397,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-397.zip",
+      "sha256": "21bd112a9a5d7fcda6ac18fd6c2d0596e209f1a99e6e73a37a1e2ace89477790",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713866.1924424",
+      "directory": "CQ500CT397 CQ500CT397/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 398,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-398.zip",
+      "sha256": "e6736e25b4e80b8cb0cd0c764a23b8839b36da04536ce18517a85b28493abbe7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713682.1874105",
+      "directory": "CQ500CT398 CQ500CT398/Unknown Study/CT Plain 3mm",
+      "instances": 54,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 399,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-399.zip",
+      "sha256": "cd8e6f2f9f6c88993d7433c6f6110660a4cb09fb67744385704d3c6f8767f231",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714542.2075303",
+      "directory": "CQ500CT399 CQ500CT399/Unknown Study/CT Plain 3mm",
+      "instances": 49,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 401,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-401.zip",
+      "sha256": "c4d810ddf2a453d6141ee28fd68fcac53d0756f8c1a147ec74a764cbac54944a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713488.1822358",
+      "directory": "CQ500CT401 CQ500CT401/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 402,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-402.zip",
+      "sha256": "faccbb047daad9cde347e2ebb504d80ce11abf4093419ab7603733bf433d0e71",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713471.1817406",
+      "directory": "CQ500CT402 CQ500CT402/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 403,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-403.zip",
+      "sha256": "19fe660940e0c7c3bb56f10d042dd0476fa4c3907da4937d3338e15e230be533",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714591.2083368",
+      "directory": "CQ500CT403 CQ500CT403/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 405,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-405.zip",
+      "sha256": "2b4451df902f05e3c04574df5dfb7c00aa116c49e0be7ddd9d89099da8f8e96f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521712989.1696131",
+      "directory": "CQ500CT405 CQ500CT405/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 406,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-406.zip",
+      "sha256": "9a2e36d83b5dff55c5ab06ae656b304c2f329f1eaa312f5b9cbc0048cf572808",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714207.2009693",
+      "directory": "CQ500CT406 CQ500CT406/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 407,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-407.zip",
+      "sha256": "9ea32af66d1e9a1e5e9eb6f300dd41472eeac0a1c1e1914b354b252150fd27e0",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714431.2057073",
+      "directory": "CQ500CT407 CQ500CT407/Unknown Study/CT Plain",
+      "instances": 34,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 408,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-408.zip",
+      "sha256": "dddea5b7a19c2994f55864315c02e466b1206829ff70cb736e1bb12ec9c9c320",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714500.2068408",
+      "directory": "CQ500CT408 CQ500CT408/Unknown Study/CT BRAIN PLAIN",
+      "instances": 31,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 409,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-409.zip",
+      "sha256": "6156cd476af2fc61ed166f0c6c946bb895cb42f789573df75aa4f6029518ec29",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713644.1867628",
+      "directory": "CQ500CT409 CQ500CT409/Unknown Study/CT Plain 3mm",
+      "instances": 57,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 410,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-410.zip",
+      "sha256": "e3283698eab231a2684aaa17a7d522e980d0cf79450356c9d60b035dc1f2a022",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713746.1891638",
+      "directory": "CQ500CT410 CQ500CT410/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 412,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-412.zip",
+      "sha256": "d4ce36d6d6a7affdad9b89b8728e1e519d06e031ccbd62090ca96c8d45d787dd",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713626.1863195",
+      "directory": "CQ500CT412 CQ500CT412/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 413,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-413.zip",
+      "sha256": "2d61e8ff07f776cdb0a70c82949940350ca2f90e421741b7889727bbbe79826a",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713681.1873998",
+      "directory": "CQ500CT413 CQ500CT413/Unknown Study/CT Plain 3mm",
+      "instances": 51,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 414,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-414.zip",
+      "sha256": "bfac7964a938fb0ccd49f2f0f2cd566754b1de58b41635f32098ce123115886b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714587.2082785",
+      "directory": "CQ500CT414 CQ500CT414/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 415,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-415.zip",
+      "sha256": "633f935b86e47fb4ffd3205ecc9f560940b79c43a209be639f5c70336d42fc49",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714508.2069715",
+      "directory": "CQ500CT415 CQ500CT415/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 416,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-416.zip",
+      "sha256": "c53551680b75259adcc9279f68f24be574fd9100dc1915e59a14e6dcae92dfad",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714346.2042203",
+      "directory": "CQ500CT416 CQ500CT416/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 417,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-417.zip",
+      "sha256": "105fcd8d5aff7a0bdd12a4d8e20587c90d8b50e2312745b9f6eb9c37a9638d71",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714854.2130841",
+      "directory": "CQ500CT417 CQ500CT417/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 418,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-418.zip",
+      "sha256": "c77787504932cbdd0ed0ef2a9e6acc607d495ff2d15a22b4d7a2517fa0867ff3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713720.1884683",
+      "directory": "CQ500CT418 CQ500CT418/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 419,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-419.zip",
+      "sha256": "90a9fc85044e5cb17f3c94ba5e950db61b5355e6b74b0de17dfffd11cab6f0e3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713412.1800341",
+      "directory": "CQ500CT419 CQ500CT419/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 420,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-420.zip",
+      "sha256": "863fd7243afcecf47179c93409e6d4647e902596d3d60e035392d3f050948884",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521712979.1693554",
+      "directory": "CQ500CT420 CQ500CT420/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 421,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-421.zip",
+      "sha256": "9748be57c6dc6b8216cbdb01d90bb1553eef8e4939b20a599caf72d015320c69",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714743.2108656",
+      "directory": "CQ500CT421 CQ500CT421/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 422,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-422.zip",
+      "sha256": "7b0a8ece830d44b2f2aa8fb5169ac1c0ae9e5702877d8274657530f37e0b115f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714280.2026530",
+      "directory": "CQ500CT422 CQ500CT422/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 426,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-426.zip",
+      "sha256": "b59d410c5840f7856b1522de26b6c2ee4d53d9a04e1987ba8c24327aa707d8d3",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714504.2069078",
+      "directory": "CQ500CT426 CQ500CT426/Unknown Study/CT Plain 3mm",
+      "instances": 58,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 428,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-428.zip",
+      "sha256": "c1f3085cfd4e44871441d388bb2691fdf77e035ad98008a8567b481477f80e8e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713536.1836389",
+      "directory": "CQ500CT428 CQ500CT428/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 429,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-429.zip",
+      "sha256": "9ba2f5bb6374c5931c06e8eba320dc5842e65a7ae340882a615df78f754b9709",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714249.2019575",
+      "directory": "CQ500CT429 CQ500CT429/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 430,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-430.zip",
+      "sha256": "e9af61b39c2d0c8d877f67ffceea1306bb24f4df083218433ebae79660b9b3b1",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713592.1853106",
+      "directory": "CQ500CT430 CQ500CT430/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        0
+      ],
+      "ich": true
+    },
+    {
+      "case": 431,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-431.zip",
+      "sha256": "92f6d55bc347e4b908358a545716d92657b6ff7638269c6fd61e41e7f8cdd58b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714068.1979908",
+      "directory": "CQ500CT431 CQ500CT431/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 432,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-432.zip",
+      "sha256": "c2a03381c9b813b2b032ad5ded687f83fa9d821882bbfd5c6e941da839725d96",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713642.1867303",
+      "directory": "CQ500CT432 CQ500CT432/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 433,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-433.zip",
+      "sha256": "2aa43bc8e97aa76660739f1fbc268e8e7a61bac372a1fbe49383eddbab039beb",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713408.1799271",
+      "directory": "CQ500CT433 CQ500CT433/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 434,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-434.zip",
+      "sha256": "fe222d9dd5d071fd5d0f49deb7a4a0fc18bbb7e5c2950bcfb2575be178120c65",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714661.2094828",
+      "directory": "CQ500CT434 CQ500CT434/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 435,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-435.zip",
+      "sha256": "ce692592d739baf5f6f380c31b22384f8e9ad5443680c170b90b108dfa27def4",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714274.2024674",
+      "directory": "CQ500CT435 CQ500CT435/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 436,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-436.zip",
+      "sha256": "984de56837eebc322bb24112f7b688ee3dcabfb43fc2dcb943af9fe6bf303dd6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714911.2139879",
+      "directory": "CQ500CT436 CQ500CT436/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 437,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-437.zip",
+      "sha256": "abf2d9525800ac08d32fbe974d2a6ba375ddba13931c6357ad3b946f668dec4b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713390.1795412",
+      "directory": "CQ500CT437 CQ500CT437/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 438,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-438.zip",
+      "sha256": "d21c42203d1c3bfbe64bc0b69a1cff67892244a9e5b76cf9cd206fcacc494e2d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714240.2016927",
+      "directory": "CQ500CT438 CQ500CT438/Unknown Study/CT 2.55mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 439,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-439.zip",
+      "sha256": "6c1c5f346cfaf6a28f481955d429f9b93bad2e82bc87fc71c8cdd0f94f82fdff",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713172.1742734",
+      "directory": "CQ500CT439 CQ500CT439/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 440,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-440.zip",
+      "sha256": "c5b26c6c0f3f2477946283301009aefa68f7a948394c7d9528d8bb87e534f094",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714816.2123882",
+      "directory": "CQ500CT440 CQ500CT440/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 441,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-441.zip",
+      "sha256": "d1b4db841dce16414cbf9c8c8d1f391067c3bac583bf519958956a8c54dad780",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713114.1728057",
+      "directory": "CQ500CT441 CQ500CT441/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 29,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 442,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-442.zip",
+      "sha256": "9dcc48c968a99fc465e3754c013d2e185ae99f7f953fe6a5476183e23217528b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713773.1898396",
+      "directory": "CQ500CT442 CQ500CT442/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 444,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-444.zip",
+      "sha256": "1ee4a67144a9af1e846f4e05e3624914d77f47e68a03df0207a6c3b0812bd71e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714835.2127364",
+      "directory": "CQ500CT444 CQ500CT444/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 445,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-445.zip",
+      "sha256": "7769c8e09b0389e859cfb5afeaf4cbcd24b50aa7183044f98990a65522c66e4f",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713640.1867019",
+      "directory": "CQ500CT445 CQ500CT445/Unknown Study/CT Plain 3mm",
+      "instances": 52,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 447,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-447.zip",
+      "sha256": "b972b316c43962f649c22e542e1df30519d3312d9583a75ac1df770c4bfa0297",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714494.2067423",
+      "directory": "CQ500CT447 CQ500CT447/Unknown Study/CT BRAIN PLAIN",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 450,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-450.zip",
+      "sha256": "25fedd8f7fbf7f4cdcc6991e1603ee44125696d3ae92a09f3f7f82061f3e7cb8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713363.1789905",
+      "directory": "CQ500CT450 CQ500CT450/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 451,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-451.zip",
+      "sha256": "c42a7ece97d1af80cdf70d0413c249d96ffe03bb6858e52be73c2c9db98c7ecf",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713425.1804236",
+      "directory": "CQ500CT451 CQ500CT451/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 452,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-452.zip",
+      "sha256": "714b2841206dc46a795b94918b742d91544a9d129abcd357db5ada34b0157c2b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714212.2011321",
+      "directory": "CQ500CT452 CQ500CT452/Unknown Study/CT Plain",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 453,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-453.zip",
+      "sha256": "0c38aaba97369806ed8d17c6a1f1b1f8fdd72e3f16e9497d97093d7eb659fd90",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713378.1793386",
+      "directory": "CQ500CT453 CQ500CT453/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 454,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-454.zip",
+      "sha256": "d0a980f47aaf397333a494a310630ccc4a880209b6ffbdb2f081c5985d2c0b0e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714079.1982839",
+      "directory": "CQ500CT454 CQ500CT454/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 457,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-457.zip",
+      "sha256": "1cc2b9bebfaa994f2371a276f7dd52e7dfe6288739d20ecc9bb9d1a20ea9d88b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714140.1997475",
+      "directory": "CQ500CT457 CQ500CT457/Unknown Study/CT 2.55mm",
+      "instances": 28,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 458,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-458.zip",
+      "sha256": "3f0f675e375417c3926610e528f731bd9da593cf38e1c59bcfc21d78515a2d42",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714820.2124464",
+      "directory": "CQ500CT458 CQ500CT458/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 459,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-459.zip",
+      "sha256": "98445d6a687694de9c6b06b48b1f5aadacd48423f0c427221bfb03ddc262d861",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714386.2048668",
+      "directory": "CQ500CT459 CQ500CT459/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 460,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-460.zip",
+      "sha256": "0b1998508ddb5424b65bc50c68a8b673fb6e50b8d21ab3603d49ecaa4938c9b2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713323.1780800",
+      "directory": "CQ500CT460 CQ500CT460/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 461,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-461.zip",
+      "sha256": "8394ba623472c9dd959a18883feb718dbefca8a2df77968d5e5704e7372066bd",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713473.1817988",
+      "directory": "CQ500CT461 CQ500CT461/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 462,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-462.zip",
+      "sha256": "9bd02430d37d6169376a98079dc5b667bbca4456900a2a2fda4c6483633bf233",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713534.1835812",
+      "directory": "CQ500CT462 CQ500CT462/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 463,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-463.zip",
+      "sha256": "fd1d0bae7f910f4edd276ac7fea74ab8c268557d7c3fb7123a6c8282c7e3fc28",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713974.1955874",
+      "directory": "CQ500CT463 CQ500CT463/Unknown Study/CT 55mm Plain",
+      "instances": 36,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 464,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-464.zip",
+      "sha256": "1ee1584401d91daf5349ea3a7a11af93e7864af07a539fec041d0ab9a28d9532",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713312.1778031",
+      "directory": "CQ500CT464 CQ500CT464/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 465,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-465.zip",
+      "sha256": "9412e36f674e6ea86e7951cfd42ebabbded50c321e541457382d8497a7efbed2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714766.2112599",
+      "directory": "CQ500CT465 CQ500CT465/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 467,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-467.zip",
+      "sha256": "90c1dbdb60b52a6a9b78d2e4a413dc37fd3a80efdad3bc8803b25f24b215a0e7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713216.1754486",
+      "directory": "CQ500CT467 CQ500CT467/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 468,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-468.zip",
+      "sha256": "f7343453cca1eeb952cf500fe05476c102332d1bb26f61ca9358e209465de7d6",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713395.1796899",
+      "directory": "CQ500CT468 CQ500CT468/Unknown Study/CT Plain",
+      "instances": 32,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 469,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-469.zip",
+      "sha256": "8240e04a2167d8e1b3a19455e80eb4ab939fe943b6482c765839b67382932561",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713429.1805400",
+      "directory": "CQ500CT469 CQ500CT469/Unknown Study/CT 5mm",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 471,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-471.zip",
+      "sha256": "196e3219ddb5e73ca33c017145092b1ecb5588cbcac409d89608ea563e46d63c",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714683.2098433",
+      "directory": "CQ500CT471 CQ500CT471/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 31,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 472,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-472.zip",
+      "sha256": "da25c2a1ce297941a87dba0e2d33e192cd3520f90f3083d2a8f49712e0c458da",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714691.2099751",
+      "directory": "CQ500CT472 CQ500CT472/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 474,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-474.zip",
+      "sha256": "7253caed1db4188624716727e514b7c77068a9c838d8a241fb123a0a9b89a60e",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713986.1959124",
+      "directory": "CQ500CT474 CQ500CT474/Unknown Study/CT Plain",
+      "instances": 38,
+      "reader_ich": [
+        0,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 476,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-476.zip",
+      "sha256": "ca96321df03c5c0b0b553db77aaae97cdca414e4b118fc3f1d428bd8a94cb7a8",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713871.1926032",
+      "directory": "CQ500CT476 CQ500CT476/Unknown Study/CT BRAIN PLAIN",
+      "instances": 37,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 478,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-478.zip",
+      "sha256": "3378e1ed22e1529a23c60eb5e33c72b3874495dec835388e9598911c217e3af0",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714655.2093676",
+      "directory": "CQ500CT478 CQ500CT478/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 479,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-479.zip",
+      "sha256": "a51b8a76865c013ab3874fe0adb25d0dec751341cf7bb0e6078a612418a0a74b",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713886.1930404",
+      "directory": "CQ500CT479 CQ500CT479/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 33,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 480,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-480.zip",
+      "sha256": "11bbfe4589fda29b6f58d5ac971e319cb446877bfb97c9bb25c1c61095ca7158",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713097.1723930",
+      "directory": "CQ500CT480 CQ500CT480/Unknown Study/CT PRE CONTRAST 5MM STD",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 481,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-481.zip",
+      "sha256": "45024916db8dee49780ec212293037c8f1a93291fd0f23d1d5ca55e720c6cdf2",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714915.2140491",
+      "directory": "CQ500CT481 CQ500CT481/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 483,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-483.zip",
+      "sha256": "d7785b12da6c5c82403877f234d985f1913d0848248d15cfb3349ab2b26d317d",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714002.1962999",
+      "directory": "CQ500CT483 CQ500CT483/Unknown Study/CT 55mm Plain",
+      "instances": 32,
+      "reader_ich": [
+        1,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 484,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-484.zip",
+      "sha256": "5c959ec0e22aca6a7d0c421a503cb11228649de96e90e6a8e32a3d560205adf7",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713649.1868446",
+      "directory": "CQ500CT484 CQ500CT484/Unknown Study/CT Plain 3mm",
+      "instances": 59,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 485,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-485.zip",
+      "sha256": "5b070220f861d9c2fbe351cf699e47518b0cadfec3acebe49f96ef11f4264946",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713331.1782558",
+      "directory": "CQ500CT485 CQ500CT485/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 487,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-487.zip",
+      "sha256": "5fa1da461ac775589c9f5de01157868bfb2146ba0d275b878709b90920b90f75",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713641.1867128",
+      "directory": "CQ500CT487 CQ500CT487/Unknown Study/CT Plain 3mm",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    },
+    {
+      "case": 489,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-489.zip",
+      "sha256": "246682a6d07e8e5bdd367582c2ee0de2f547ec9e264d897df75967926b031199",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521714096.1987625",
+      "directory": "CQ500CT489 CQ500CT489/Unknown Study/CT 5mm",
+      "instances": 36,
+      "reader_ich": [
+        1,
+        1,
+        1
+      ],
+      "ich": true
+    },
+    {
+      "case": 490,
+      "url": "https://s3.ap-south-1.amazonaws.com/qure.headct.study/CQ500-CT-490.zip",
+      "sha256": "49e62209283ef849a5db266b4f59487fc6880771399e700c013cb7aa77559ad5",
+      "series_uid": "1.2.276.0.7230010.3.1.3.296485376.1.1521713406.1799028",
+      "directory": "CQ500CT490 CQ500CT490/Unknown Study/CT Plain",
+      "instances": 30,
+      "reader_ich": [
+        0,
+        0,
+        0
+      ],
+      "ich": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+time_s,event,people_in_flat
+372.6,enter,1
+726.4,leave,0
+1590.2,enter,1
+1686.4,sit_start,1
+1902.7,sit_end,1
+2004.8,leave,0
+2538.7,enter,1
+2952.3,leave,0
+3624.1,enter,1
+4116.9,leave,0

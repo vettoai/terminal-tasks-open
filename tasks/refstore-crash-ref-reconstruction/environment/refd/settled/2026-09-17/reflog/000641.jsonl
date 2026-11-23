@@ -1,0 +1,25 @@
+{"seq":641,"attempt":"merge-3e5e3a","ref":"heads/main","old":"1ddf6c2de556f68543e9ddac13541c6bfc9ca664","new":"efaa38fad303411443080c23ca898960e987702f","pr":36228}
+{"seq":642,"attempt":"gate-e48b5e","ref":"heads/feat-cache","old":"88998cf2810afe6d076ca1c3bd6037e0d33a0c3b","new":"e7b075529d6c0d92ce36bf9621700e3ebe5f11b5","push":"86029777cf4fb3a0","note":"lease metrics"}
+{"seq":643,"attempt":"gate-c0fe55","ref":"heads/feat-locale","old":"d8091e49670f1364662f8c907d5ce415af298a86","new":"771acadc3acc26160dc34d92bea5ec88d615d176","push":"7100bbc156d22117","note":"keep the regional fallback"}
+{"seq":644,"attempt":"merge-6a9b6c","ref":"heads/main","old":"efaa38fad303411443080c23ca898960e987702f","new":"8edb0fb493ddcce5a21ac69f4eccf1e7809de1c2","pr":51017}
+{"seq":645,"attempt":"merge-71d123","ref":"heads/main","old":"8edb0fb493ddcce5a21ac69f4eccf1e7809de1c2","new":"5359098d3142c4d537bda78425a6c559e5f8fe0e","pr":41403}
+{"seq":646,"attempt":"gate-e5f883","ref":"heads/feat-leases","old":"2c5c7aa82bfcb33210d204a6c14c47949d698639","new":"8707cfb066ce4c63de76fc682cf8b6f1ae4a090f","push":"cf5212cc953c9152","note":"index rollout"}
+{"seq":647,"attempt":"gate-46d04b","ref":"heads/release-ap","old":"c5e74629a1d7e743ef8f5070f047af4d9a03a969","new":"d9e5166e49ba0b59035725f79f36f4a557ab2f76","push":"06d88150becf0b95","note":"配信の順序を保つ"}
+{"seq":648,"attempt":"gate-2c8e25","ref":"heads/feat-search","old":"64fdb3eb2649895e4d9e02fb0b8bdd9adac71868","new":"26558857f0d3c44035236a568595433fad7135f0","push":"132f090dd0682aea","note":"配信の順序を保つ"}
+{"seq":649,"attempt":"gate-da02af","ref":"heads/feat-audit","old":"861f80f4b10061600e8aaf5ae5d984b04813e3d8","new":"c3e46f31869bfa91a0dada74645873d124e32e7f","push":"8a9fdfb9f9f597bc","note":"配信の順序を保つ"}
+{"seq":650,"attempt":"merge-efdf2e","ref":"heads/main","old":"5359098d3142c4d537bda78425a6c559e5f8fe0e","new":"677349039d2fa9b47261060e963e9151380631ba","pr":86207}
+{"seq":651,"attempt":"merge-f0abe0","ref":"heads/main","old":"677349039d2fa9b47261060e963e9151380631ba","new":"64168868c01b2be946173449a897f069d400998e","pr":51551}
+{"seq":652,"attempt":"gate-c6e055","ref":"heads/feat-search","old":"26558857f0d3c44035236a568595433fad7135f0","new":"561fea467dab6871b9c83432c6be3153c8288ff5","push":"2a7e751436e113cc","note":"corrige les reprises"}
+{"seq":653,"attempt":"gate-b36ba9","ref":"heads/feat-cache","old":"e7b075529d6c0d92ce36bf9621700e3ebe5f11b5","new":"dce03c9b90bd804c1ec781ba525e4e56090afb7d","push":"aa06534ea33e412b","note":"index rollout"}
+{"seq":654,"attempt":"gate-e16b11","ref":"heads/feat-index","old":"50f2b2cb32599a392c87859627ae00894ce496c0","new":"b951817e6485b38a6b98cb0c60b50454a8e8594c","push":"62489a4596728851","note":"cache budget"}
+{"seq":655,"attempt":"gate-8cdc32","ref":"heads/feat-routing","old":"45680d55822189630ecc7e7bfd0ae75246e7a1ea","new":"29e17a5620dc1281520ac7dd79313489c7016ef2","push":"004fd6eb502426db","note":"index rollout"}
+{"seq":656,"attempt":"merge-505be0","ref":"heads/main","old":"64168868c01b2be946173449a897f069d400998e","new":"58a72fc57feef871808d3b4984e870b74286a132","pr":13775}
+{"seq":657,"attempt":"merge-9210dc","ref":"heads/main","old":"58a72fc57feef871808d3b4984e870b74286a132","new":"e1102bcb4a6e248855377b00e6fc86ea3b04e947","pr":98838}
+{"seq":658,"attempt":"gate-ecf2c8","ref":"heads/feat-graph","old":"750f908bd7983d2ef3c661e65f32023682e2ac69","new":"ae1e7283ef246e2ca744802053e5db5054b20a38","push":"27e66b9c3a1054bc","note":"再試行"}
+{"seq":659,"attempt":"gate-e90050","ref":"heads/release-eu","old":"acca7f102ff686f2f2a4d256ec1f646d49027634","new":"784d190db62fee6650a721c66a8fc181f2ffe830","push":"88e3ea6bb0698eef","note":"keep the regional fallback"}
+{"seq":660,"attempt":"gate-3cc7ba","ref":"heads/feat-locale","old":"771acadc3acc26160dc34d92bea5ec88d615d176","new":"26e1abe8b1ee239167fcb492f0a37623251d6491","push":"a6f8a22ca97a1566","note":"corrige les reprises"}
+{"seq":661,"attempt":"gate-00174d","ref":"heads/feat-graph","old":"ae1e7283ef246e2ca744802053e5db5054b20a38","new":"a6bffe54841472ebed7f1d6747b8922b5a997474","push":"bf96bf6f89d5a15b","note":"keep the regional fallback"}
+{"seq":662,"attempt":"gate-8ba0b2","ref":"heads/release-eu","old":"784d190db62fee6650a721c66a8fc181f2ffe830","new":"27212f6db1e92f89dfd908363c1be9c1f864338a","push":"6b9bf47e907be505","note":"ready for review"}
+{"seq":663,"attempt":"gate-8f3459","ref":"heads/feat-retry","old":"7e0bf54074a2862c6052a7a4d8f41e25f3d904db","new":"b15a0cdaf7acde75efe95f2c7dbd5fa6905caad9","push":"0d753bae9cfef852","note":"audit scope"}
+{"seq":664,"attempt":"console-000011","ref":"heads/main","mode":"ff-only"}
+{"seq":665,"attempt":"

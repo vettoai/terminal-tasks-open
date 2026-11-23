@@ -1,0 +1,68 @@
+{
+  "deploy/ap": [
+    "651fbc19cb8eab7f1bdf45de4764f196437a8a0c"
+  ],
+  "deploy/eu": [
+    "15a786c38ff632e231ba62cc265ea3b274ddf150"
+  ],
+  "deploy/staging": [
+    "788940bf03701b3f03ba337ed6d1d66e9aa90e07"
+  ],
+  "deploy/us": [
+    "6f2f83422c7e4b266662722600da104a31e2568e"
+  ],
+  "heads/feat-audit": [
+    "c3e46f31869bfa91a0dada74645873d124e32e7f"
+  ],
+  "heads/feat-billing": [
+    "9f74d49469131a0519cc33e4d898150590ecaf6a"
+  ],
+  "heads/feat-cache": [
+    "dce03c9b90bd804c1ec781ba525e4e56090afb7d"
+  ],
+  "heads/feat-cursor": [
+    "bee4f50867c3868f28e5754d1faacec4163b1608"
+  ],
+  "heads/feat-graph": [
+    "a6bffe54841472ebed7f1d6747b8922b5a997474"
+  ],
+  "heads/feat-index": [
+    "b951817e6485b38a6b98cb0c60b50454a8e8594c"
+  ],
+  "heads/feat-ingest": [
+    "2f1e36945c9e1de98168f0ea39915e9c29ac341d"
+  ],
+  "heads/feat-leases": [
+    "8707cfb066ce4c63de76fc682cf8b6f1ae4a090f"
+  ],
+  "heads/feat-locale": [
+    "26e1abe8b1ee239167fcb492f0a37623251d6491"
+  ],
+  "heads/feat-planner": [
+    "4129713063a6901e70f72db5568b9eb969cc5fad"
+  ],
+  "heads/feat-retry": [
+    "b15a0cdaf7acde75efe95f2c7dbd5fa6905caad9"
+  ],
+  "heads/feat-routing": [
+    "29e17a5620dc1281520ac7dd79313489c7016ef2"
+  ],
+  "heads/feat-schema": [
+    "1b02282a4d1cdbdd7b6b5a05312d13d4846feb54"
+  ],
+  "heads/feat-search": [
+    "561fea467dab6871b9c83432c6be3153c8288ff5"
+  ],
+  "heads/main": [
+    "e1102bcb4a6e248855377b00e6fc86ea3b04e947"
+  ],
+  "heads/release-ap": [
+    "d9e5166e49ba0b59035725f79f36f4a557ab2f76"
+  ],
+  "heads/release-eu": [
+    "27212f6db1e92f89dfd908363c1be9c1f864338a"
+  ],
+  "heads/release-us": [
+    "a8266b1cd1fdd1fa94ab81336a1349f4df07c5e9"
+  ]
+}

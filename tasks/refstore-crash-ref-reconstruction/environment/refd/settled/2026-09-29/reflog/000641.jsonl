@@ -1,0 +1,64 @@
+{"seq":641,"attempt":"gate-5dad20","ref":"heads/feat-cache","old":"a378a5b28614d5eecb2b9ba16fb3017447f0cf81","new":"a8dd360643c12a583c347d960e9de0ab7a889d1a","push":"772a508bbba1aa6b","note":"cache budget"}
+{"seq":642,"attempt":"gate-f4cb3c","ref":"heads/release-eu","old":"a31f72a9c6f857a47f23aff934cf359700a72164","new":"61fcbfc042dc9f6623b7caa68b42a01a12b5a694","push":"43741254a204116a","note":"配信の順序を保つ"}
+{"seq":643,"attempt":"merge-e24d88","ref":"heads/main","old":"56091eba894528a8a6986e81292878f859ebce97","new":"5357ade9e16386afbe65c5ca871ebf0b98ca5d33","pr":61197}
+{"seq":644,"attempt":"gate-40e880","ref":"heads/feat-retry","old":"8e35ac232f13fcf1606b2c02b66ec1aef589b5d8","new":"99cc2733d17d408c7a4866ada726b13376109e4c","push":"eb6344c97f5bc076","note":"cursor handling"}
+{"seq":645,"attempt":"gate-fd1107","ref":"heads/release-eu","old":"61fcbfc042dc9f6623b7caa68b42a01a12b5a694","new":"a91f632d1ed866407f0d0401cf7fd931cd8aaded","push":"20b68e767ce5b7a3","note":"配信の順序を保つ"}
+{"seq":646,"attempt":"gate-a4e6ed","ref":"heads/release-eu","old":"a91f632d1ed866407f0d0401cf7fd931cd8aaded","new":"85fec3c1c117174673fe20ef8fdd731e93074fd9","push":"e495105eae8e93c6","note":"audit scope"}
+{"seq":647,"attempt":"merge-dc4cd9","ref":"heads/main","old":"5357ade9e16386afbe65c5ca871ebf0b98ca5d33","new":"b53fe17d780df9c21adffff7c0e4bee71748772a","pr":82187}
+{"seq":648,"attempt":"gate-e5346c","ref":"heads/release-ap","old":"be67a541b9a6a43d5a9a07d18570e353167b7a1a","new":"66fcf17b3010ac897cf61bbafa5c0ef78394e042","push":"e33170f9692899d1","note":"cache budget"}
+{"seq":649,"attempt":"merge-6c478c","ref":"heads/main","old":"b53fe17d780df9c21adffff7c0e4bee71748772a","new":"f04dc3c89cf952d0e2bba8c7388faeddd7fe2348","pr":31597}
+{"seq":650,"attempt":"gate-9bf7df","ref":"heads/feat-audit","old":"76ece3a11c30a526d289d8dbb9b82532cdae01f0","new":"11375b8119b9ed50c7d43a9d851e9b471ea07a54","push":"1ba5e3f9cd91aebe","note":"corrige les reprises"}
+{"seq":651,"attempt":"gate-87fe2f","ref":"heads/feat-cache","old":"a8dd360643c12a583c347d960e9de0ab7a889d1a","new":"e37675df107fd889ddcd48b2ce15857660e1d1e2","push":"ba76a429fe2ca1d0","note":"再試行"}
+{"seq":652,"attempt":"merge-310c3a","ref":"heads/main","old":"f04dc3c89cf952d0e2bba8c7388faeddd7fe2348","new":"1475c31dc1b0cce5cdd249c126818aaf39fcf4d2","pr":39747}
+{"seq":653,"attempt":"merge-5efa7a","ref":"heads/main","old":"1475c31dc1b0cce5cdd249c126818aaf39fcf4d2","new":"4692f6b59a2c162f2b10c7cd63c6dee9f98d4633","pr":80555}
+{"seq":654,"attempt":"merge-d8ed24","ref":"heads/main","old":"4692f6b59a2c162f2b10c7cd63c6dee9f98d4633","new":"73af8ad0e3021266fb48a959c5b77eabc2808a15","pr":77043}
+{"seq":655,"attempt":"gate-5158c6","ref":"heads/feat-audit","old":"11375b8119b9ed50c7d43a9d851e9b471ea07a54","new":"a3c77d25c5fd056f02e649620899a6a4e550a996","push":"7544ba6e1668fe74","note":"cache budget"}
+{"seq":656,"attempt":"gate-6c1309","ref":"heads/feat-routing","old":"3ddcc5407e1debf4c717cdb5435de2f75be5a31d","new":"a3374d857bfacc9988e9d2c00dab2dfc48010442","push":"abf6219731d941c6","note":"index rollout"}
+{"seq":657,"attempt":"gate-36db39","ref":"heads/feat-routing","old":"a3374d857bfacc9988e9d2c00dab2dfc48010442","new":"60e26d86184170e7ca13a0d4239e85194e8e9ddd","push":"78721e805a4fa948","note":"audit scope"}
+{"seq":658,"attempt":"gate-123465","ref":"heads/feat-graph","old":"bef1f0302c6683cf32b334608e093b86bd939c20","new":"815732e1823e44533727d068c70fe394ddf982f9","push":"f7318ad864380f85","note":"再試行"}
+{"seq":659,"attempt":"gate-cc6546","ref":"heads/release-eu","old":"85fec3c1c117174673fe20ef8fdd731e93074fd9","new":"ab68f741b717d91cff9fe1ee2c5b92ec1e2312ff","push":"f0c3eeb198c0fef3","note":"再試行"}
+{"seq":660,"attempt":"gate-ff94c6","ref":"heads/feat-graph","old":"815732e1823e44533727d068c70fe394ddf982f9","new":"023105e526efd2aa575978d316892e2f87a84608","push":"3bf574e2237c0012","note":"index rollout"}
+{"seq":661,"attempt":"merge-4e822d","ref":"heads/main","old":"73af8ad0e3021266fb48a959c5b77eabc2808a15","new":"3daf75025c9e5fc78e03368c059c01447748ccdb","pr":71351}
+{"seq":662,"attempt":"gate-231e8b","ref":"heads/feat-audit","old":"a3c77d25c5fd056f02e649620899a6a4e550a996","new":"bc4acbf50ad7c1eb86c60fa0408fbd18583f8f60","push":"250fe3a2f9a32b74","note":"lease metrics"}
+{"seq":663,"attempt":"gate-e86ebc","ref":"heads/release-us","old":"26b537ca182046d1f5d3370a86053aba78a217c2","new":"3f5008a8589e49b4b95425b2dd41d54bc18dc0af","push":"b39363817924d6d6","note":"lease metrics"}
+{"seq":664,"attempt":"merge-509b22","ref":"heads/main","old":"3daf75025c9e5fc78e03368c059c01447748ccdb","new":"63a390addab58cd33ba09dddecac5e3463d580fc","pr":84306}
+{"seq":665,"attempt":"gate-c73cfc","ref":"heads/feat-cache","old":"e37675df107fd889ddcd48b2ce15857660e1d1e2","new":"5f6595923cc134036afa0a18e3138094010dd195","push":"8fd8ce457ee8b315","note":"audit scope"}
+{"seq":666,"attempt":"merge-a219f4","ref":"heads/main","old":"63a390addab58cd33ba09dddecac5e3463d580fc","new":"1d51e40c8c5a55f5fc8fcc3e41b7bb0da469c32d","pr":32724}
+{"seq":667,"attempt":"gate-7cece7","ref":"heads/feat-audit","old":"bc4acbf50ad7c1eb86c60fa0408fbd18583f8f60","new":"2dc95b9723f02e9fafdb1589565d4898b32b4a0b","push":"866b692fc3ebec75","note":"index rollout"}
+{"seq":668,"attempt":"gate-0ecdf5","ref":"heads/release-eu","old":"ab68f741b717d91cff9fe1ee2c5b92ec1e2312ff","new":"8a94b5b31ce03f29c66231d27ad6b2355ba28cde","push":"a41c11f445bccaf8","note":"keep the regional fallback"}
+{"seq":669,"attempt":"gate-a6aa77","ref":"heads/feat-leases","old":"48d6e2ce8da6e2533bd21b2b74033b7fdb07358b","new":"d4f75ea53eee34b65be26a6237bf339178761c33","push":"50372c5fc43f17ba","note":"audit scope"}
+{"seq":670,"attempt":"gate-5de3a7","ref":"heads/feat-leases","old":"d4f75ea53eee34b65be26a6237bf339178761c33","new":"193c9bb6ecb1afc5fd17c007484d222c11979d66","push":"c5862f0b872216bd","note":"cursor handling"}
+{"seq":671,"attempt":"merge-bf40ab","ref":"heads/main","old":"1d51e40c8c5a55f5fc8fcc3e41b7bb0da469c32d","new":"4f7e66c4d780262398727b90e0760ae15feb73ea","pr":24775}
+{"seq":672,"attempt":"merge-2fecbf","ref":"heads/main","old":"4f7e66c4d780262398727b90e0760ae15feb73ea","new":"287ec4a512bf15249c9c272c7c29920146c57e3f","pr":11066}
+{"seq":673,"attempt":"gate-6f9968","ref":"heads/feat-index","old":"fc7f5ebb39dd98824f306899e253b6ac8aae9816","new":"962f7915c794074930b5db46925e52d9ea5c8d74","push":"a1cd690eacb6968e","note":"index rollout"}
+{"seq":674,"attempt":"gate-bed13b","ref":"heads/feat-index","old":"962f7915c794074930b5db46925e52d9ea5c8d74","new":"de2d801134d9ac2f7fcc6ff567d13e4627dbf7c5","push":"5081fdd770ecac72","note":"再試行"}
+{"seq":675,"attempt":"merge-45e06a","ref":"heads/main","old":"287ec4a512bf15249c9c272c7c29920146c57e3f","new":"72e8ad2509f81cc70784a6a2da29ac5f664cd7a2","pr":88211}
+{"seq":676,"attempt":"merge-b82c08","ref":"heads/main","old":"72e8ad2509f81cc70784a6a2da29ac5f664cd7a2","new":"09da169393ccee8cc9612e01fab20ec3f49fd4b2","pr":43266}
+{"seq":677,"attempt":"merge-4cbe62","ref":"heads/main","old":"09da169393ccee8cc9612e01fab20ec3f49fd4b2","new":"2dfa781005dbf651f7670720794be45fffffb3e5","pr":29117}
+{"seq":678,"attempt":"merge-a5b6ef","ref":"heads/main","old":"2dfa781005dbf651f7670720794be45fffffb3e5","new":"5754a3ec3fe1773b7cf7cdc3239f0830f236875b","pr":1080}
+{"seq":679,"attempt":"merge-e05ae7","ref":"heads/main","old":"5754a3ec3fe1773b7cf7cdc3239f0830f236875b","new":"47c3c4971964f184fb784f670904e419d8cd86da","pr":20123}
+{"seq":680,"attempt":"gate-1c39db","ref":"heads/release-ap","old":"66fcf17b3010ac897cf61bbafa5c0ef78394e042","new":"1860c4d0cee88ff65f3876654e2a32b9e228cc1e","push":"d284329a11257e2f","note":"再試行"}
+{"seq":681,"attempt":"gate-de5acc","ref":"heads/feat-retry","old":"99cc2733d17d408c7a4866ada726b13376109e4c","new":"8099fef242f039fec886f618e5d0daef62099c32","push":"63c076a472698b2e","note":"index rollout"}
+{"seq":682,"attempt":"gate-2548a4","ref":"heads/release-us","old":"3f5008a8589e49b4b95425b2dd41d54bc18dc0af","new":"7254e774dcb1d0ff8ce307d5355b96fa08cd4c38","push":"72fa7cba63d6a362","note":"ready for review"}
+{"seq":683,"attempt":"merge-87d212","ref":"heads/main","old":"47c3c4971964f184fb784f670904e419d8cd86da","new":"4e8467a1c07ef78cfee1fb5a46439095956915d6","pr":63339}
+{"seq":684,"attempt":"gate-2950cd","ref":"heads/feat-cache","old":"5f6595923cc134036afa0a18e3138094010dd195","new":"16706becac9792eb8c36ca0b439d335d21014928","push":"16a375bcfa61c193","note":"ready for review"}
+{"seq":685,"attempt":"merge-4892e0","ref":"heads/main","old":"4e8467a1c07ef78cfee1fb5a46439095956915d6","new":"533245a564e4e559816e125d0d2aa8508a341549","pr":22673}
+{"seq":686,"attempt":"merge-0adccb","ref":"heads/main","old":"533245a564e4e559816e125d0d2aa8508a341549","new":"1f4cf1897ba5bd65a39346141d8024c57477ec43","pr":40887}
+{"seq":687,"attempt":"merge-4f1cf6","ref":"heads/main","old":"1f4cf1897ba5bd65a39346141d8024c57477ec43","new":"77594d24b8d5e5eac27789356a47f903a0e11d29","pr":31623}
+{"seq":688,"attempt":"gate-ab32c7","ref":"heads/feat-index","old":"de2d801134d9ac2f7fcc6ff567d13e4627dbf7c5","new":"67beb8a22e792e1851a60f358504124f603761c3","push":"30048b3fe00eacd8","note":"cache budget"}
+{"seq":689,"attempt":"gate-2aedac","ref":"heads/feat-locale","old":"dc63ea35d26729c37f11f031b8a352cf5627bdc7","new":"c0506139324dedaf573afebd58d5f4bab29f41cc","push":"f8f60ddae9422aaf","note":"keep the regional fallback"}
+{"seq":690,"attempt":"gate-3b8ef9","ref":"heads/feat-routing","old":"60e26d86184170e7ca13a0d4239e85194e8e9ddd","new":"447823a4daa981778a025609367a16d7eedc1364","push":"ec1f07f8e996138a","note":"配信の順序を保つ"}
+{"seq":691,"attempt":"gate-7143d6","ref":"heads/feat-search","old":"6c718b63ea906ebf7e207e6b3369a4d0a243d8bb","new":"0c3898c94f7c1241be4d9d9cec42dab400b8f30e","push":"a16fca06f265f4b8","note":"cache budget"}
+{"seq":692,"attempt":"gate-0caf04","ref":"heads/feat-index","old":"67beb8a22e792e1851a60f358504124f603761c3","new":"7564897e06238eac41e3c9fbc03ccfb3ed9ceedc","push":"e6d7296c2e4d85e5","note":"index rollout"}
+{"seq":693,"attempt":"gate-8ea309","ref":"heads/feat-planner","old":"f9e100f876999b75e3539fa0dd8e068331828654","new":"c27c9bcebc98d6c1beeca22fbce4d95ab0a19820","push":"2fda52dcacf00b35","note":"cursor handling"}
+{"seq":694,"attempt":"merge-85031a","ref":"heads/main","old":"77594d24b8d5e5eac27789356a47f903a0e11d29","new":"d35638431b2ef8e131f9cc0596371cf72d0c5a7c","pr":36563}
+{"seq":695,"attempt":"gate-e22f8e","ref":"heads/feat-retry","old":"8099fef242f039fec886f618e5d0daef62099c32","new":"3cbb0fb156e3cf86b55f97d919dfd744f55c0903","push":"d910523532017a62","note":"keep the regional fallback"}
+{"seq":696,"attempt":"merge-bc8f4a","ref":"heads/main","old":"d35638431b2ef8e131f9cc0596371cf72d0c5a7c","new":"49f543355f68e8dc086637af1d37b26af243c57f","pr":22310}
+{"seq":697,"attempt":"merge-a411af","ref":"heads/main","old":"49f543355f68e8dc086637af1d37b26af243c57f","new":"7ba387b2cb8680e8589deafb316ac47403775209","pr":37959}
+{"seq":698,"attempt":"gate-b66670","ref":"heads/release-us","old":"7254e774dcb1d0ff8ce307d5355b96fa08cd4c38","new":"e632cd9dd236fac74397aa691031f48d322f8e82","push":"2880dc8e3cf06523","note":"keep the regional fallback"}
+{"seq":699,"attempt":"gate-ab2279","ref":"heads/feat-leases","old":"193c9bb6ecb1afc5fd17c007484d222c11979d66","new":"2ebf481bb2321461437ae4e7b6f3382308c1633a","push":"f4513da5ac781e45","note":"corrige les reprises"}
+{"seq":700,"attempt":"gate-24f99f","ref":"heads/feat-locale","old":"c0506139324dedaf573afebd58d5f4bab29f41cc","new":"377dbf2a85e6201263fc5e7c5b5f64fb68c85471","push":"0daf99bbfbac9aed","note":"cursor handling"}
+{"seq":701,"attempt":"gate-d5a678","ref":"heads/release-ap","old":"1860c4d0cee88ff65f3876654e2a32b9e228cc1e","new":"0da611d64071bc136f76e0f2ef37c956b005a0b2","push":"dc2fe6e281a5c06d","note":"lease metrics"}
+{"seq":702,"attempt":"gate-fe674c","ref":"heads/release-us","old":"e632cd9dd236fac74397aa691031f48d322f8e82","new":"9d61e618e85e13259412ffba1fc08e2be2a2a766","push":"34446bec987f821c","note":"配信の順序を保つ"}
+{"seq":703,"attempt":"merge-dc50ae","ref":"heads/main","old":"7ba387b2cb8680e8589deafb316ac47403775209","new":"9a7aaefe5503c691d10ab20b8b1f4fff621f0d0b","pr":57913}
+{"seq":704,"attempt":"merge-0f8041","ref":"heads/main","old":"9a7aaefe5503c691d10ab20b8b1f4fff621f0d0b","new":"3c9e69a747f89b3bbc61aa62ce6d1a44e8453e70","pr":52675}

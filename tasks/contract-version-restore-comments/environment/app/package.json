@@ -1,0 +1,62 @@
+{
+  "name": "contract-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "db:start": "bash scripts/postgres.sh",
+    "db:shell": "PGPASSWORD=contracts-local psql -h 127.0.0.1 -U contracts -d contracts",
+    "dev": "vite --host 0.0.0.0",
+    "test": "vitest run",
+    "test:browser": "playwright test",
+    "relay:example": "tsx tools/relay/example.ts"
+  },
+  "dependencies": {
+    "@tiptap/core": "2.11.5",
+    "@tiptap/pm": "2.11.5",
+    "@tiptap/extension-blockquote": "2.11.5",
+    "@tiptap/extension-bold": "2.11.5",
+    "@tiptap/extension-bullet-list": "2.11.5",
+    "@tiptap/extension-code": "2.11.5",
+    "@tiptap/extension-code-block": "2.11.5",
+    "@tiptap/extension-document": "2.11.5",
+    "@tiptap/extension-dropcursor": "2.11.5",
+    "@tiptap/extension-gapcursor": "2.11.5",
+    "@tiptap/extension-hard-break": "2.11.5",
+    "@tiptap/extension-heading": "2.11.5",
+    "@tiptap/extension-history": "2.11.5",
+    "@tiptap/extension-horizontal-rule": "2.11.5",
+    "@tiptap/extension-italic": "2.11.5",
+    "@tiptap/extension-list-item": "2.11.5",
+    "@tiptap/extension-ordered-list": "2.11.5",
+    "@tiptap/extension-paragraph": "2.11.5",
+    "@tiptap/extension-strike": "2.11.5",
+    "@tiptap/extension-text": "2.11.5",
+    "@tiptap/extension-text-style": "2.11.5",
+    "@tiptap/starter-kit": "2.11.5",
+    "@tiptap/extension-collaboration": "2.11.5",
+    "@hocuspocus/server": "2.15.2",
+    "@hocuspocus/provider": "2.15.2",
+    "@hocuspocus/extension-database": "2.15.2",
+    "yjs": "13.6.27",
+    "y-prosemirror": "1.2.15",
+    "pg": "8.13.3",
+    "ws": "8.18.1",
+    "typescript": "5.8.2",
+    "tsx": "4.19.3",
+    "vitest": "2.1.9",
+    "vite": "6.2.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.51.1",
+    "@types/node": "22.13.10",
+    "@types/pg": "8.11.11",
+    "@types/ws": "8.5.14"
+  },
+  "overrides": {
+    "yjs": "13.6.27",
+    "@tiptap/core": "2.11.5",
+    "@tiptap/pm": "2.11.5"
+  }
+}

@@ -1,0 +1,11 @@
+[profile.default]
+src = "src"
+libs = ["lib"]
+solc_version = "0.8.24"
+via_ir = true
+evm_version = "paris"
+optimizer = true
+optimizer_runs = 200
+extra_output = ["storageLayout"]
+offline = true
+remappings = ["@openzeppelin-4/contracts/=lib/openzeppelin-contracts-4.9.6/", "@openzeppelin-4/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable-4.9.6/", "@openzeppelin-5/contracts/=lib/openzeppelin-contracts-5.4.0/", "@openzeppelin-5/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable-5.4.0/"]

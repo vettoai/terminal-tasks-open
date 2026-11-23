@@ -1,0 +1,10 @@
+{
+  "2026102900": {"region": "ap", "tail": "gate", "window": 64},
+  "2026100700": {"region": "eu", "tail": null, "window": 64},
+  "2026102909": {"region": "eu", "tail": null, "window": 64},
+  "2026102910": {"region": "ap", "tail": null, "window": 64},
+  "2026102912": {"region": "eu", "tail": null, "window": 64},
+  "2026102913": {"region": "ap", "tail": "gate", "window": 64},
+  "2026102916": {"region": "ap", "tail": "deploy", "window": 64},
+  "2026102918": {"region": "eu", "tail": "merge", "window": 64}
+}
